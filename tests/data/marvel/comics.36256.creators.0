@@ -1,0 +1,599 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 44,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/5633/comics",
+                    "items": [
+                        {
+                            "name": "Amazing Spider-Man: Ends of the Earth (2012) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42760"
+                        },
+                        {
+                            "name": "Ender in Exile (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/25057"
+                        },
+                        {
+                            "name": "Ender in Exile (2010) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/25058"
+                        },
+                        {
+                            "name": "Ender's Shadow: Battle School (2008) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22970"
+                        },
+                        {
+                            "name": "Ender's Shadow: Battle School (2008) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22974"
+                        },
+                        {
+                            "name": "Ender's Shadow: Battle School (2008) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23640"
+                        },
+                        {
+                            "name": "Ender's Shadow: Battle School (2008) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23991"
+                        },
+                        {
+                            "name": "Ender's Shadow: Battle School (2008) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24192"
+                        },
+                        {
+                            "name": "Enders Shadow: Command School (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29143"
+                        },
+                        {
+                            "name": "Enders Shadow: Command School (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/25085"
+                        },
+                        {
+                            "name": "Enders Shadow: Command School (2009) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/25086"
+                        },
+                        {
+                            "name": "Enders Shadow: Command School (2009) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/25087"
+                        },
+                        {
+                            "name": "Enders Shadow: Command School (2009) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/25088"
+                        },
+                        {
+                            "name": "Enders Shadow: Command School (2009) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/25089"
+                        },
+                        {
+                            "name": "Enders Shadow: Command School (2009) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30406"
+                        },
+                        {
+                            "name": "Invincible Iron Man (2008) #503 (THOR HOLLYWOOD VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38707"
+                        },
+                        {
+                            "name": "Loki (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36591"
+                        },
+                        {
+                            "name": "Loki (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33843"
+                        },
+                        {
+                            "name": "Loki (2010) #1 (FOREMAN VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37205"
+                        },
+                        {
+                            "name": "Loki (2010) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33841"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/5633/events",
+                    "items": [
+                        {
+                            "name": "Spider-Island",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/305"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "firstName": "Sebastian",
+                "fullName": "Sebastian Fiumara",
+                "id": 5633,
+                "lastName": "Fiumara",
+                "middleName": "",
+                "modified": "2013-02-19T11:23:38-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5633",
+                "series": {
+                    "available": 19,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/5633/series",
+                    "items": [
+                        {
+                            "name": "Amazing Spider-Man: Ends of the Earth (2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16312"
+                        },
+                        {
+                            "name": "Ender in Exile (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7741"
+                        },
+                        {
+                            "name": "Ender's Shadow: Battle School (2008 - 2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6381"
+                        },
+                        {
+                            "name": "Enders Shadow: Command School (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9437"
+                        },
+                        {
+                            "name": "Enders Shadow: Command School (2009 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7743"
+                        },
+                        {
+                            "name": "Invincible Iron Man (2008 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/4889"
+                        },
+                        {
+                            "name": "Loki (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10830"
+                        },
+                        {
+                            "name": "Loki (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12981"
+                        },
+                        {
+                            "name": "Marvel Illustrated: Picture of Dorian Gray (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3045"
+                        },
+                        {
+                            "name": "Marvel Illustrated: Picture of Dorian Gray Premiere (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/5393"
+                        },
+                        {
+                            "name": "Orson Scott Card's Ender in Exile (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12063"
+                        },
+                        {
+                            "name": "Orson Scott Card's Ender in Exile (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10168"
+                        },
+                        {
+                            "name": "Spider-Island: Deadly Hands of Kung Fu (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13879"
+                        },
+                        {
+                            "name": "Spider-Man: Spider-Island Companion (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15183"
+                        },
+                        {
+                            "name": "Supreme Power (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13269"
+                        },
+                        {
+                            "name": "SUPREME POWER: GODS AND SOLDIERS TPB (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13549"
+                        },
+                        {
+                            "name": "X-Factor (2005 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1035"
+                        },
+                        {
+                            "name": "X-Factor Vol. 11: Happenings in Vegas (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10581"
+                        },
+                        {
+                            "name": "X-Factor: Happening in Vegas (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14566"
+                        }
+                    ],
+                    "returned": 19
+                },
+                "stories": {
+                    "available": 58,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/5633/stories",
+                    "items": [
+                        {
+                            "name": "6XLS 1 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/36165",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "6XLS 2 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/36456",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "6XLS 3 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/44338",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "6XLS 4 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/44693",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "6XLS 5 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/45590",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5XLS 1 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50986",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5XLS 2 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50994",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5XLS 3 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/52347",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5XLS 4 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/53212",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5XLS 5 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/53611",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #55348",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/55348",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #55350",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/55350",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #55405",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/55405",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #55407",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/55407",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #55409",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/55409",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #55411",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/55411",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #55413",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/55413",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #63478",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/63478",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #64148",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64148",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #69639",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/69639",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bb3c814b812d"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/5633/sebastian_fiumara?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            },
+            {
+                "comics": {
+                    "available": 30,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10083/comics",
+                    "items": [
+                        {
+                            "name": "Ender in Exile (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/25057"
+                        },
+                        {
+                            "name": "Ender in Exile (2010) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/25058"
+                        },
+                        {
+                            "name": "Ender's Game: Mazer in Prison Special (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30404"
+                        },
+                        {
+                            "name": "Ender's Game: The League War (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30405"
+                        },
+                        {
+                            "name": "Ender's Game: War of Gifts (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/31804"
+                        },
+                        {
+                            "name": "Formic Wars: Burning Earth (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40974"
+                        },
+                        {
+                            "name": "Formic Wars: Burning Earth (2011) #1 (Hitch Wraparound Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39013"
+                        },
+                        {
+                            "name": "Formic Wars: Burning Earth (2011) #1 (TBD ARTIST VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37100"
+                        },
+                        {
+                            "name": "Formic Wars: Burning Earth (2011) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37125"
+                        },
+                        {
+                            "name": "Formic Wars: Burning Earth (2011) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37124"
+                        },
+                        {
+                            "name": "Formic Wars: Burning Earth (2011) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37123"
+                        },
+                        {
+                            "name": "Formic Wars: Burning Earth (2011) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37127"
+                        },
+                        {
+                            "name": "Formic Wars: Burning Earth (2011) #7",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37122"
+                        },
+                        {
+                            "name": "Formic Wars: First Series Vol. 1 (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/31846"
+                        },
+                        {
+                            "name": "Formic Wars: Silent Strike (2011) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37120"
+                        },
+                        {
+                            "name": "Formic Wars: Silent Strike (2011) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37118"
+                        },
+                        {
+                            "name": "Formic Wars: Silent Strike (2011) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37119"
+                        },
+                        {
+                            "name": "Formic Wars: Silent Strike (2011) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37121"
+                        },
+                        {
+                            "name": "Orson Scott Card's Ender in Exile (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/31801"
+                        },
+                        {
+                            "name": "Orson Scott Card's Ender in Exile (2010) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36256"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10083/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "firstName": "Aaron",
+                "fullName": "Aaron Johnston",
+                "id": 10083,
+                "lastName": "Johnston",
+                "middleName": "",
+                "modified": "2013-02-27T15:54:48-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10083",
+                "series": {
+                    "available": 12,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10083/series",
+                    "items": [
+                        {
+                            "name": "Ender in Exile (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7741"
+                        },
+                        {
+                            "name": "Ender's Game: Mazer in Prison Special (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9241"
+                        },
+                        {
+                            "name": "Ender's Game: The League War (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9710"
+                        },
+                        {
+                            "name": "Ender's Game: War of Gifts (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9433"
+                        },
+                        {
+                            "name": "Formic Wars: Burning Earth (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15184"
+                        },
+                        {
+                            "name": "Formic Wars: Burning Earth (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7802"
+                        },
+                        {
+                            "name": "Formic Wars: First Series Vol. 1 (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10206"
+                        },
+                        {
+                            "name": "Formic Wars: Silent Strike (2011 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7805"
+                        },
+                        {
+                            "name": "Orson Scott Card's Ender in Exile (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10168"
+                        },
+                        {
+                            "name": "Orson Scott Card's Ender in Exile (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12063"
+                        },
+                        {
+                            "name": "Orson Scott Card's Speaker for the Dead (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13302"
+                        },
+                        {
+                            "name": "Orson Scott Cards's Ender's Speaker for the Dead Premiere HC (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10171"
+                        }
+                    ],
+                    "returned": 12
+                },
+                "stories": {
+                    "available": 39,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10083/stories",
+                    "items": [
+                        {
+                            "name": "Interior #55349",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/55349",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #55351",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/55351",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #55668 ",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/55668",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #69635",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/69635",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #69637",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/69637",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #72189",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/72189",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #72196",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/72196",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #72203",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/72203",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #72270",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/72270",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #72288",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/72288",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #76938",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/76938",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #76976",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/76976",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #76978",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/76978",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #76980",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/76980",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #76982",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/76982",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #76984",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/76984",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #76990",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/76990",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #80266",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80266",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #80268",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80268",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #80270",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80270",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bfff6b512b4c"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/10083/aaron_johnston?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 3
+    },
+    "etag": "c3424b841584a3db88ff26fe6cf57e4997fa8dd8",
+    "status": "Ok"
+}

@@ -1,0 +1,134 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75120/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75120/comics",
+                    "items": [
+                        {
+                            "name": "Marvelman Family's Finest (2010) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33429"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75120/creators",
+                    "items": [
+                        {
+                            "name": "Mike Perkins",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/708",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75120/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 75120,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Marvelman Family's Finest (2010) #5",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/33429"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/75120",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75120/series",
+                    "items": [
+                        {
+                            "name": "Marvelman Family's Finest (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9920"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #75120",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75122/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75122/comics",
+                    "items": [
+                        {
+                            "name": "Marvelman Family's Finest (2010) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33429"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75122/creators",
+                    "items": [
+                        {
+                            "name": "Mick Anglo",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11002",
+                            "role": "penciler"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75122/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 75122,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Marvelman Family's Finest (2010) #5",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/33429"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/75122",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75122/series",
+                    "items": [
+                        {
+                            "name": "Marvelman Family's Finest (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9920"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #75122",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "5b6c843879b998b350f1c7317092a5d80816df1c",
+    "status": "Ok"
+}

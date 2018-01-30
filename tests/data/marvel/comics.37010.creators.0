@@ -1,0 +1,364 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 1,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 218,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/436/comics",
+                    "items": [
+                        {
+                            "name": "Age of Ultron (2013) #5 (Granov Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47012"
+                        },
+                        {
+                            "name": "Hunger (2013) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48172"
+                        },
+                        {
+                            "name": "Hunger (2013) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48174"
+                        },
+                        {
+                            "name": "Agents of Atlas (2009) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24015"
+                        },
+                        {
+                            "name": "Agents of Atlas (2009) #11",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24355"
+                        },
+                        {
+                            "name": "All-New Doop (2014) #1 (Granov Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50654"
+                        },
+                        {
+                            "name": "All-New X-Men (2012) #16 (Granov Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48964"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #552 (ADI GRANOV VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20823"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #568",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21704"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #595 (GRANOV VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24136"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #602",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24409"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #608",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24415"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #609",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24416"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #610",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24417"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #612 (GRANOV 50/50 COVER)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29555"
+                        },
+                        {
+                            "name": "Assault on New Olympus Prologue One-Shot (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29277"
+                        },
+                        {
+                            "name": "Captain America: Living Legend (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36385"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 9 (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40952"
+                        },
+                        {
+                            "name": "Astonishing X-Men: Exiled Premiere HC  (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40951"
+                        },
+                        {
+                            "name": "Astonishing X-Men: Ghost Boxes (2008) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22381"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 10,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/436/events",
+                    "items": [
+                        {
+                            "name": "Age of Ultron",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/314"
+                        },
+                        {
+                            "name": "Annihilation: Conquest",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/293"
+                        },
+                        {
+                            "name": "Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/238"
+                        },
+                        {
+                            "name": "Dark Reign",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/318"
+                        },
+                        {
+                            "name": "Fear Itself",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/302"
+                        },
+                        {
+                            "name": "Initiative",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/255"
+                        },
+                        {
+                            "name": "Secret Invasion",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/269"
+                        },
+                        {
+                            "name": "Siege",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/273"
+                        },
+                        {
+                            "name": "Star Wars",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/327"
+                        },
+                        {
+                            "name": "X-Men: Second Coming",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/279"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "firstName": "Adi",
+                "fullName": "Adi Granov",
+                "id": 436,
+                "lastName": "Granov",
+                "middleName": "",
+                "modified": "2016-09-14T15:25:54-0400",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/436",
+                "series": {
+                    "available": 119,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/436/series",
+                    "items": [
+                        {
+                            "name": "Age of Ultron (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17318"
+                        },
+                        {
+                            "name": "Agents of Atlas (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6807"
+                        },
+                        {
+                            "name": "All-New Doop (2014 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18794"
+                        },
+                        {
+                            "name": "All-New X-Men (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16449"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/454"
+                        },
+                        {
+                            "name": "Assault on New Olympus Prologue One-Shot (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9087"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 9 (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15167"
+                        },
+                        {
+                            "name": "Astonishing X-Men: Exiled Premiere HC  (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15166"
+                        },
+                        {
+                            "name": "Astonishing X-Men: Ghost Boxes (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/5998"
+                        },
+                        {
+                            "name": "Avengers Vs. X-Men (2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15305"
+                        },
+                        {
+                            "name": "Avengers/Invaders (2008 - 2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/4864"
+                        },
+                        {
+                            "name": "Avenging Spider-Man (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14246"
+                        },
+                        {
+                            "name": "Black Widow: Deadly Origin (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10068"
+                        },
+                        {
+                            "name": "Black Widow: Deadly Origin (2009 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9000"
+                        },
+                        {
+                            "name": "Cable (2008 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/4002"
+                        },
+                        {
+                            "name": "Captain America: Hail Hydra (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12115"
+                        },
+                        {
+                            "name": "Captain America: Hail Hydra (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12965"
+                        },
+                        {
+                            "name": "Captain America: Living Legend (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12257"
+                        },
+                        {
+                            "name": "Captain Marvel (2012 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16280"
+                        },
+                        {
+                            "name": "Civil War (2015 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19350"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 302,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/436/stories",
+                    "items": [
+                        {
+                            "name": "Cover #696",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/696",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of ?",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/960",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 6 - Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/962",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 6 - Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/964",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 6 - Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/966",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 of 6 - Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/968",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 6 - Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/970",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "6 of 6 - Civil War (45th Anniversary)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/972",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #981",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/981",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #983",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/983",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #985",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/985",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #991",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/991",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #993",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/993",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #995",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/995",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #1701",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1701",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #1703",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1703",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #1747",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1747",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #1749",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1749",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #1782",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1782",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #1972",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1972",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/4bc5d484bfeef"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/436/adi_granov?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 1
+    },
+    "etag": "fec030bf71c6029afca09cda133bba39d91fdbe8",
+    "status": "Ok"
+}

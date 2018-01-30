@@ -1,0 +1,122 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82052/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82052/comics",
+                    "items": [
+                        {
+                            "name": "Avengers: The Children's Crusade (2010) #2 (CHAREST VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37009"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82052/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82052/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82052,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Avengers: The Children's Crusade (2010) #2 (CHAREST VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37009"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82052",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82052/series",
+                    "items": [
+                        {
+                            "name": "Avengers: The Children's Crusade (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9864"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #82052",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82053/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82053/comics",
+                    "items": [
+                        {
+                            "name": "Avengers: The Children's Crusade (2010) #2 (CHAREST VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37009"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82053/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82053/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82053,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Avengers: The Children's Crusade (2010) #2 (CHAREST VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37009"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82053",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82053/series",
+                    "items": [
+                        {
+                            "name": "Avengers: The Children's Crusade (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9864"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #82053",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "cf8e884604f632f358d1a62a8580e86408bb4f3b",
+    "status": "Ok"
+}

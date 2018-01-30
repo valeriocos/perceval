@@ -1,0 +1,144 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/72908/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/72908/comics",
+                    "items": [
+                        {
+                            "name": "Deadpool Max (2010) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/32228"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/72908/creators",
+                    "items": [
+                        {
+                            "name": "Kyle Baker",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/300",
+                            "role": "colorist"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/72908/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 72908,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Deadpool Max (2010) #2",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/32228"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/72908",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/72908/series",
+                    "items": [
+                        {
+                            "name": "Deadpool Max (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9887"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #72908",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/72910/characters",
+                    "items": [
+                        {
+                            "name": "Deadpool",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/72910/comics",
+                    "items": [
+                        {
+                            "name": "Deadpool Max (2010) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/32228"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/72910/creators",
+                    "items": [
+                        {
+                            "name": "Kyle Baker",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/300",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "David Lapham",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1227",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/72910/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 72910,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Deadpool Max (2010) #2",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/32228"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/72910",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/72910/series",
+                    "items": [
+                        {
+                            "name": "Deadpool Max (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9887"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #72910",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "4cefe8113b971528462222f84fe6ff2fe91d64c3",
+    "status": "Ok"
+}

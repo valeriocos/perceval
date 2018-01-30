@@ -1,0 +1,134 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/73009/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/73009/comics",
+                    "items": [
+                        {
+                            "name": "S.H.I.E.L.D. (2010) #2 (2ND PRINTING VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/32288"
+                        },
+                        {
+                            "name": "S.H.I.E.L.D. (2010) #3 (HISTORICAL VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/32290"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/73009/creators",
+                    "items": [
+                        {
+                            "name": "Dustin Weaver",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8404",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/73009/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 73009,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": null,
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/73009",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/73009/series",
+                    "items": [
+                        {
+                            "name": "S.H.I.E.L.D. (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8821"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #73009",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82728/characters",
+                    "items": [
+                        {
+                            "name": "S.H.I.E.L.D.",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009552"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82728/comics",
+                    "items": [
+                        {
+                            "name": "S.H.I.E.L.D. (2010) #3 (HISTORICAL VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/32290"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82728/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82728/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82728,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "S.H.I.E.L.D. (2010) #3 (HISTORICAL VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/32290"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82728",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82728/series",
+                    "items": [
+                        {
+                            "name": "S.H.I.E.L.D. (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8821"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #82728",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "cb132c020f2836ad9f4dc1deba7ced12156c4fe2",
+    "status": "Ok"
+}

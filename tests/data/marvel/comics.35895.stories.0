@@ -1,0 +1,139 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79472/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79472/comics",
+                    "items": [
+                        {
+                            "name": "Avengers Academy (2010) #6 (MCKONE VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35895"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79472/creators",
+                    "items": [
+                        {
+                            "name": "Mike McKone",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9137",
+                            "role": "penciler"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79472/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 79472,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Avengers Academy (2010) #6 (MCKONE VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/35895"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/79472",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79472/series",
+                    "items": [
+                        {
+                            "name": "Avengers Academy (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9086"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #79472",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79473/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79473/comics",
+                    "items": [
+                        {
+                            "name": "Avengers Academy (2010) #6 (MCKONE VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35895"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79473/creators",
+                    "items": [
+                        {
+                            "name": "Christos Gage",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Mike McKone",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9137",
+                            "role": "penciler"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79473/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 79473,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Avengers Academy (2010) #6 (MCKONE VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/35895"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/79473",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79473/series",
+                    "items": [
+                        {
+                            "name": "Avengers Academy (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9086"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #79473",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "8eb87a3070a2588eea5b9dbe5fda22a5280a0b1f",
+    "status": "Ok"
+}

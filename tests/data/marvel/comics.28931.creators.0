@@ -1,0 +1,169 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 1,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10053/comics",
+                    "items": [
+                        {
+                            "name": "Astonishing X-Men: Ghost Box (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24522"
+                        },
+                        {
+                            "name": "Civil War: Fantastic Four (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33118"
+                        },
+                        {
+                            "name": "Civil War: Front Line (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/34243"
+                        },
+                        {
+                            "name": "The Torch (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28931"
+                        },
+                        {
+                            "name": "Ultimatum: Spider-Man (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/26942"
+                        },
+                        {
+                            "name": "X-Men Vs. Avengers (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/27328"
+                        },
+                        {
+                            "name": "X-Men Vs. Fantastic Four (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/27331"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "events": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10053/events",
+                    "items": [
+                        {
+                            "name": "Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/238"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "firstName": "Michael",
+                "fullName": "Michael Chatham",
+                "id": 10053,
+                "lastName": "Chatham",
+                "middleName": "",
+                "modified": "2013-01-30T20:07:42-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10053",
+                "series": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10053/series",
+                    "items": [
+                        {
+                            "name": "Astonishing X-Men: Ghost Box (2009 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7580"
+                        },
+                        {
+                            "name": "Civil War: Fantastic Four (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10102"
+                        },
+                        {
+                            "name": "Civil War: Front Line (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/11636"
+                        },
+                        {
+                            "name": "The Torch (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10482"
+                        },
+                        {
+                            "name": "Ultimatum: Spider-Man (2009 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8547"
+                        },
+                        {
+                            "name": "X-Men Vs. Avengers (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8697"
+                        },
+                        {
+                            "name": "X-Men Vs. Fantastic Four (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8698"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "stories": {
+                    "available": 9,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10053/stories",
+                    "items": [
+                        {
+                            "name": "Interior #54070",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54070",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #59196",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/59196",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #59973",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/59973",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #59979",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/59979",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #63058",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/63058",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #63064",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/63064",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #63912",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/63912",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #74560",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/74560",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #76394",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/76394",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 9
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/10053/michael_chatham?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 1
+    },
+    "etag": "30bd7039fc80f56c1d82f942af94b7ea8fa3aa02",
+    "status": "Ok"
+}

@@ -1,0 +1,156 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79760/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79760/comics",
+                    "items": [
+                        {
+                            "name": "Shadowland: Bullseye (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33584"
+                        },
+                        {
+                            "name": "Shadowland: Bullseye (2010) #1 (2ND PRINTING VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37628"
+                        },
+                        {
+                            "name": "Shadowland: Street Heroes (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36556"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79760/creators",
+                    "items": [
+                        {
+                            "name": "Sean Chen",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/174",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "John Layman",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/796",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "description": "",
+                "events": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79760/events",
+                    "items": [
+                        {
+                            "name": "Shadowland",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/59"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "id": 79760,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "originalIssue": {
+                    "name": "Shadowland: Bullseye (2010) #1",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/33584"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/79760",
+                "series": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79760/series",
+                    "items": [
+                        {
+                            "name": "Shadowland: Bullseye (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/11285"
+                        },
+                        {
+                            "name": "Shadowland: Street Heroes (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12950"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "thumbnail": null,
+                "title": "Interior #79760",
+                "type": "story"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/83180/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/83180/comics",
+                    "items": [
+                        {
+                            "name": "Shadowland: Bullseye (2010) #1 (2ND PRINTING VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37628"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/83180/creators",
+                    "items": [
+                        {
+                            "name": "Sean Chen",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/174",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/83180/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 83180,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Shadowland: Bullseye (2010) #1 (2ND PRINTING VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37628"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/83180",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/83180/series",
+                    "items": [
+                        {
+                            "name": "Shadowland: Bullseye (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/11285"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #83180",
+                "type": "cover"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "bf700a333d7d95d63064c3cb146d105ff090e1cb",
+    "status": "Ok"
+}

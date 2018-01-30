@@ -1,0 +1,239 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 24,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/33429/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/33429/creators",
+                    "items": [
+                        {
+                            "name": "Mick Anglo",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11002",
+                            "role": "penciler"
+                        },
+                        {
+                            "name": "Mike Perkins",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/708",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "dates": [
+                    {
+                        "date": "2010-11-03T00:00:00-0400",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "2010-10-22T00:00:00-0400",
+                        "type": "focDate"
+                    }
+                ],
+                "description": "With one word - KIMOTA! - newspaper copy boy Micky Moran becomes the invincible, indestructible Marvelman! In 1954, MARVELMAN #25 began the saga of one of the most storied characters ever to emerge from the British comics market. Now, thrill to the adventures of Marvelman, Young Marvelman and Kid Marvelman as they take on enemy agents, mad scientists and more in this \"best of\" series! All Ages ...$3.99",
+                "diamondCode": "SEP100557",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/33429/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 33429,
+                "images": [
+                    {
+                        "extension": "jpg",
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/4c6470aaaa5ab"
+                    }
+                ],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 5,
+                "modified": "2010-08-12T01:31:10-0400",
+                "pageCount": 40,
+                "prices": [
+                    {
+                        "price": 3.99,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/33429",
+                "series": {
+                    "name": "Marvelman Family's Finest (2010)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/9920"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/33429/stories",
+                    "items": [
+                        {
+                            "name": "Cover #75120",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/75120",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #75122",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/75122",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [
+                    {
+                        "language": "en-us",
+                        "text": "With one word - KIMOTA! - newspaper copy boy Micky Moran becomes the invincible, indestructible Marvelman! In 1954, MARVELMAN #25 began the saga of one of the most storied characters ever to emerge from the British comics market. Now, thrill to the adventures of Marvelman, Young Marvelman and Kid Marvelman as they take on enemy agents, mad scientists and more in this \"best of\" series! All Ages ...$3.99",
+                        "type": "issue_solicit_text"
+                    }
+                ],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/4c6470aaaa5ab"
+                },
+                "title": "Marvelman Family's Finest (2010) #5",
+                "upc": "5960607298-00511",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/33429/marvelman_familys_finest_2010_5?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/32228/characters",
+                    "items": [
+                        {
+                            "name": "Deadpool",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/32228/creators",
+                    "items": [
+                        {
+                            "name": "Kyle Baker",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/300",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "David Lapham",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1227",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "dates": [
+                    {
+                        "date": "2010-11-17T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "2010-10-28T00:00:00-0400",
+                        "type": "focDate"
+                    }
+                ],
+                "description": "'AS INEZ DOES (A LOVE STORY)' Almost as famous as Deadpool's capacity to kill is his capacity for love.  Yes, underneath all the scar tissue, lies a heart of mush.  Enter Dr. Inez, Clinical Psychologist, informing Deadpool of a secret ' a secret so big it could destroy the government's top agent's ability to kill and maim: He is 100% certifiable and must be immediately committed!  But the Sunshine Rest Home is more than just a place full medicated people ' it's a house of horror, and the good Dr. Inez is chest deep in an insidious plot to deprive men of their sanity.  Can Deadpool discover these deceptions before therapy and love turn him soft?  Can his handler, 'Hydra' Bob, save Deadpool in time for him to save the world from those that kill and need killing?  And who are Woodman and Stanley? \r\nExplicit Content '$3.99",
+                "diamondCode": "SEP100674",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/32228/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 32228,
+                "images": [
+                    {
+                        "extension": "jpg",
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4c646c6612c37"
+                    }
+                ],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 2,
+                "modified": "2010-08-12T01:31:27-0400",
+                "pageCount": 32,
+                "prices": [
+                    {
+                        "price": 3.99,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/32228",
+                "series": {
+                    "name": "Deadpool Max (2010 - 2011)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/9887"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/32228/stories",
+                    "items": [
+                        {
+                            "name": "Cover #72908",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/72908",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #72910",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/72910",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [
+                    {
+                        "language": "en-us",
+                        "text": "'AS INEZ DOES (A LOVE STORY)' Almost as famous as Deadpool's capacity to kill is his capacity for love.  Yes, underneath all the scar tissue, lies a heart of mush.  Enter Dr. Inez, Clinical Psychologist, informing Deadpool of a secret ' a secret so big it could destroy the government's top agent's ability to kill and maim: He is 100% certifiable and must be immediately committed!  But the Sunshine Rest Home is more than just a place full medicated people ' it's a house of horror, and the good Dr. Inez is chest deep in an insidious plot to deprive men of their sanity.  Can Deadpool discover these deceptions before therapy and love turn him soft?  Can his handler, 'Hydra' Bob, save Deadpool in time for him to save the world from those that kill and need killing?  And who are Woodman and Stanley? \r\nExplicit Content '$3.99",
+                        "type": "issue_solicit_text"
+                    }
+                ],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4c646c6612c37"
+                },
+                "title": "Deadpool Max (2010) #2",
+                "upc": "5960607194-00211",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/32228/deadpool_max_2010_2?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            }
+        ],
+        "total": 30
+    },
+    "etag": "0f30e13465e3818f0743d55623a5058fdabf6212",
+    "status": "Ok"
+}

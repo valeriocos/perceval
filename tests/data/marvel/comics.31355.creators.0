@@ -1,0 +1,668 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 71,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/1421/comics",
+                    "items": [
+                        {
+                            "name": "5 Ronin (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41112"
+                        },
+                        {
+                            "name": "5 Ronin (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41113"
+                        },
+                        {
+                            "name": "5 Ronin (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38756"
+                        },
+                        {
+                            "name": "5 Ronin (2010) #1 (AJA Cover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36162"
+                        },
+                        {
+                            "name": "5 Ronin TPB (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36599"
+                        },
+                        {
+                            "name": "Agents of Atlas (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/6318"
+                        },
+                        {
+                            "name": "Agents of Atlas (2006) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4801"
+                        },
+                        {
+                            "name": "Agents of Atlas (2006) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5089"
+                        },
+                        {
+                            "name": "Agents of Atlas (2006) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5241"
+                        },
+                        {
+                            "name": "Agents of Atlas (2006) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5404"
+                        },
+                        {
+                            "name": "Agents of Atlas (2006) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5665"
+                        },
+                        {
+                            "name": "Agents of Atlas (2006) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5842"
+                        },
+                        {
+                            "name": "Avengers Assemble Annual (2013) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/45884"
+                        },
+                        {
+                            "name": "Black Panther (1998) #19",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12585"
+                        },
+                        {
+                            "name": "Black Panther by Christopher Priest: The Complete Collection Vol. 2 (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/52998"
+                        },
+                        {
+                            "name": "Daredevil Noir (Graphic Novel)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/32509"
+                        },
+                        {
+                            "name": "Daredevil Noir (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23977"
+                        },
+                        {
+                            "name": "Daredevil Noir (2009) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24180"
+                        },
+                        {
+                            "name": "Daredevil Noir (2009) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24766"
+                        },
+                        {
+                            "name": "Daredevil Noir (2009) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24768"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/1421/events",
+                    "items": [
+                        {
+                            "name": "Initiative",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/255"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "firstName": "Tomm",
+                "fullName": "Tomm Coker",
+                "id": 1421,
+                "lastName": "Coker",
+                "middleName": "",
+                "modified": "2012-12-12T15:36:25-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/1421",
+                "series": {
+                    "available": 40,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/1421/series",
+                    "items": [
+                        {
+                            "name": "5 Ronin (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12429"
+                        },
+                        {
+                            "name": "5 Ronin (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15276"
+                        },
+                        {
+                            "name": "5 Ronin TPB (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12989"
+                        },
+                        {
+                            "name": "Agents of Atlas (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1980"
+                        },
+                        {
+                            "name": "Agents of Atlas (2006 - 2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1097"
+                        },
+                        {
+                            "name": "Avengers Assemble Annual (2013 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17305"
+                        },
+                        {
+                            "name": "Black Panther (1998 - 2003)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2115"
+                        },
+                        {
+                            "name": "Black Panther by Christopher Priest: The Complete Collection Vol. 2 (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19826"
+                        },
+                        {
+                            "name": "Daredevil Noir (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7152"
+                        },
+                        {
+                            "name": "Daredevil Noir (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9684"
+                        },
+                        {
+                            "name": "Daredevil Noir: Liars Poker (2009 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7661"
+                        },
+                        {
+                            "name": "Exiles (2001 - 2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/479"
+                        },
+                        {
+                            "name": "Exiles Vol. 16: Starting Over (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3860"
+                        },
+                        {
+                            "name": "Foolkiller: Short Time (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/5197"
+                        },
+                        {
+                            "name": "Marvel Westerns (2006)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1028"
+                        },
+                        {
+                            "name": "Marvel Westerns (2006)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1789"
+                        },
+                        {
+                            "name": "Marvel's Black Panther Prelude (2018)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/23853"
+                        },
+                        {
+                            "name": "Moon Knight (2006 - 2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/947"
+                        },
+                        {
+                            "name": "Moon Knight Vol. 2: Midnight Sun (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3858"
+                        },
+                        {
+                            "name": "Moon Knight Vol. 2: Midnight Sun Premiere (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3100"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 80,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/1421/stories",
+                    "items": [
+                        {
+                            "name": "1 of 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5743",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 6 - 6 XLS-",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6008",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 6 - 6 XLS -",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6010",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 6 - 6 XLS -",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6012",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 6 - 6 XLS -",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6014",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 of 6 - 6 XLS -",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6016",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 of 6 - Story A - 6XLS",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6018",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "The Job",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/24991",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Northern Dreams",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/28915",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 5 - Story B",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/32288",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 5 - Story B",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/32524",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 5 - Story B",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/32902",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 5 - Story B",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33172",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 of 5 - Story B",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33174",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 1; THE INITIATIVE BANNER",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33251",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 1; THE INITIATIVE BANNER",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33252",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Moon Knight 7-13; Annual 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/44442",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Exiles 95-100, Exiles Days of Then and Now",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/44445",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5XLS 1 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47566",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5XLS 2 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47862",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/4bc3169f8908e"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/1421/tomm_coker?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            },
+            {
+                "comics": {
+                    "available": 228,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/708/comics",
+                    "items": [
+                        {
+                            "name": "Age of Heroes (2010) #1 (HEROIC AGE VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33323"
+                        },
+                        {
+                            "name": "ALL-NEW, ALL-DIFFERENT MARVEL POINT ONE  (2015) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/56455"
+                        },
+                        {
+                            "name": "Annihilation: Conquest (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51373"
+                        },
+                        {
+                            "name": "Annihilation: Conquest Book 1 (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17688"
+                        },
+                        {
+                            "name": "Annihilation: Conquest Prologue (2007) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15891"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #48",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40809"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #49",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40806"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #50",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40805"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #51",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40803"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #51 (Create Your Own Wedding Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43221"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #51 (Djurdjevic Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42732"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #52",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40802"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #53",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40801"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #54",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40800"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #55",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40804"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #56",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40808"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 10 (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40950"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 11 (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41607"
+                        },
+                        {
+                            "name": "Avengers Arena (2012) #1 (Perkins Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/44676"
+                        },
+                        {
+                            "name": "Avengers Arena (2012) #16 (Perkins Thor Battle Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48752"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/708/events",
+                    "items": [
+                        {
+                            "name": "Annihilation: Conquest",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/293"
+                        },
+                        {
+                            "name": "Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/238"
+                        },
+                        {
+                            "name": "House of M",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/251"
+                        },
+                        {
+                            "name": "Initiative",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/255"
+                        },
+                        {
+                            "name": "Messiah CompleX",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/299"
+                        },
+                        {
+                            "name": "Secret Invasion",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/269"
+                        },
+                        {
+                            "name": "Shadowland",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/59"
+                        },
+                        {
+                            "name": "X-Men: Second Coming",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/279"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "firstName": "Mike",
+                "fullName": "Mike Perkins",
+                "id": 708,
+                "lastName": "Perkins",
+                "middleName": "",
+                "modified": "2016-11-09T14:37:13-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/708",
+                "series": {
+                    "available": 108,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/708/series",
+                    "items": [
+                        {
+                            "name": "Age of Heroes (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9790"
+                        },
+                        {
+                            "name": "ALL-NEW, ALL-DIFFERENT MARVEL POINT ONE  (2015 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20683"
+                        },
+                        {
+                            "name": "All-New, All-Different Point One (2015 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20684"
+                        },
+                        {
+                            "name": "All-New, All-Different Point One (2015 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20685"
+                        },
+                        {
+                            "name": "Annihilation: Conquest (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19274"
+                        },
+                        {
+                            "name": "Annihilation: Conquest Book 1 (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3454"
+                        },
+                        {
+                            "name": "Annihilation: Conquest Prologue (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2420"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/744"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 10 (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15165"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 11 (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15509"
+                        },
+                        {
+                            "name": "Avengers Arena (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16875"
+                        },
+                        {
+                            "name": "Avengers/Invaders (2008 - 2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/4864"
+                        },
+                        {
+                            "name": "Avengers: Time Runs Out (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19320"
+                        },
+                        {
+                            "name": "BLACK PANTHER ANNUAL 1 (2018 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/24015"
+                        },
+                        {
+                            "name": "Cap Transport (2005 - 2006)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2722"
+                        },
+                        {
+                            "name": "Captain America (2004 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/832"
+                        },
+                        {
+                            "name": "Captain America 70th Anniversary Edition (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12470"
+                        },
+                        {
+                            "name": "Captain America by Ed Brubaker Omnibus Vol. 1 (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2969"
+                        },
+                        {
+                            "name": "Captain America: Red Menace Ultimate Collection (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13767"
+                        },
+                        {
+                            "name": "Captain America: Red Menace Vol. 1 (2006)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1804"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 293,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/708/stories",
+                    "items": [
+                        {
+                            "name": "1 of 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2802",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #4174",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4174",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4192",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 6 - Winter Soldier",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4248",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 2 - Crossbones & Sin",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4260",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 2 - Crossbones & Sin",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4262",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of ? - Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4272",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 3 - Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4274",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 3 - Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4276",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #4517",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4517",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4642",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4643",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4644",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4645",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 6 - Signs & Womders",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4646",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 6 - Signs & Womders",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4647",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 6 - Signs & Womders",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4648",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 6 - Signs & Womders",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4649",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 of 6 - Signs & Womders",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4650",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 of 6 - Signs & Womders",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4651",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc628cd1bed7"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/708/mike_perkins?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 2
+    },
+    "etag": "4dac580258b36f7dcebb689927d9b967e650472c",
+    "status": "Ok"
+}

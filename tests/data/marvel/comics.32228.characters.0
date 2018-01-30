@@ -1,0 +1,389 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 1,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 687,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009268/comics",
+                    "items": [
+                        {
+                            "name": "5 Ronin (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41112"
+                        },
+                        {
+                            "name": "5 Ronin (2010) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36160"
+                        },
+                        {
+                            "name": "5 Ronin (2010) #5 (MCGUINNESS COVER)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38751"
+                        },
+                        {
+                            "name": "A+X (2012) #8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43507"
+                        },
+                        {
+                            "name": "Agent X (2002) #13",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17706"
+                        },
+                        {
+                            "name": "Agent X (2002) #14",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17707"
+                        },
+                        {
+                            "name": "Agent X (2002) #15",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/394"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #611",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24418"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #620 (DEADPOOL VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/31556"
+                        },
+                        {
+                            "name": "Amazing Spider-Man Annual (2011) #38",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36956"
+                        },
+                        {
+                            "name": "Avengers (2016) #10",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/61382"
+                        },
+                        {
+                            "name": "Avengers: The Initiative (2007) #33 (DEADPOOL VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/31560"
+                        },
+                        {
+                            "name": "Baby's First Deadpool Book (1998) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/45720"
+                        },
+                        {
+                            "name": "Battle Scars (2011) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41349"
+                        },
+                        {
+                            "name": "Battle Scars (2011) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41348"
+                        },
+                        {
+                            "name": "Black Panther (1998) #23",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12590"
+                        },
+                        {
+                            "name": "Cable (2008) #13",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23971"
+                        },
+                        {
+                            "name": "Cable (2008) #13 (OLIVETTI (MW, 50/50 COVER))",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23972"
+                        },
+                        {
+                            "name": "Cable (2008) #14",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24171"
+                        },
+                        {
+                            "name": "Cable (2008) #14 (OLIVETTI MW, 50/50 COVER)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24172"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "description": "",
+                "events": {
+                    "available": 15,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009268/events",
+                    "items": [
+                        {
+                            "name": "Age of Apocalypse",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/227"
+                        },
+                        {
+                            "name": "Axis",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/320"
+                        },
+                        {
+                            "name": "Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/238"
+                        },
+                        {
+                            "name": "Dark Reign",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/318"
+                        },
+                        {
+                            "name": "Fear Itself",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/302"
+                        },
+                        {
+                            "name": "House of M",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/251"
+                        },
+                        {
+                            "name": "Inhumans Vs. X-Men",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/334"
+                        },
+                        {
+                            "name": "Messiah War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/298"
+                        },
+                        {
+                            "name": "Original Sin",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/319"
+                        },
+                        {
+                            "name": "Secret Empire",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/336"
+                        },
+                        {
+                            "name": "Secret Invasion",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/269"
+                        },
+                        {
+                            "name": "Shattered Heroes",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/309"
+                        },
+                        {
+                            "name": "X-Men: Battle of the Atom",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/316"
+                        },
+                        {
+                            "name": "X-Men: Regenesis",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/308"
+                        },
+                        {
+                            "name": "X-Men: Schism",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/306"
+                        }
+                    ],
+                    "returned": 15
+                },
+                "id": 1009268,
+                "modified": "2016-09-28T12:12:40-0400",
+                "name": "Deadpool",
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+                "series": {
+                    "available": 170,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009268/series",
+                    "items": [
+                        {
+                            "name": "5 Ronin (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15276"
+                        },
+                        {
+                            "name": "5 Ronin (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12429"
+                        },
+                        {
+                            "name": "A+X (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16450"
+                        },
+                        {
+                            "name": "Agent X (2002 - 2004)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/459"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/454"
+                        },
+                        {
+                            "name": "Amazing Spider-Man Annual (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13205"
+                        },
+                        {
+                            "name": "Avengers (2016 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22547"
+                        },
+                        {
+                            "name": "Avengers: The Initiative (2007 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1945"
+                        },
+                        {
+                            "name": "Baby's First Deadpool Book (1998)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17232"
+                        },
+                        {
+                            "name": "Battle Scars (2011 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15370"
+                        },
+                        {
+                            "name": "Black Panther (1998 - 2003)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2115"
+                        },
+                        {
+                            "name": "Cable (2008 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/4002"
+                        },
+                        {
+                            "name": "Cable & Deadpool (2004 - 2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/693"
+                        },
+                        {
+                            "name": "Cable & Deadpool MGC (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13886"
+                        },
+                        {
+                            "name": "Cable & Deadpool Vol. 1: If Looks Could Kill (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1209"
+                        },
+                        {
+                            "name": "Cable & Deadpool Vol. 2: The Burnt Offering (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1338"
+                        },
+                        {
+                            "name": "Cable & Deadpool Vol. 3: The Human Race (2005)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1488"
+                        },
+                        {
+                            "name": "Cable & Deadpool Vol. 4: Bosom Buddies (2006)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1578"
+                        },
+                        {
+                            "name": "Cable & Deadpool Vol. 5: Living Legends (2006)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1676"
+                        },
+                        {
+                            "name": "Cable & Deadpool Vol. 6: Paved with Good Intentions (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1960"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 894,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009268/stories",
+                    "items": [
+                        {
+                            "name": "AGENT X (2002) #15",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1135",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #1619",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1619",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "CABLE & DEADPOOL (2004) #9",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2464",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 6 - The Passion of the Cable",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2465",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "CABLE & DEADPOOL (2004) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2466",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #2467",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2467",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #2469",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2469",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #2471",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2471",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #2473",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2473",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #2475",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2475",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #2477",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2477",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #2479",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2479",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 6 - The Passion of the Cable",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2481",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 of 6 - The Passion of the Cable",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2483",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "CABLE & DEADPOOL (2004) #12",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2484",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 2 - Thirty Pieces",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2485",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 2 - A Murder in Paradise",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2487",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 2 - A Murder in Paradise",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2488",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "CABLE & DEADPOOL (2004) #15",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2489",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 4 - Enema of the State",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2490",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5261a86cacb99"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/characters/12/deadpool?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Deadpool_(Wade_Wilson)?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1009268/deadpool?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 1
+    },
+    "etag": "070cc069197f6e015fad819493e4808616f37b7e",
+    "status": "Ok"
+}

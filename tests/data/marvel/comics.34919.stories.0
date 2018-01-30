@@ -1,0 +1,122 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/77351/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/77351/comics",
+                    "items": [
+                        {
+                            "name": "Scarlet (2010) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/34919"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/77351/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/77351/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 77351,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Scarlet (2010) #3",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/34919"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/77351",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/77351/series",
+                    "items": [
+                        {
+                            "name": "Scarlet (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12212"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #77351",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/77352/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/77352/comics",
+                    "items": [
+                        {
+                            "name": "Scarlet (2010) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/34919"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/77352/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/77352/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 77352,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Scarlet (2010) #3",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/34919"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/77352",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/77352/series",
+                    "items": [
+                        {
+                            "name": "Scarlet (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12212"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #77352",
+                "type": "story"
+            }
+        ],
+        "total": 4
+    },
+    "etag": "a9cddd8bd7a8e960e62fa843c888211ca4ae9c5e",
+    "status": "Ok"
+}

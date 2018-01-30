@@ -1,0 +1,144 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75289/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75289/comics",
+                    "items": [
+                        {
+                            "name": "Luke Cage Noir (Graphic Novel)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33487"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75289/creators",
+                    "items": [
+                        {
+                            "name": "Dennis Calero",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/970",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75289/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 75289,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Luke Cage Noir (Graphic Novel)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/33487"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/75289",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75289/series",
+                    "items": [
+                        {
+                            "name": "Luke Cage Noir (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10301"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #75289",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75291/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75291/comics",
+                    "items": [
+                        {
+                            "name": "Luke Cage Noir (Graphic Novel)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33487"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75291/creators",
+                    "items": [
+                        {
+                            "name": "Mike Benson",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9127",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Adam Glass",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/7978",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Shawn Martinbrough",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5026",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75291/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 75291,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Luke Cage Noir (Graphic Novel)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/33487"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/75291",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75291/series",
+                    "items": [
+                        {
+                            "name": "Luke Cage Noir (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10301"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #75291",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "44385b898d6e743988408f76f0590ded10bed6f5",
+    "status": "Ok"
+}

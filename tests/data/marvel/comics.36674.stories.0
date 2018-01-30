@@ -1,0 +1,122 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/81374/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/81374/comics",
+                    "items": [
+                        {
+                            "name": "X-Men Legacy (2008) #240 (SHS VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36674"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/81374/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/81374/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 81374,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "X-Men Legacy (2008) #240 (SHS VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/36674"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/81374",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/81374/series",
+                    "items": [
+                        {
+                            "name": "X-Men Legacy (2008 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3754"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #81374",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/81375/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/81375/comics",
+                    "items": [
+                        {
+                            "name": "X-Men Legacy (2008) #240 (SHS VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36674"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/81375/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/81375/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 81375,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "X-Men Legacy (2008) #240 (SHS VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/36674"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/81375",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/81375/series",
+                    "items": [
+                        {
+                            "name": "X-Men Legacy (2008 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3754"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #81375",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "3fe0a7e421408a9d68430f15e2321b3bae23264e",
+    "status": "Ok"
+}

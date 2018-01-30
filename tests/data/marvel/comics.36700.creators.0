@@ -1,0 +1,688 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 414,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10288/comics",
+                    "items": [
+                        {
+                            "name": "Age of Ultron Companion (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47465"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #544 (Djurdjevic Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21841"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #545 (DJURDJEVIC VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17211"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #573 (ZOMBIE VARIANT (1 FOR 10))",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22259"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #608 (DJURDJEVIC 70TH ANNIVERSARY VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28542"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #612",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24419"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #625",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30300"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #640 (WOMEN OF MARVEL VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35269"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #642 (JRSR VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36664"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #643 (SHS VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36662"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #643 (JIMENEZ VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36663"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #644",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30319"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #644 (BACHALO VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36665"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #645",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30320"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #645 (SPIDEY VS. VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35880"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #646",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30321"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #647",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30322"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #658",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39019"
+                        },
+                        {
+                            "name": "Amazing Spider-Man Presents: American Son (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30025"
+                        },
+                        {
+                            "name": "Amazing Spider-Man Presents: American Son (2010) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30026"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 10,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10288/events",
+                    "items": [
+                        {
+                            "name": "Chaos War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/296"
+                        },
+                        {
+                            "name": "Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/238"
+                        },
+                        {
+                            "name": "Dark Reign",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/318"
+                        },
+                        {
+                            "name": "Fall of the Hulks",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/297"
+                        },
+                        {
+                            "name": "Fear Itself",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/302"
+                        },
+                        {
+                            "name": "Initiative",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/255"
+                        },
+                        {
+                            "name": "Secret Invasion",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/269"
+                        },
+                        {
+                            "name": "Shadowland",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/59"
+                        },
+                        {
+                            "name": "Siege",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/273"
+                        },
+                        {
+                            "name": "X-Men: Second Coming",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/279"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "firstName": "Marko",
+                "fullName": "Marko Djurdjevic",
+                "id": 10288,
+                "lastName": "Djurdjevic",
+                "middleName": "",
+                "modified": "2016-10-21T14:36:51-0400",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+                "series": {
+                    "available": 189,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10288/series",
+                    "items": [
+                        {
+                            "name": "Age of Ultron Companion (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17929"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/454"
+                        },
+                        {
+                            "name": "Amazing Spider-Man Presents: American Son (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9780"
+                        },
+                        {
+                            "name": "Annihilators (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13025"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/744"
+                        },
+                        {
+                            "name": "Avengers (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9085"
+                        },
+                        {
+                            "name": "Avengers Academy (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9086"
+                        },
+                        {
+                            "name": "Avengers Origins: Ant-Man & the Wasp (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9860"
+                        },
+                        {
+                            "name": "Avengers Origins: Luke Cage (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9861"
+                        },
+                        {
+                            "name": "Avengers Origins: Quicksilver & the Scarlet Witch (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9862"
+                        },
+                        {
+                            "name": "Avengers Origins: Thor (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15274"
+                        },
+                        {
+                            "name": "Avengers Origins: Vision (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9863"
+                        },
+                        {
+                            "name": "AVENGERS: MYTHOS TPB (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10045"
+                        },
+                        {
+                            "name": "Avengers: Prime (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9903"
+                        },
+                        {
+                            "name": "Avengers: Scarlet Witch by Dan Abnett & Andy Lanning (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19312"
+                        },
+                        {
+                            "name": "Avengers: The Children's Crusade (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9864"
+                        },
+                        {
+                            "name": "Black Panther (2008 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6804"
+                        },
+                        {
+                            "name": "Blade (2006 - 2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1123"
+                        },
+                        {
+                            "name": "Blade: Sins of the Father (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2931"
+                        },
+                        {
+                            "name": "Blade: Undead Again (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2236"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 573,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10288/stories",
+                    "items": [
+                        {
+                            "name": "1 of 6 - Faith in Monsters",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3924",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #5527",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5527",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #5919",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5919",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #6172",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6172",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 1 - Dr. Doom and Latveria",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6174",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #6176",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6176",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #6178",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6178",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 of 6 - Fathers and Sons",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6180",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 of 6 - Fathers and Sons",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6182",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #6222",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6222",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6224",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6226",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6228",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "X-Men: First Class (2006) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6230",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 5 - Back in the Fire",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7617",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 6 - Faith in Monsters",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7684",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 6 - Faith in Monsters",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7690",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "6 of 6 - Fathers and Sons",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7876",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 6 - Death of Blade",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7878",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 1 - TBD; Franklin Richards back-ups",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7892",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/30/4bb110a56cb34"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/10288/marko_djurdjevic?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            },
+            {
+                "comics": {
+                    "available": 143,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/9394/comics",
+                    "items": [
+                        {
+                            "name": "Ant-Man & the Wasp (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36765"
+                        },
+                        {
+                            "name": "Ant-Man & the Wasp (2010) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36764"
+                        },
+                        {
+                            "name": "Ant-Man & the Wasp (2010) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36763"
+                        },
+                        {
+                            "name": "Ant-Man & Wasp: Small World (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37655"
+                        },
+                        {
+                            "name": "Black Widow & the Marvel Girls (Graphic Novel)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/34257"
+                        },
+                        {
+                            "name": "Black Widow & the Marvel Girls (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29741"
+                        },
+                        {
+                            "name": "Black Widow & the Marvel Girls (2009) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29742"
+                        },
+                        {
+                            "name": "Black Widow & the Marvel Girls (2009) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29743"
+                        },
+                        {
+                            "name": "Black Widow & the Marvel Girls (2009) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29744"
+                        },
+                        {
+                            "name": "Chaos War: Alpha Flight (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37067"
+                        },
+                        {
+                            "name": "Damage Control: The Complete Collection (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51606"
+                        },
+                        {
+                            "name": "Deadpool (2015) #28",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60602"
+                        },
+                        {
+                            "name": "Deadpool (2015) #29",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60603"
+                        },
+                        {
+                            "name": "Deadpool (2015) #29 (Albuquerque Poster Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/63064"
+                        },
+                        {
+                            "name": "Deadpool (2015) #29 (Deodato Resurrxion Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/63684"
+                        },
+                        {
+                            "name": "Deadpool (2012) #41",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51693"
+                        },
+                        {
+                            "name": "Deadpool (2012) #42",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51694"
+                        },
+                        {
+                            "name": "Deadpool (2012) #42 (Noto Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51695"
+                        },
+                        {
+                            "name": "Deadpool (2012) #43",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51696"
+                        },
+                        {
+                            "name": "Deadpool (2012) #43 (Richard Wom Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/53070"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/9394/events",
+                    "items": [
+                        {
+                            "name": "Chaos War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/296"
+                        },
+                        {
+                            "name": "Fall of the Hulks",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/297"
+                        },
+                        {
+                            "name": "Secret Invasion",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/269"
+                        },
+                        {
+                            "name": "X-Men: Schism",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/306"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "firstName": "Salvador",
+                "fullName": "Salvador Espin",
+                "id": 9394,
+                "lastName": "Espin",
+                "middleName": "",
+                "modified": "2016-09-09T16:27:40-0400",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9394",
+                "series": {
+                    "available": 59,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/9394/series",
+                    "items": [
+                        {
+                            "name": "Ant-Man & the Wasp (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13082"
+                        },
+                        {
+                            "name": "Ant-Man & Wasp: Small World (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13540"
+                        },
+                        {
+                            "name": "Black Widow & the Marvel Girls (2009 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9120"
+                        },
+                        {
+                            "name": "Black Widow & the Marvel Girls (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/11650"
+                        },
+                        {
+                            "name": "Chaos War: Alpha Flight (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13260"
+                        },
+                        {
+                            "name": "Damage Control: The Complete Collection (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19362"
+                        },
+                        {
+                            "name": "Deadpool (2012 - 2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16542"
+                        },
+                        {
+                            "name": "Deadpool (2015 - 2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20613"
+                        },
+                        {
+                            "name": "Deadpool (2008 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/5701"
+                        },
+                        {
+                            "name": "Deadpool & The Mercs For Money (2016)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19394"
+                        },
+                        {
+                            "name": "Deadpool & the Mercs for Money (2016 - 2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/21942"
+                        },
+                        {
+                            "name": "Deadpool & The Mercs for Money Vol. 0: Merc Madness (2016)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19395"
+                        },
+                        {
+                            "name": "Deadpool Bi-Annual (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19076"
+                        },
+                        {
+                            "name": "DEADPOOL BY DANIEL WAY: THE COMPLETE COLLECTION VOL. 3 TPB (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18290"
+                        },
+                        {
+                            "name": "Deadpool Classic Vol. 16: Killogy (2016)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/21509"
+                        },
+                        {
+                            "name": "Deadpool Classic Vol. 19: Make War, Not Love (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/23522"
+                        },
+                        {
+                            "name": "Deadpool Kills Deadpool (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17995"
+                        },
+                        {
+                            "name": "Deadpool Kills Deadpool (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17957"
+                        },
+                        {
+                            "name": "Deadpool Minibus (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18745"
+                        },
+                        {
+                            "name": "Deadpool Vol. 10: Evil Deadpool TPB (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14923"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 173,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/9394/stories",
+                    "items": [
+                        {
+                            "name": "WORLD WAR HULK: WARBOUND (2007) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/36835",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3XLS 1 of 3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/36970",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3XLS 2 of 3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/44412",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3XLS 3 of 3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/44757",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "8XLS 1 of 8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/44768",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "8XLS 3 of 8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/46955",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "8XLS 3 of 8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/46956",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Venom: Lethal Protector 3, Spider-Man: Death & Destiny 3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47176",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "8XLS 4 of 8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47265",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "8XLS 5 of 8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47562",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 4 - Secret Invasion",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47722",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #47755",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47755",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "8XLS 6 of 8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47854",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "8XLS 6 of 8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47855",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47907",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "8XLS 7 of 8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48491",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/49033",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/49817",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50782",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #50818",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50818",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4bb7c84a7862d"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/9394/salvador_espin?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 3
+    },
+    "etag": "8ec35a019c42f9077352d5e9545ad5797754c0cb",
+    "status": "Ok"
+}

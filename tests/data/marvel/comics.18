@@ -1,0 +1,238 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 18,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37434/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37434/creators",
+                    "items": [
+                        {
+                            "name": "Art Adams",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+                            "role": "penciler"
+                        },
+                        {
+                            "name": "Jorge Molina",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8825",
+                            "role": "penciler"
+                        },
+                        {
+                            "name": "Mark Waid",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "dates": [
+                    {
+                        "date": "2010-11-03T00:00:00-0400",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "2010-10-23T00:00:00-0400",
+                        "type": "focDate"
+                    }
+                ],
+                "description": "Beginning a five-issue mini-series chronicling the rebirth of Captain America! When the Avengers pull a mysterious, tattered soldier from the sea, they unwittingly bring back to life the Living Legend of World War Two--a man whose memories of a life sixty years ago are as fresh as yesterday! How will Steve Rogers, frozen in suspended animation for half a century, adapt to the world of the 21st century? Brought to you by super-scribe Mark Waid (Captain America, Amazing\r\nSpider-Man) and Avengers: Initiative artist Jorge Molina! Rated A ...$3.99",
+                "diamondCode": "SEP100614",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37434/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 37434,
+                "images": [
+                    {
+                        "extension": "jpg",
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4c646ac916779"
+                    }
+                ],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 1,
+                "modified": "2010-08-12T01:30:27-0400",
+                "pageCount": 32,
+                "prices": [
+                    {
+                        "price": 3.99,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/37434",
+                "series": {
+                    "name": "Captain America: Man Out of Time (2010 - 2011)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/12288"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37434/stories",
+                    "items": [
+                        {
+                            "name": "Cover #82866",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/82866",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #82867",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/82867",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [
+                    {
+                        "language": "en-us",
+                        "text": "Beginning a five-issue mini-series chronicling the rebirth of Captain America! When the Avengers pull a mysterious, tattered soldier from the sea, they unwittingly bring back to life the Living Legend of World War Two--a man whose memories of a life sixty years ago are as fresh as yesterday! How will Steve Rogers, frozen in suspended animation for half a century, adapt to the world of the 21st century? Brought to you by super-scribe Mark Waid (Captain America, Amazing\r\nSpider-Man) and Avengers: Initiative artist Jorge Molina! Rated A ...$3.99",
+                        "type": "issue_solicit_text"
+                    }
+                ],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/4c646ac916779"
+                },
+                "title": "Captain America: Man Out of Time (2010) #1 (ADAMS VARIANT)",
+                "upc": "5960607384-00121",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/37434/captain_america_man_out_of_time_2010_1_adams_variant/adams_variant?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ],
+                "variantDescription": "ADAMS VARIANT",
+                "variants": [
+                    {
+                        "name": "Captain America: Man Out of Time (2010) #1",
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/34994"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37020/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37020/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "dates": [
+                    {
+                        "date": "2010-11-24T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "2010-11-13T00:00:00-0500",
+                        "type": "focDate"
+                    }
+                ],
+                "description": "Dark forces are at work in Hong Kong to reincarnate a great evil...but the Secret Avengers and that great evil's son -- SHANG CHI -- are also on these dark streets!  As is a new secret member of Marvel's hottest covert Avengers team!  By the all-star team-up of Ed Brubaker and Mike Deodato. 32 PGS./Rated T  ...$3.99",
+                "diamondCode": "SEP100585",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37020/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 37020,
+                "images": [
+                    {
+                        "extension": "jpg",
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4cbc3d72651f5"
+                    }
+                ],
+                "isbn": "",
+                "issn": "2153-9898",
+                "issueNumber": 7,
+                "modified": "2010-08-12T01:30:41-0400",
+                "pageCount": 32,
+                "prices": [
+                    {
+                        "price": 3.99,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/37020",
+                "series": {
+                    "name": "Secret Avengers (2010 - 2012)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/9799"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/37020/stories",
+                    "items": [
+                        {
+                            "name": "Cover #82074",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/82074",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #82075",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/82075",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [
+                    {
+                        "language": "en-us",
+                        "text": "Dark forces are at work in Hong Kong to reincarnate a great evil...but the Secret Avengers and that great evil's son -- SHANG CHI -- are also on these dark streets!  As is a new secret member of Marvel's hottest covert Avengers team!  By the all-star team-up of Ed Brubaker and Mike Deodato. 32 PGS./Rated T  ...$3.99",
+                        "type": "issue_solicit_text"
+                    }
+                ],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4cbc3d72651f5"
+                },
+                "title": "Secret Avengers (2010) #7 (TRON VARIANT)",
+                "upc": "5960607014-00721",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/37020/secret_avengers_2010_7_tron_variant/tron_variant?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ],
+                "variantDescription": "TRON VARIANT",
+                "variants": [
+                    {
+                        "name": "Secret Avengers (2010) #7",
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29098"
+                    }
+                ]
+            }
+        ],
+        "total": 30
+    },
+    "etag": "942650e05786eea38544e20c62ad65c7a86999df",
+    "status": "Ok"
+}

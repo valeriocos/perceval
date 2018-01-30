@@ -1,0 +1,696 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 357,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/88/comics",
+                    "items": [
+                        {
+                            "name": "Civil War (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/6133"
+                        },
+                        {
+                            "name": "Civil War (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/6415"
+                        },
+                        {
+                            "name": "Civil War (2006) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4216"
+                        },
+                        {
+                            "name": "Civil War (2006) #1 (Turner Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4217"
+                        },
+                        {
+                            "name": "Civil War (2006) #1 (sketch variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4514"
+                        },
+                        {
+                            "name": "Civil War (2006) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4313"
+                        },
+                        {
+                            "name": "Civil War (2006) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4468"
+                        },
+                        {
+                            "name": "Civil War (2006) #3 (Turner Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4469"
+                        },
+                        {
+                            "name": "Civil War (2006) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4786"
+                        },
+                        {
+                            "name": "Civil War (2006) #4 (Michael Turner Variant Cover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4787"
+                        },
+                        {
+                            "name": "Civil War (2006) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5075"
+                        },
+                        {
+                            "name": "Civil War (2006) #5 (TURNER VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5077"
+                        },
+                        {
+                            "name": "Civil War (2006) #5 (TURNER SKETCH VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5142"
+                        },
+                        {
+                            "name": "Civil War (2006) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5227"
+                        },
+                        {
+                            "name": "Civil War (2006) #6 (Turner Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5229"
+                        },
+                        {
+                            "name": "Civil War (2006) #7",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5793"
+                        },
+                        {
+                            "name": "Civil War (2006) #7 (Turner Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5794"
+                        },
+                        {
+                            "name": "Civil War (2006) #7 (Turner Sketch Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/5859"
+                        },
+                        {
+                            "name": "Civil War Chronicles (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16014"
+                        },
+                        {
+                            "name": "Civil War Chronicles (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/16195"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/88/events",
+                    "items": [
+                        {
+                            "name": "Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/238"
+                        },
+                        {
+                            "name": "Enemy of the State",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/245"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "firstName": "Mark",
+                "fullName": "Mark Millar",
+                "id": 88,
+                "lastName": "Millar",
+                "middleName": "",
+                "modified": "2013-01-09T09:27:24-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/88",
+                "series": {
+                    "available": 111,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/88/series",
+                    "items": [
+                        {
+                            "name": "AVENGING SPIDER-MAN: THREATS & MENACES TPB (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16359"
+                        },
+                        {
+                            "name": "Civil War (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1893"
+                        },
+                        {
+                            "name": "Civil War (2006 - 2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1067"
+                        },
+                        {
+                            "name": "Civil War Chronicles (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2546"
+                        },
+                        {
+                            "name": "Civil War Script Book (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3124"
+                        },
+                        {
+                            "name": "Empress (2016 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/21607"
+                        },
+                        {
+                            "name": "Empress Book One (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/21616"
+                        },
+                        {
+                            "name": "Empress Book One (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/21615"
+                        },
+                        {
+                            "name": "Fantastic Four (1998 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/421"
+                        },
+                        {
+                            "name": "Fantastic Four: The Master of Doom (2009 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7779"
+                        },
+                        {
+                            "name": "Fantastic Four: The Master of Doom (2009 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7800"
+                        },
+                        {
+                            "name": "Hit-Girl (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16370"
+                        },
+                        {
+                            "name": "Kick-Ass (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17675"
+                        },
+                        {
+                            "name": "Kick-Ass (2008 - 2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7933"
+                        },
+                        {
+                            "name": "Kick-Ass 2 (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12933"
+                        },
+                        {
+                            "name": "Kick-Ass 2 Prelude: Hit-Girl (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18060"
+                        },
+                        {
+                            "name": "Kick-Ass 2 Prelude: Hit-Girl (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18242"
+                        },
+                        {
+                            "name": "KICK-ASS 2 PRELUDE: HIT-GIRL (2013 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18018"
+                        },
+                        {
+                            "name": "Kick-Ass 2: Balls to the Wall (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13116"
+                        },
+                        {
+                            "name": "Kick-Ass 3 (2013 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17946"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 365,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/88/stories",
+                    "items": [
+                        {
+                            "name": "The X-Men use their genetic gifts to protect a world that fears and hates them from other mutants who would use their powers for",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "The Ultimates vs. the Ultimate X-Men: the battle begins. When the X-Men do the worst thing they could to humanity, the governmen",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/270",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Still dealing with the aftermath of the Hulk\u2019s rampage through NYC, and Giant Man\u2019s shocking and vicious attack on the Wasp, the",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/450",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #524",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/524",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #531",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/531",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #1711",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1711",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 6 - Enemy of the State",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2154",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #2157",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2157",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "\"ENEMY OF THE STATE\" PART 1 (OF 6) The world\u2019s deadliest living weapon just fell into the wrong hands. It\u2019s Wolverine vs. the Ma",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2183",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "\"ENEMY OF THE STATE\" PART 2 (OF 6) The world\u2019s deadliest living weapon just fell into the wrong hands. It\u2019s Wolverine vs. the Ma",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2185",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 6 - Enemy of the State",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2187",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 of 6 - Enemy of the State",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2189",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "6 of 6 - Enemy of the State",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2191",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 6 - Agent of S.H.I.E.L.D.",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2193",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #2195",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2195",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 6 - Agent of S.H.I.E.L.D.",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2197",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 6 - Agent of S.H.I.E.L.D.",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2199",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 6 - Agent of S.H.I.E.L.D.",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2201",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 of 6 - Agent of S.H.I.E.L.D.",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2203",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "WOLVERINE (2003) #31",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2204",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4bae788cdfcff"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/88/mark_millar?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            },
+            {
+                "comics": {
+                    "available": 372,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/758/comics",
+                    "items": [
+                        {
+                            "name": "Age of Ultron (2013) #7 (Yu Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47017"
+                        },
+                        {
+                            "name": "Agents of Atlas (2009) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24360"
+                        },
+                        {
+                            "name": "Agents of Atlas (2009) #7",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24361"
+                        },
+                        {
+                            "name": "Agents of Atlas (2009) #8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24362"
+                        },
+                        {
+                            "name": "Agents of Atlas (2009) #9",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24363"
+                        },
+                        {
+                            "name": "Agents of Atlas: Turf Wars (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28870"
+                        },
+                        {
+                            "name": "Agents of Atlas: Turf Wars (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/31681"
+                        },
+                        {
+                            "name": "All-New Wolverine (2015) #14 (Yu Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/61939"
+                        },
+                        {
+                            "name": "All-New Wolverine (2015) #22",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60512"
+                        },
+                        {
+                            "name": "All-New Wolverine (2015) #23",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60513"
+                        },
+                        {
+                            "name": "All-New Wolverine (2015) #24",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60514"
+                        },
+                        {
+                            "name": "All-New X-Men (2012) #12 (Yu Wolverine Costume Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47549"
+                        },
+                        {
+                            "name": "Alpha Flight (2011) #8 (Yu Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41922"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #604",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24411"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #634",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30309"
+                        },
+                        {
+                            "name": "Avengers Vol. 6: Infinite Avengers (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49809"
+                        },
+                        {
+                            "name": "AVENGERS VOL. 4: INFINITY TPB  (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46926"
+                        },
+                        {
+                            "name": "AVENGERS VOL. 3: PRELUDE TO INFINITY TPB  (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/45834"
+                        },
+                        {
+                            "name": "AVENGERS VOL. 6: INFINITE AVENGERS TPB (MARVEL NOW) (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48379"
+                        },
+                        {
+                            "name": "Avengers (2012) #13",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43543"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 14,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/758/events",
+                    "items": [
+                        {
+                            "name": "Age of X",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/303"
+                        },
+                        {
+                            "name": "Avengers VS X-Men",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/310"
+                        },
+                        {
+                            "name": "Axis",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/320"
+                        },
+                        {
+                            "name": "Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/238"
+                        },
+                        {
+                            "name": "Dark Reign",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/318"
+                        },
+                        {
+                            "name": "Infinity",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/315"
+                        },
+                        {
+                            "name": "Inhumans Vs. X-Men",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/334"
+                        },
+                        {
+                            "name": "Initiative",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/255"
+                        },
+                        {
+                            "name": "Maximum Security",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/37"
+                        },
+                        {
+                            "name": "Original Sin",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/319"
+                        },
+                        {
+                            "name": "Secret Invasion",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/269"
+                        },
+                        {
+                            "name": "Siege",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/273"
+                        },
+                        {
+                            "name": "World War Hulks",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/60"
+                        },
+                        {
+                            "name": "X-Men: Regenesis",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/308"
+                        }
+                    ],
+                    "returned": 14
+                },
+                "firstName": "Leinil",
+                "fullName": "Leinil Francis Yu",
+                "id": 758,
+                "lastName": "Yu",
+                "middleName": "Francis",
+                "modified": "2016-11-14T12:15:30-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+                "series": {
+                    "available": 189,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/758/series",
+                    "items": [
+                        {
+                            "name": "Age of Ultron (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17318"
+                        },
+                        {
+                            "name": "Agents of Atlas (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6807"
+                        },
+                        {
+                            "name": "Agents of Atlas: Turf Wars (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9373"
+                        },
+                        {
+                            "name": "Agents of Atlas: Turf Wars (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9197"
+                        },
+                        {
+                            "name": "All-New Wolverine (2015 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20682"
+                        },
+                        {
+                            "name": "All-New X-Men (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16449"
+                        },
+                        {
+                            "name": "Alpha Flight (2011 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13907"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/454"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2017 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/23262"
+                        },
+                        {
+                            "name": "Avengers (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16452"
+                        },
+                        {
+                            "name": "Avengers (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9085"
+                        },
+                        {
+                            "name": "Avengers & X-Men: Axis (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22378"
+                        },
+                        {
+                            "name": "Avengers & X-Men: Axis (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18904"
+                        },
+                        {
+                            "name": "Avengers & X-Men: Axis (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18905"
+                        },
+                        {
+                            "name": "Avengers by Jonanthan Hickman (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19288"
+                        },
+                        {
+                            "name": "Avengers by Jonathan Hickman Vol. 3 (2016)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19290"
+                        },
+                        {
+                            "name": "Avengers Vol. 3: Prelude to Infinity (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17301"
+                        },
+                        {
+                            "name": "AVENGERS VOL. 3: PRELUDE TO INFINITY TPB  (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17300"
+                        },
+                        {
+                            "name": "Avengers Vol. 4: Infinity (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17681"
+                        },
+                        {
+                            "name": "AVENGERS VOL. 4: INFINITY TPB  (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17682"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 510,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/758/stories",
+                    "items": [
+                        {
+                            "name": "1 of 1 - TBD",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2843",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "New Avengers (2004) #22",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3492",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 5 - Civil War/New Avengers Disassembled",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3493",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Leinil Yu Cover",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3926",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "PUNISHER VS. BULLSEYE (2005) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4522",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #5706",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5706",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #5707",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5707",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 6 - XLS",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5708",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 6 - XLS",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5709",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 6 - XLS",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5710",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 6 - XLS",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5711",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #6053",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6053",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #6156",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6156",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "UNCANNY X-MEN #388-390, CABLE #87, BISHOP #16 and X-MEN #108-110",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6607",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Uncanny 391-393; New X-Men 111-113",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6609",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "The Ultimates Annual 2; UFF Annual 2; UXM Annual 2; Ultimate Spider-Man Annual 2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7548",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "New Avengers (2004) #27",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7676",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 6 - Secret Avengers",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7677",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "New Avengers (2004) #28",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7678",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 6 - Secret Avengers",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7679",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb85d64347af"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/758/leinil_francis_yu?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 2
+    },
+    "etag": "cc58b9a9d783620ce657e2203e6c912deddd1f82",
+    "status": "Ok"
+}

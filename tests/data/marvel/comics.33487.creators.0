@@ -1,0 +1,639 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 56,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/9127/comics",
+                    "items": [
+                        {
+                            "name": "A+X VOL. 2: = AMAZING TPB (MARVEL NOW) (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/45764"
+                        },
+                        {
+                            "name": "A+X (2012) #11",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43510"
+                        },
+                        {
+                            "name": "AVENGERS: MYTHOS TPB (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33044"
+                        },
+                        {
+                            "name": "Captain America (2004) #616",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35762"
+                        },
+                        {
+                            "name": "Captain America (2004) #616 (Epting Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39327"
+                        },
+                        {
+                            "name": "Deadly Hands of Kung Fu: Out of the Past (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50473"
+                        },
+                        {
+                            "name": "Deadly Hands of Kung Fu (2014) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50533"
+                        },
+                        {
+                            "name": "Deadly Hands of Kung Fu (2014) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50534"
+                        },
+                        {
+                            "name": "Deadly Hands of Kung Fu (2014) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50535"
+                        },
+                        {
+                            "name": "Deadly Hands of Kung Fu (2014) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50536"
+                        },
+                        {
+                            "name": "Deadpool (1997) #900",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28621"
+                        },
+                        {
+                            "name": "Deadpool Annual: Games of Death (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23730"
+                        },
+                        {
+                            "name": "Deadpool Classic Vol. 17: Headcanon (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60616"
+                        },
+                        {
+                            "name": "Deadpool Classic Vol. 14: Suicide Kings (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51711"
+                        },
+                        {
+                            "name": "Deadpool Pulp (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33959"
+                        },
+                        {
+                            "name": "Deadpool Pulp (2010) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33694"
+                        },
+                        {
+                            "name": "Deadpool Pulp (2010) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33692"
+                        },
+                        {
+                            "name": "Deadpool Pulp (2010) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33693"
+                        },
+                        {
+                            "name": "Deadpool Pulp GN-TPB (Graphic Novel)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33136"
+                        },
+                        {
+                            "name": "Deadpool Team-Up (2009) #898",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28876"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/9127/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "firstName": "Mike",
+                "fullName": "Mike Benson",
+                "id": 9127,
+                "lastName": "Benson",
+                "middleName": "",
+                "modified": "2014-02-12T12:01:12-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/9127",
+                "series": {
+                    "available": 26,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/9127/series",
+                    "items": [
+                        {
+                            "name": "A+X (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16450"
+                        },
+                        {
+                            "name": "A+X VOL. 2: = AMAZING TPB (MARVEL NOW) (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17272"
+                        },
+                        {
+                            "name": "AVENGERS: MYTHOS TPB (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10045"
+                        },
+                        {
+                            "name": "Captain America (2004 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/832"
+                        },
+                        {
+                            "name": "Deadly Hands of Kung Fu (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18888"
+                        },
+                        {
+                            "name": "Deadly Hands of Kung Fu: Out of the Past (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18867"
+                        },
+                        {
+                            "name": "Deadpool (1997 - 2002)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2005"
+                        },
+                        {
+                            "name": "Deadpool Annual: Games of Death (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6880"
+                        },
+                        {
+                            "name": "Deadpool Classic Vol. 14: Suicide Kings (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19389"
+                        },
+                        {
+                            "name": "Deadpool Classic Vol. 17: Headcanon (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22402"
+                        },
+                        {
+                            "name": "Deadpool Pulp (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/11063"
+                        },
+                        {
+                            "name": "Deadpool Pulp (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/11602"
+                        },
+                        {
+                            "name": "Deadpool Pulp GN-TPB (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10141"
+                        },
+                        {
+                            "name": "Deadpool Team-Up (2009 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9045"
+                        },
+                        {
+                            "name": "Deadpool Team-Up Vol. 1: Good Buddies (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9426"
+                        },
+                        {
+                            "name": "Deadpool: Suicide Kings (2009 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8810"
+                        },
+                        {
+                            "name": "Deadpool: Suicide Kings (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7720"
+                        },
+                        {
+                            "name": "Deadpool: Suicide Kings (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7240"
+                        },
+                        {
+                            "name": "Luke Cage Noir (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10301"
+                        },
+                        {
+                            "name": "Luke Cage Noir (2009 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7950"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 60,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/9127/stories",
+                    "items": [
+                        {
+                            "name": "1 of 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/33503",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "God & Country 1 of 6; THE INITIATIVE BANNER",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/36848",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "God & Country 2 of 6; THE INITIATIVE BANNER",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/44299",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "God & Country 3 of 6; THE INITIATIVE BANNER",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/44652",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "God & Country 4 of 6; THE INITIATIVE BANNER",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/45416",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "God & Country 5 of 6; THE INITIATIVE BANNER",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/46817",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "God & Country 6 of 6; THE INITIATIVE BANNER",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47137",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47454",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "The Death Of Mark Spector 1 0f 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47758",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "The Death Of Mark Spector 2 0f 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48276",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "The Death Of Mark Spector 3 0f 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/49062",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "The Death of Mark Spector 4 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/49854",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/49915",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "The Death of Mark Spector 5 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50821",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 3 Featuring Punisher",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/51222",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 4 Down South",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/52242",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #52663",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/52663",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 4 Down South",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/52709",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 5 Down South",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/53106",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 5 Down South",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/53108",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/80/4bb43a31c7eb2"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/9127/mike_benson?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            },
+            {
+                "comics": {
+                    "available": 92,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/970/comics",
+                    "items": [
+                        {
+                            "name": "Civil War: X-Men Universe (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/6450"
+                        },
+                        {
+                            "name": "Daredevil Noir (Graphic Novel)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/32509"
+                        },
+                        {
+                            "name": "Daredevil Noir (2009) #1 (CALERO VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23978"
+                        },
+                        {
+                            "name": "Daredevil Noir (2009) #2 (CALERO VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24179"
+                        },
+                        {
+                            "name": "Daredevil Noir (2009) #3 (CALERO VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24767"
+                        },
+                        {
+                            "name": "Daredevil Noir (2009) #4 (CALERO VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24769"
+                        },
+                        {
+                            "name": "Daredevil Noir: Liars Poker (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24770"
+                        },
+                        {
+                            "name": "Dark Tower: The Fall of Gilead (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24176"
+                        },
+                        {
+                            "name": "Dark Tower: The Fall of Gilead (2009) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24879"
+                        },
+                        {
+                            "name": "Dark Tower: The Fall of Gilead (2009) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24882"
+                        },
+                        {
+                            "name": "Dark Tower: Treachery (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24087"
+                        },
+                        {
+                            "name": "Dark Tower: Treachery (2008) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23612"
+                        },
+                        {
+                            "name": "Dark Tower: Treachery (2008) #6 (CALERO VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23610"
+                        },
+                        {
+                            "name": "Hulk: Broken Worlds (2009) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24235"
+                        },
+                        {
+                            "name": "Incredible Hercules (2008) #120",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21707"
+                        },
+                        {
+                            "name": "Kidnapped! (2009) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23809"
+                        },
+                        {
+                            "name": "Luke Cage Noir (Graphic Novel)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33487"
+                        },
+                        {
+                            "name": "Luke Cage Noir (2009) #1 (CALERO VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/25635"
+                        },
+                        {
+                            "name": "Luke Cage Noir (2009) #2 (CALERO VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/25637"
+                        },
+                        {
+                            "name": "Luke Cage Noir (2009) #3 (CALERO VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/25639"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/970/events",
+                    "items": [
+                        {
+                            "name": "Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/238"
+                        },
+                        {
+                            "name": "Secret Invasion",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/269"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "firstName": "Dennis",
+                "fullName": "Dennis Calero",
+                "id": 970,
+                "lastName": "Calero",
+                "middleName": "",
+                "modified": "2013-01-30T19:06:22-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/970",
+                "series": {
+                    "available": 46,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/970/series",
+                    "items": [
+                        {
+                            "name": "Civil War: X-Men Universe (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1962"
+                        },
+                        {
+                            "name": "Daredevil Noir (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7152"
+                        },
+                        {
+                            "name": "Daredevil Noir (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9684"
+                        },
+                        {
+                            "name": "Daredevil Noir: Liars Poker (2009 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7661"
+                        },
+                        {
+                            "name": "Dark Tower: The Fall of Gilead (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7366"
+                        },
+                        {
+                            "name": "Dark Tower: Treachery (2008 - 2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/5624"
+                        },
+                        {
+                            "name": "Dark Tower: Treachery (2009 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7272"
+                        },
+                        {
+                            "name": "Hulk: Broken Worlds (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6990"
+                        },
+                        {
+                            "name": "Incredible Hercules (2008 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3762"
+                        },
+                        {
+                            "name": "Kidnapped! (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6795"
+                        },
+                        {
+                            "name": "Luke Cage Noir (2009 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7950"
+                        },
+                        {
+                            "name": "Luke Cage Noir (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10301"
+                        },
+                        {
+                            "name": "Marvel Noir: Wolverine & the X-Men (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17473"
+                        },
+                        {
+                            "name": "Peter Parker, the Spectacular Spider-Man (1976 - 1998)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2271"
+                        },
+                        {
+                            "name": "Pride & Prejudice (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7431"
+                        },
+                        {
+                            "name": "Punisher Noir (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10394"
+                        },
+                        {
+                            "name": "Punisher Noir (2009 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8201"
+                        },
+                        {
+                            "name": "Spider-Man Noir (2008 - 2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6343"
+                        },
+                        {
+                            "name": "Spider-Man Noir (2009 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7511"
+                        },
+                        {
+                            "name": "Spider-Man Noir GN-TPB (Reprint) (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15284"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 107,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/970/stories",
+                    "items": [
+                        {
+                            "name": "1 of 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4913",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4915",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 2 - Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5763",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "X-Factor (2005) 1-6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7536",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "X-Factor (2005) 1-6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7537",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "X-Factor 7-12",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7603",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #29919",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/29919",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #29922",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/29922",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #29926",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/29926",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #29930",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/29930",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "A Lizard's Tale",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/29934",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 4 - Secret Invasion",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47722",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5XLS 1 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50915",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4XLS 1 of 4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50931",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4XLS 1 of 4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50932",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4XLS 1 of 4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50933",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5XLS 2 of 4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/51289",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4XLS 2 of 4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/51305",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4XLS 2 of 4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/51306",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4XLS 2 of 4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/51307",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/4bc5d5fe9786a"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/970/dennis_calero?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 4
+    },
+    "etag": "5e90517d608d6732a2d36f325a9db10170afc154",
+    "status": "Ok"
+}

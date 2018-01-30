@@ -1,0 +1,15 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 0,
+        "limit": 2,
+        "offset": 0,
+        "results": [],
+        "total": 0
+    },
+    "etag": "00d466ed2733728a0d3542630fb23114cefa8400",
+    "status": "Ok"
+}

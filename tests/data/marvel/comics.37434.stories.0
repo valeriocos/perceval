@@ -1,0 +1,139 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82866/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82866/comics",
+                    "items": [
+                        {
+                            "name": "Captain America: Man Out of Time (2010) #1 (ADAMS VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37434"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82866/creators",
+                    "items": [
+                        {
+                            "name": "Art Adams",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+                            "role": "penciler"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82866/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82866,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Captain America: Man Out of Time (2010) #1 (ADAMS VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37434"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82866",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82866/series",
+                    "items": [
+                        {
+                            "name": "Captain America: Man Out of Time (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12288"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #82866",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82867/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82867/comics",
+                    "items": [
+                        {
+                            "name": "Captain America: Man Out of Time (2010) #1 (ADAMS VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37434"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82867/creators",
+                    "items": [
+                        {
+                            "name": "Jorge Molina",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8825",
+                            "role": "penciler"
+                        },
+                        {
+                            "name": "Mark Waid",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82867/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82867,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Captain America: Man Out of Time (2010) #1 (ADAMS VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37434"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82867",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82867/series",
+                    "items": [
+                        {
+                            "name": "Captain America: Man Out of Time (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12288"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #82867",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "98fd63c34169b1c245bc568621319d628effebec",
+    "status": "Ok"
+}

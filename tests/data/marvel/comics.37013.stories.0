@@ -1,0 +1,144 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82060/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82060/comics",
+                    "items": [
+                        {
+                            "name": "Avengers (2010) #7 (TRON VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37013"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82060/creators",
+                    "items": [
+                        {
+                            "name": "Brandon Peterson",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/532",
+                            "role": "penciler"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82060/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82060,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Avengers (2010) #7 (TRON VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37013"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82060",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82060/series",
+                    "items": [
+                        {
+                            "name": "Avengers (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9085"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #82060",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82061/characters",
+                    "items": [
+                        {
+                            "name": "Avengers",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82061/comics",
+                    "items": [
+                        {
+                            "name": "Avengers (2010) #7 (TRON VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37013"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82061/creators",
+                    "items": [
+                        {
+                            "name": "Brian Michael Bendis",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "John Romita JR.",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+                            "role": "artist"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82061/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82061,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Avengers (2010) #7 (TRON VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37013"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82061",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82061/series",
+                    "items": [
+                        {
+                            "name": "Avengers (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9085"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #82061",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "71518efe4f801fdfcb06b89783f2af443efb0f1e",
+    "status": "Ok"
+}

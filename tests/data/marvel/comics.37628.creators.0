@@ -1,0 +1,676 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 155,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/174/comics",
+                    "items": [
+                        {
+                            "name": "Amazing Spider-Man (1999) #700.5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49109"
+                        },
+                        {
+                            "name": "Annihilation: Conquest (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51373"
+                        },
+                        {
+                            "name": "Avengers (1998) #79",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/360"
+                        },
+                        {
+                            "name": "Avengers Academy (2010) #9",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29224"
+                        },
+                        {
+                            "name": "Avengers Academy (2010) #10",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29214"
+                        },
+                        {
+                            "name": "Avengers Academy (2010) #13",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36483"
+                        },
+                        {
+                            "name": "Avengers Academy (2010) #13 (THOR HOLLYWOOD VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38698"
+                        },
+                        {
+                            "name": "Avengers Academy (2010) #14",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36478"
+                        },
+                        {
+                            "name": "Avengers Academy (2010) #14.1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39855"
+                        },
+                        {
+                            "name": "Avengers Academy (2010) #17",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36480"
+                        },
+                        {
+                            "name": "Avengers Academy (2010) #21",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36489"
+                        },
+                        {
+                            "name": "Avengers Academy (2010) #22",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36485"
+                        },
+                        {
+                            "name": "AVENGERS ACADEMY VOL. 2: WILL WE USE THIS IN THE REAL WORLD? PREMIERE HC (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29325"
+                        },
+                        {
+                            "name": "Avengers by Kurt Busiek & George Perez (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51434"
+                        },
+                        {
+                            "name": "Avengers Infinity (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/45889"
+                        },
+                        {
+                            "name": "Avengers: Infinity (2000) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/64198"
+                        },
+                        {
+                            "name": "Avengers: Infinity (2000) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/64197"
+                        },
+                        {
+                            "name": "Avengers: Infinity (2000) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/64195"
+                        },
+                        {
+                            "name": "Avengers: Infinity (2000) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/64194"
+                        },
+                        {
+                            "name": "Avengers Vol. 4: Lionheart of Avalon (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1303"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 9,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/174/events",
+                    "items": [
+                        {
+                            "name": "Annihilation: Conquest",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/293"
+                        },
+                        {
+                            "name": "Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/238"
+                        },
+                        {
+                            "name": "Dark Reign",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/318"
+                        },
+                        {
+                            "name": "Fear Itself",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/302"
+                        },
+                        {
+                            "name": "Initiative",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/255"
+                        },
+                        {
+                            "name": "Maximum Carnage",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/151"
+                        },
+                        {
+                            "name": "Secret Invasion",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/269"
+                        },
+                        {
+                            "name": "Shadowland",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/59"
+                        },
+                        {
+                            "name": "Shattered Heroes",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/309"
+                        }
+                    ],
+                    "returned": 9
+                },
+                "firstName": "Sean",
+                "fullName": "Sean Chen",
+                "id": 174,
+                "lastName": "Chen",
+                "middleName": "",
+                "modified": "2015-07-06T11:24:41-0400",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/174",
+                "series": {
+                    "available": 53,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/174/series",
+                    "items": [
+                        {
+                            "name": "Amazing Spider-Man (1999 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/454"
+                        },
+                        {
+                            "name": "AMAZING SPIDER-MAN: PETER PARKER - THE ONE AND ONLY TPB (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18445"
+                        },
+                        {
+                            "name": "Annihilation: Conquest (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19274"
+                        },
+                        {
+                            "name": "Avengers (1998 - 2004)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/354"
+                        },
+                        {
+                            "name": "Avengers Academy (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9086"
+                        },
+                        {
+                            "name": "AVENGERS ACADEMY VOL. 2: WILL WE USE THIS IN THE REAL WORLD? PREMIERE HC (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10038"
+                        },
+                        {
+                            "name": "Avengers by Kurt Busiek & George Perez (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19291"
+                        },
+                        {
+                            "name": "Avengers Infinity (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17310"
+                        },
+                        {
+                            "name": "Avengers Vol. 4: Lionheart of Avalon (2004)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1197"
+                        },
+                        {
+                            "name": "Avengers: Infinity (2000)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/23400"
+                        },
+                        {
+                            "name": "Civil War: Peter Parker, Spider-Man (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2224"
+                        },
+                        {
+                            "name": "Dark Reign: Fantastic Four (2009 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7687"
+                        },
+                        {
+                            "name": "Dark Reign: Fantastic Four (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7000"
+                        },
+                        {
+                            "name": "Elektra (2001 - 2004)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/574"
+                        },
+                        {
+                            "name": "Elektra Vol. III: Relentless (2004)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/280"
+                        },
+                        {
+                            "name": "Fantastic Four by Jonathan Hickman Omnibus (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18200"
+                        },
+                        {
+                            "name": "Gambit (1999 - 2001)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/21593"
+                        },
+                        {
+                            "name": "Iron Man (1998 - 2004)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2572"
+                        },
+                        {
+                            "name": "Iron Man: Deadly Solutions (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9209"
+                        },
+                        {
+                            "name": "Iron Man: Deadly Solutions (Direct Market Only) (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9232"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 253,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/174/stories",
+                    "items": [
+                        {
+                            "name": "When Wolverine rebuffs the reconstituted Weapon X program, management is forced to settle for second best \u00d1 but Deadpool's first",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/85",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "There's a new killer in town, and he wants Wolverine's title all to himself. Who is the mysterious Mr. X, and how far is he will",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/86",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "In this collection, Wolverine probes the dark and seamy underbelly of the city, and guts it.  Placing himself in the center of a",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/168",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Experience the life of Elektra, the stunning killer-for-hire, from two unique perspectives \u2013 through the eyes of the assassin he",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/355",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #1915",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1915",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Avengers (1998) #79",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1949",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #1950",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1950",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #2159",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2159",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 3 - Mysterious",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3016",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 3 - Women in Peter's Life",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3018",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "SENSATIONAL SPIDER-MAN (2006) #34",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3019",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 3 - Women in Peter's Life",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3020",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 of 6 - Dreamers and Demons",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3205",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #3207",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3207",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #3209",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3209",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "X-Men godfather Chris Claremont writes his take on the closing days of the X-Men, with art by fan-favorite Sean Chen (Wolverine,",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3211",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "\"DREAMERS AND DEMONS\" PART 4 (OF 6) It's the last stand of X-Force as an old foe of the X-teams emerges from the unlikeliest of ",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3213",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "6 of 6 - Dreamers and Demons",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3215",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 6 - Heroes and Martyrs",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3217",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 6 - Heroes and Martyrs",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3219",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4c7d64645be0e"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/174/sean_chen?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            },
+            {
+                "comics": {
+                    "available": 51,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/796/comics",
+                    "items": [
+                        {
+                            "name": "Amazing Spider-Man Annual (2011) #38",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36956"
+                        },
+                        {
+                            "name": "Cyclops (2014) #7",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50458"
+                        },
+                        {
+                            "name": "Cyclops (2014) #8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50459"
+                        },
+                        {
+                            "name": "Cyclops (2014) #9",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50460"
+                        },
+                        {
+                            "name": "Cyclops (2014) #10",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50461"
+                        },
+                        {
+                            "name": "Cyclops (2014) #11",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50462"
+                        },
+                        {
+                            "name": "Cyclops (2014) #12",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50463"
+                        },
+                        {
+                            "name": "Cyclops (2014) #12 (Sorrentino Cosmically Enhanced Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51605"
+                        },
+                        {
+                            "name": "Deadpool Annual (2011) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36953"
+                        },
+                        {
+                            "name": "Deadpool Classic Vol. 15: All the Rest (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/58863"
+                        },
+                        {
+                            "name": "DEADPOOL/AMAZING \u00e2\u20ac\u00a8SPIDER-MAN/HULK: IDENTITY WARS PREMIERE HC (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39394"
+                        },
+                        {
+                            "name": "Decimation: Sentinel Squad O*N*E (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4760"
+                        },
+                        {
+                            "name": "Fantastic Four: House of M (2005) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2361"
+                        },
+                        {
+                            "name": "Fantastic Four: House of M (2005) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2828"
+                        },
+                        {
+                            "name": "Gambit (2004) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/799"
+                        },
+                        {
+                            "name": "Gambit (2004) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/856"
+                        },
+                        {
+                            "name": "Gambit (2004) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/881"
+                        },
+                        {
+                            "name": "Gambit (2004) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51"
+                        },
+                        {
+                            "name": "Gambit (2004) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1450"
+                        },
+                        {
+                            "name": "Gambit (2004) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1541"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/796/events",
+                    "items": [
+                        {
+                            "name": "House of M",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/251"
+                        },
+                        {
+                            "name": "Shadowland",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/59"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "firstName": "John",
+                "fullName": "John Layman",
+                "id": 796,
+                "lastName": "Layman",
+                "middleName": "",
+                "modified": "2013-01-28T17:49:54-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/796",
+                "series": {
+                    "available": 23,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/796/series",
+                    "items": [
+                        {
+                            "name": "Amazing Spider-Man Annual (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13205"
+                        },
+                        {
+                            "name": "Cyclops (2014 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18864"
+                        },
+                        {
+                            "name": "Deadpool Annual (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13202"
+                        },
+                        {
+                            "name": "Deadpool Classic Vol. 15: All the Rest (2016)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/21458"
+                        },
+                        {
+                            "name": "DEADPOOL/AMAZING \u00e2\u20ac\u00a8SPIDER-MAN/HULK: IDENTITY WARS PREMIERE HC (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14349"
+                        },
+                        {
+                            "name": "Decimation: Sentinel Squad O*N*E (2006)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1650"
+                        },
+                        {
+                            "name": "Fantastic Four: House of M (2005)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/933"
+                        },
+                        {
+                            "name": "Gambit (2004 - 2005)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/777"
+                        },
+                        {
+                            "name": "Gambit: Hath No Fury (2005)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1476"
+                        },
+                        {
+                            "name": "Gambit: House of Cards (2005)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1289"
+                        },
+                        {
+                            "name": "Guardians of the Galaxy & X-Men: The Black Vortex (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19444"
+                        },
+                        {
+                            "name": "Guardians Team-Up (2015 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19453"
+                        },
+                        {
+                            "name": "Guardians Team-Up Vol. 1: Guardians Assemble (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19454"
+                        },
+                        {
+                            "name": "House of M: Fantastic Four/Iron Man (2006)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1615"
+                        },
+                        {
+                            "name": "Incredible Hulks Annual (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13197"
+                        },
+                        {
+                            "name": "Marvel Age Fantastic Four (2004 - 2005)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/741"
+                        },
+                        {
+                            "name": "Marvel Age Fantastic Four Vol. 2: Doom (2004)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1317"
+                        },
+                        {
+                            "name": "Marvel Zombies/Army of Darkness (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2209"
+                        },
+                        {
+                            "name": "Marvel Zombies/Army of Darkness (2007 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9036"
+                        },
+                        {
+                            "name": "Marvel Zombies/Army of Darkness (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2960"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 51,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/796/stories",
+                    "items": [
+                        {
+                            "name": "An unstoppable robot from a doomed world prepares Earth for invasion! With the public caught in the grip of alien mind-control t",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3280",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 6 - House of Cards",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3735",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "NEW X-MEN SERIES!  The Ragin\u2019 Cajun is back with a vengeance in his very own ongoing series! Ever wonder what GAMBIT gets up to ",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3737",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "NEW X-MEN SERIES!  The Ragin\u2019 Cajun is back with a vengeance in his very own ongoing series! Ever wonder what GAMBIT gets up to ",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3739",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "\u201cHOUSE OF CARDS\u201d PART 3 (OF 6) The time has arrived for the Big Heist\u2014and Gambit\u2019s never been more ready! What he doesn\u2019t know i",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3741",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 of 6 - House of Cards",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3743",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "6 of 6 - House of Cards",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3745",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 3 - Voodoo Economics",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3747",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 3 - Voodoo Economics",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3749",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 3 - Voodoo Economics",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3751",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 3 - Hath No Fury",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3753",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 3 - Hath No Fury",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3755",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 3 - Hath No Fury",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3757",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 3 - 3XLS",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5129",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 3 - 3XLS",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5131",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 3 - 3XLS",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5133",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 5 XLS",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5581",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 5 XLS",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5583",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 5 XLS - Tin Can Heroes",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5585",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 5 XLS - Tin Can Heroes",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5587",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/796/john_layman?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 2
+    },
+    "etag": "82cb086c5818d125d285d03f83fca44b4cc9fd2a",
+    "status": "Ok"
+}

@@ -1,0 +1,631 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 40,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/11002/comics",
+                    "items": [
+                        {
+                            "name": "MIRACLEMAN BOOK 1: A DREAM OF FLYING PREMIERE HC  (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/49678"
+                        },
+                        {
+                            "name": "Marvelman (1954) #25",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/62614"
+                        },
+                        {
+                            "name": "Marvelman (1954) #26",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/62615"
+                        },
+                        {
+                            "name": "Marvelman (1954) #27",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/62616"
+                        },
+                        {
+                            "name": "Marvelman (1954) #28",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/62617"
+                        },
+                        {
+                            "name": "Marvelman (1954) #29",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/62618"
+                        },
+                        {
+                            "name": "Marvelman (1954) #30",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/62619"
+                        },
+                        {
+                            "name": "Marvelman (1954) #31",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/62620"
+                        },
+                        {
+                            "name": "Marvelman (1954) #32",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/62621"
+                        },
+                        {
+                            "name": "Marvelman (1954) #33",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/62622"
+                        },
+                        {
+                            "name": "Marvelman (1954) #34",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/62623"
+                        },
+                        {
+                            "name": "Marvelman Classic Vol. 1 (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/61168"
+                        },
+                        {
+                            "name": "Marvelman Classic Primer (2010) #1 (MICK ANGLO VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29287"
+                        },
+                        {
+                            "name": "Marvelman Classic Vol. 1 (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33645"
+                        },
+                        {
+                            "name": "Marvelman Classic Vol. 1 (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33592"
+                        },
+                        {
+                            "name": "Marvelman Family's Finest (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36221"
+                        },
+                        {
+                            "name": "Marvelman Family's Finest (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33420"
+                        },
+                        {
+                            "name": "Marvelman Family's Finest (2010) #1 (REMASTERED ANGLO VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35266"
+                        },
+                        {
+                            "name": "Marvelman Family's Finest (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/34894"
+                        },
+                        {
+                            "name": "Marvelman Family's Finest (2010) #1 (VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35267"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/11002/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "firstName": "Mick",
+                "fullName": "Mick Anglo",
+                "id": 11002,
+                "lastName": "Anglo",
+                "middleName": "",
+                "modified": "2013-12-11T11:18:14-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/11002",
+                "series": {
+                    "available": 12,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/11002/series",
+                    "items": [
+                        {
+                            "name": "Marvelman (1954 - 1963)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22985"
+                        },
+                        {
+                            "name": "Marvelman Classic Primer (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9919"
+                        },
+                        {
+                            "name": "Marvelman Classic Vol. 1 (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22506"
+                        },
+                        {
+                            "name": "Marvelman Classic Vol. 1 (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/11418"
+                        },
+                        {
+                            "name": "Marvelman Classic Vol. 1 (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/11301"
+                        },
+                        {
+                            "name": "Marvelman Family's Finest (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12199"
+                        },
+                        {
+                            "name": "Marvelman Family's Finest (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9920"
+                        },
+                        {
+                            "name": "Marvelman Family's Finest Anglo Variant (DM Only) (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12452"
+                        },
+                        {
+                            "name": "Miracleman (2014 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18688"
+                        },
+                        {
+                            "name": "Miracleman Book 1: A Dream of Flying (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18879"
+                        },
+                        {
+                            "name": "MIRACLEMAN BOOK 1: A DREAM OF FLYING PREMIERE HC  (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18691"
+                        },
+                        {
+                            "name": "Young Marvelman Classic (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14359"
+                        }
+                    ],
+                    "returned": 12
+                },
+                "stories": {
+                    "available": 51,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/11002/stories",
+                    "items": [
+                        {
+                            "name": "Cover #63741",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/63741",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #75105",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/75105",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #75114",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/75114",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #75117",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/75117",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #75122",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/75122",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #75501",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/75501",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #75648",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/75648",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #75649",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/75649",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #77290",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/77290",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Marvelman Family's Finest Premiere HC (Anglo Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/77858",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Marvelman Family's Finest Premiere HC (Anglo Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/77859",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #78290",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/78290",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Marvelman Family's Finest Premiere HC",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80183",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Marvelman Family's Finest Premiere HC",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80184",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #89430",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/89430",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "story from Machine Man (2014) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/111281",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "story from Machine Man (2014) #1 (TBD ARTIST VARIANT B)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/111283",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "story from Machine Man (2014) #1 (TBD ARTIST VARIANT A)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/111285",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "story from Machine Man (2014) #1 (YOUNG VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/111287",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "story from Machine Man (2014) #1 (YU VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/111289",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4ba945af65b57"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/11002/mick_anglo?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            },
+            {
+                "comics": {
+                    "available": 228,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/708/comics",
+                    "items": [
+                        {
+                            "name": "Age of Heroes (2010) #1 (HEROIC AGE VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33323"
+                        },
+                        {
+                            "name": "ALL-NEW, ALL-DIFFERENT MARVEL POINT ONE  (2015) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/56455"
+                        },
+                        {
+                            "name": "Annihilation: Conquest (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51373"
+                        },
+                        {
+                            "name": "Annihilation: Conquest Book 1 (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17688"
+                        },
+                        {
+                            "name": "Annihilation: Conquest Prologue (2007) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/15891"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #48",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40809"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #49",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40806"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #50",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40805"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #51",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40803"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #51 (Create Your Own Wedding Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43221"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #51 (Djurdjevic Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/42732"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #52",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40802"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #53",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40801"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #54",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40800"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #55",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40804"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #56",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40808"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 10 (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40950"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 11 (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41607"
+                        },
+                        {
+                            "name": "Avengers Arena (2012) #1 (Perkins Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/44676"
+                        },
+                        {
+                            "name": "Avengers Arena (2012) #16 (Perkins Thor Battle Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48752"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 8,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/708/events",
+                    "items": [
+                        {
+                            "name": "Annihilation: Conquest",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/293"
+                        },
+                        {
+                            "name": "Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/238"
+                        },
+                        {
+                            "name": "House of M",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/251"
+                        },
+                        {
+                            "name": "Initiative",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/255"
+                        },
+                        {
+                            "name": "Messiah CompleX",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/299"
+                        },
+                        {
+                            "name": "Secret Invasion",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/269"
+                        },
+                        {
+                            "name": "Shadowland",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/59"
+                        },
+                        {
+                            "name": "X-Men: Second Coming",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/279"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "firstName": "Mike",
+                "fullName": "Mike Perkins",
+                "id": 708,
+                "lastName": "Perkins",
+                "middleName": "",
+                "modified": "2016-11-09T14:37:13-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/708",
+                "series": {
+                    "available": 108,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/708/series",
+                    "items": [
+                        {
+                            "name": "Age of Heroes (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9790"
+                        },
+                        {
+                            "name": "ALL-NEW, ALL-DIFFERENT MARVEL POINT ONE  (2015 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20683"
+                        },
+                        {
+                            "name": "All-New, All-Different Point One (2015 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20684"
+                        },
+                        {
+                            "name": "All-New, All-Different Point One (2015 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20685"
+                        },
+                        {
+                            "name": "Annihilation: Conquest (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19274"
+                        },
+                        {
+                            "name": "Annihilation: Conquest Book 1 (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3454"
+                        },
+                        {
+                            "name": "Annihilation: Conquest Prologue (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2420"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/744"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 10 (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15165"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 11 (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15509"
+                        },
+                        {
+                            "name": "Avengers Arena (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16875"
+                        },
+                        {
+                            "name": "Avengers/Invaders (2008 - 2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/4864"
+                        },
+                        {
+                            "name": "Avengers: Time Runs Out (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19320"
+                        },
+                        {
+                            "name": "BLACK PANTHER ANNUAL 1 (2018 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/24015"
+                        },
+                        {
+                            "name": "Cap Transport (2005 - 2006)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2722"
+                        },
+                        {
+                            "name": "Captain America (2004 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/832"
+                        },
+                        {
+                            "name": "Captain America 70th Anniversary Edition (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12470"
+                        },
+                        {
+                            "name": "Captain America by Ed Brubaker Omnibus Vol. 1 (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2969"
+                        },
+                        {
+                            "name": "Captain America: Red Menace Ultimate Collection (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13767"
+                        },
+                        {
+                            "name": "Captain America: Red Menace Vol. 1 (2006)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1804"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 293,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/708/stories",
+                    "items": [
+                        {
+                            "name": "1 of 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2802",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #4174",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4174",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4192",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 6 - Winter Soldier",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4248",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 2 - Crossbones & Sin",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4260",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 2 - Crossbones & Sin",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4262",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of ? - Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4272",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 3 - Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4274",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 3 - Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4276",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #4517",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4517",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4642",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4643",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4644",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4645",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 6 - Signs & Womders",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4646",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 6 - Signs & Womders",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4647",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 6 - Signs & Womders",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4648",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 6 - Signs & Womders",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4649",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 of 6 - Signs & Womders",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4650",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 of 6 - Signs & Womders",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4651",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc628cd1bed7"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/708/mike_perkins?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 2
+    },
+    "etag": "68c2f76f65bf6d4e2fa0e9a909e3676035483969",
+    "status": "Ok"
+}

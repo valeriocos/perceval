@@ -1,0 +1,344 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 1,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 261,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/63/comics",
+                    "items": [
+                        {
+                            "name": "All-New X-Men (2012) #27 (Ross 75th Anniversary Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50426"
+                        },
+                        {
+                            "name": "All-New X-Men (2012) #27 (75th Anniversary Sketch Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50427"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55351"
+                        },
+                        {
+                            "name": "Avengers (2016) #1.1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/59596"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55354"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55356"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55357"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55358"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55359"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #7",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55360"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55361"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #9",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55362"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #10",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55363"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #11",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55364"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #12",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55365"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #13",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55366"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #14",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55367"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015) #15",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/55368"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers Annual (2016) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60276"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers Vol. 3: Civil War II (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/59433"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 5,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/63/events",
+                    "items": [
+                        {
+                            "name": "Dead No More: The Clone Conspiracy",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/332"
+                        },
+                        {
+                            "name": "Marvel NOW!",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/311"
+                        },
+                        {
+                            "name": "Secret Empire",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/336"
+                        },
+                        {
+                            "name": "Secret Wars",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/270"
+                        },
+                        {
+                            "name": "Secret Wars (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/323"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "firstName": "Alex",
+                "fullName": "Alex Ross",
+                "id": 63,
+                "lastName": "Ross",
+                "middleName": "",
+                "modified": "2016-11-08T10:29:01-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+                "series": {
+                    "available": 100,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/63/series",
+                    "items": [
+                        {
+                            "name": "All-New X-Men (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16449"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers (2015 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20443"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers Annual (2016 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22190"
+                        },
+                        {
+                            "name": "All-New, All-Different Avengers Vol. 3: Civil War II (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/21651"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/454"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (2014 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17285"
+                        },
+                        {
+                            "name": "Amazing Spider-Man 500 Covers (2004)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1229"
+                        },
+                        {
+                            "name": "AMAZING SPIDER-MAN ANNUAL 42 (2018 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/23999"
+                        },
+                        {
+                            "name": "Amazing Spider-Man Omnibus Vol. 1 (Book Market (2007)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1970"
+                        },
+                        {
+                            "name": "Amazing Spider-Man Vol. 1 (2016)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20687"
+                        },
+                        {
+                            "name": "Amazing Spider-Man Vol. 1.1: Learning to Crawl (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17287"
+                        },
+                        {
+                            "name": "Amazing Spider-Man: Green Goblin by Alex Ross Poster (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/5269"
+                        },
+                        {
+                            "name": "Amazing Spider-Man: Worldwide Vol. 3 (2016)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20412"
+                        },
+                        {
+                            "name": "Amazing Spider-Man: Worldwide Vol. 6 (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22108"
+                        },
+                        {
+                            "name": "Amazing Spider-Man: Worldwide Vol. 7 (2018)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22109"
+                        },
+                        {
+                            "name": "Art of Marvel Comics Vol. I (2003)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/237"
+                        },
+                        {
+                            "name": "Avengers (2016 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22547"
+                        },
+                        {
+                            "name": "Avengers/Invaders (2008 - 2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/4864"
+                        },
+                        {
+                            "name": "Avengers/Invaders Alex Ross (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/4791"
+                        },
+                        {
+                            "name": "Avengers: The Vibranium Collection (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19316"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 374,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/63/stories",
+                    "items": [
+                        {
+                            "name": "Earth X explores the depths and heights of the Marvel Universe from the roots of its humble beginnings to the peak of its ultima",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/112",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "The critically acclaimed trilogy begins its next installment as we find things in this alternate future timeline not working out",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/113",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Much is revealed in the final chapter of Universe X: Why has Mephisto been manipulating Thanos, Nighthawk, Gargoyle and Dr. Doom",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/114",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "He is the son of Mar-Vell, once the greatest warrior the galaxy had ever known. Spawned in a test tube and prematurely aged to m",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/199",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "The story that inspired SUPREME POWER by J. Michael Straczynski & Gary Frank!\nBefore WATCHMEN, before KINGDOM COME, before THE A",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/274",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "The epic, visionary EARTH X saga continues! Will the heroes of Earth be able to solve the problems of the Paradise they helped c",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/284",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "The epic, visionary EARTH X saga continues! Will the heroes of Earth be able to solve the problems of the Paradise they helped c",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/285",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "The epic, visionary Earth X saga continues! Will the heroes of Earth be able to solve the problems of the Paradise they helped c",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/295",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "The epic, visionary Earth X saga continues! Will the heroes of Earth be able to solve the problems of the Paradise they helped c",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/296",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "This special hardcover volume is a who's who of the industry's most talented artists and painters presenting unparalleled vision",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/308",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "The epic, visionary EARTH X saga continues! Will the heroes of Earth be able to solve the problems of the Paradise they helped c",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/357",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "The epic, visionary EARTH X saga continues! Will the heroes of Earth be able to solve the problems of the Paradise they helped c",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/358",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Welcome to New York City. Here, burning figures roam the streets, men in brightly colored costumes scale the glass and concrete ",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/394",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Welcome to New York City. Here, burning figures roam the streets, men in brightly colored costumes scale the glass and concrete ",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/395",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "\"This deluxe hardcover volume celebrates more than four decades and a landmark 500 issues of AMAZING SPIDER-MAN by collecting ev",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6433",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Earth X 0, 1-12",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7087",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Earth X 0, 1-12",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7088",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #8521",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8521",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #24413",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/24413",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "[The Origin of the Human Torch]",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/24415",
+                            "type": ""
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc473d2f18f6"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/63/alex_ross?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 1
+    },
+    "etag": "96a613251bf45812393e32c02350d2ee205bb0b2",
+    "status": "Ok"
+}

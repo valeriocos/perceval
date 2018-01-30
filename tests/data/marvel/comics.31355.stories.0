@@ -1,0 +1,134 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/71395/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/71395/comics",
+                    "items": [
+                        {
+                            "name": "The Stand: Hardcases (2010) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/31355"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/71395/creators",
+                    "items": [
+                        {
+                            "name": "Tomm Coker",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1421",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/71395/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 71395,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "The Stand: Hardcases (2010) #5",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/31355"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/71395",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/71395/series",
+                    "items": [
+                        {
+                            "name": "The Stand: Hardcases (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9948"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #71395",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/71396/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/71396/comics",
+                    "items": [
+                        {
+                            "name": "The Stand: Hardcases (2010) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/31355"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/71396/creators",
+                    "items": [
+                        {
+                            "name": "Mike Perkins",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/708",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/71396/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 71396,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "The Stand: Hardcases (2010) #5",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/31355"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/71396",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/71396/series",
+                    "items": [
+                        {
+                            "name": "The Stand: Hardcases (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9948"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #71396",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "50f8c63a5a25a8324f5cb5120b7bae28808aeade",
+    "status": "Ok"
+}

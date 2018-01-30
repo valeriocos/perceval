@@ -1,0 +1,668 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 187,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/648/comics",
+                    "items": [
+                        {
+                            "name": "Age of X: Universe (2011) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38524"
+                        },
+                        {
+                            "name": "Age of X: Universe (2011) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38523"
+                        },
+                        {
+                            "name": "All-New Captain America: Fear Him (2015) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51249"
+                        },
+                        {
+                            "name": "All-New Captain America: Fear Him (2015) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51250"
+                        },
+                        {
+                            "name": "All-New Captain America: Fear Him (2015) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51251"
+                        },
+                        {
+                            "name": "All-New Captain America: Fear Him (2015) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51252"
+                        },
+                        {
+                            "name": "The Amazing Spider-Man (2017) #1.1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/56490"
+                        },
+                        {
+                            "name": "The Amazing Spider-Man (2017) #1.3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/56493"
+                        },
+                        {
+                            "name": "The Amazing Spider-Man (2017) #1.4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/56494"
+                        },
+                        {
+                            "name": "The Amazing Spider-Man (2017) #1.5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/56495"
+                        },
+                        {
+                            "name": "The Amazing Spider-Man (2017) #1.6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/56496"
+                        },
+                        {
+                            "name": "The Amazing Spider-Man (2017) #1.6 (Bianchi Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/59852"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (2014) #15 (Bianchi Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51325"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (2014) #16.1 (Bianchi Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/53014"
+                        },
+                        {
+                            "name": "The Amazing Spider-Man (2017) #20 (Bianchi Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/61940"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #555 (VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20961"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #622",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28227"
+                        },
+                        {
+                            "name": "Amazing Spider-Man Annual (2014) #1 (Bianchi Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/51334"
+                        },
+                        {
+                            "name": "Amazing Spider-Man: Amazing Grace (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/56491"
+                        },
+                        {
+                            "name": "Astonishing Spider-Man & Wolverine: Another Fine Mess (2011) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38462"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 7,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/648/events",
+                    "items": [
+                        {
+                            "name": "Age of X",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/303"
+                        },
+                        {
+                            "name": "Dark Reign",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/318"
+                        },
+                        {
+                            "name": "Fear Itself",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/302"
+                        },
+                        {
+                            "name": "Inhumanity",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/317"
+                        },
+                        {
+                            "name": "Initiative",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/255"
+                        },
+                        {
+                            "name": "Original Sin",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/319"
+                        },
+                        {
+                            "name": "Star Wars",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/327"
+                        }
+                    ],
+                    "returned": 7
+                },
+                "firstName": "Simone",
+                "fullName": "Simone Bianchi",
+                "id": 648,
+                "lastName": "Bianchi",
+                "middleName": "",
+                "modified": "2016-11-09T11:18:25-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+                "series": {
+                    "available": 91,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/648/series",
+                    "items": [
+                        {
+                            "name": "Age of X: Universe (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13896"
+                        },
+                        {
+                            "name": "All-New Captain America: Fear Him (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19344"
+                        },
+                        {
+                            "name": "All-New Captain America: Fear Him (2015 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19253"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/454"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (2014 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17285"
+                        },
+                        {
+                            "name": "Amazing Spider-Man Annual (2014 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18900"
+                        },
+                        {
+                            "name": "Amazing Spider-Man: Amazing Grace (2016)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20695"
+                        },
+                        {
+                            "name": "Astonishing Spider-Man & Wolverine: Another Fine Mess (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13864"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/744"
+                        },
+                        {
+                            "name": "Astonishing X-Men: Ghost Box (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8916"
+                        },
+                        {
+                            "name": "Astonishing X-Men: Ghost Boxes (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/5998"
+                        },
+                        {
+                            "name": "Avengers (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16452"
+                        },
+                        {
+                            "name": "Avengers World (2014 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18398"
+                        },
+                        {
+                            "name": "Black Panther: The Man Without Fear (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15691"
+                        },
+                        {
+                            "name": "Black Panther: The Man Without Fear - Fear Itself TPB (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13165"
+                        },
+                        {
+                            "name": "Cable and X-Force (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16907"
+                        },
+                        {
+                            "name": "Captain America (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16516"
+                        },
+                        {
+                            "name": "Captain America: Steve Rogers (2016 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/21098"
+                        },
+                        {
+                            "name": "Champions (2016 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22552"
+                        },
+                        {
+                            "name": "Civil War II: Amazing Spider-Man (2016 - 2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/21691"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 288,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/648/stories",
+                    "items": [
+                        {
+                            "name": "WOLVERINE (2003) #50",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2243",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2244",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7641",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7642",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7643",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7644",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8111",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8112",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8113",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8114",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8115",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8116",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 of 6 - Evolution / No Cover or Interior Ads! UPC on Cv4!",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8586",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 of 6 - Evolution / No Cover or Interior Ads! UPC on Cv4!",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8587",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8588",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8589",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "THE INITIATIVE BANNER",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/32309",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "6 of 6 - Evolution / No Cover or Interior Ads! UPC on Cv4!",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/32526",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "6 of 6 - Evolution / No Cover or Interior Ads! UPC on Cv4!",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/32527",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "6 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/32528",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bc5a8bb82ff1"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/648/simone_bianchi?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            },
+            {
+                "comics": {
+                    "available": 37,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/5003/comics",
+                    "items": [
+                        {
+                            "name": "Age of X: Universe (2011) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38524"
+                        },
+                        {
+                            "name": "Age of X: Universe (2011) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38523"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #622",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28227"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #25",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21511"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #26",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21714"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #27",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21941"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #28",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23087"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #29",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23937"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #30",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24501"
+                        },
+                        {
+                            "name": "Astonishing X-Men: Ghost Boxes (2008) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22572"
+                        },
+                        {
+                            "name": "Dark Avengers (2009) #7 (BIANCHI VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/27815"
+                        },
+                        {
+                            "name": "Dark Avengers/Uncanny X-Men: Utopia (2009) #1 (BIANCHI VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/27555"
+                        },
+                        {
+                            "name": "Dark Reign: Fantastic Four (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23843"
+                        },
+                        {
+                            "name": "Dark Wolverine (2009) #89",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30389"
+                        },
+                        {
+                            "name": "Dark X-Men (2009) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28687"
+                        },
+                        {
+                            "name": "Dark X-Men (2009) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28688"
+                        },
+                        {
+                            "name": "Fear Itself: Uncanny X-Force (2011) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39003"
+                        },
+                        {
+                            "name": "Fear Itself: Uncanny X-Force (2011) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39004"
+                        },
+                        {
+                            "name": "Fear Itself: Uncanny X-Force (2011) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39002"
+                        },
+                        {
+                            "name": "Nova Vol. 6: Realm of Kings (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28887"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/5003/events",
+                    "items": [
+                        {
+                            "name": "Age of X",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/303"
+                        },
+                        {
+                            "name": "Dark Reign",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/318"
+                        },
+                        {
+                            "name": "Fear Itself",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/302"
+                        },
+                        {
+                            "name": "Realm of Kings",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/295"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "firstName": "Simone",
+                "fullName": "Simone Peruzzi",
+                "id": 5003,
+                "lastName": "Peruzzi",
+                "middleName": "",
+                "modified": "2010-11-29T12:03:02-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/5003",
+                "series": {
+                    "available": 18,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/5003/series",
+                    "items": [
+                        {
+                            "name": "Age of X: Universe (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13896"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/454"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/744"
+                        },
+                        {
+                            "name": "Astonishing X-Men: Ghost Boxes (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/5998"
+                        },
+                        {
+                            "name": "Dark Avengers (2009 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6599"
+                        },
+                        {
+                            "name": "Dark Avengers/Uncanny X-Men: Utopia (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8799"
+                        },
+                        {
+                            "name": "Dark Reign: Fantastic Four (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7000"
+                        },
+                        {
+                            "name": "Dark Wolverine (2009 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7707"
+                        },
+                        {
+                            "name": "Dark X-Men (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9051"
+                        },
+                        {
+                            "name": "Fear Itself: Uncanny X-Force (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14151"
+                        },
+                        {
+                            "name": "Nova Vol. 6: Realm of Kings (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8166"
+                        },
+                        {
+                            "name": "Thor: For Asgard (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12037"
+                        },
+                        {
+                            "name": "Ultimate Origins (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/5017"
+                        },
+                        {
+                            "name": "Uncanny X-Men (1963 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2258"
+                        },
+                        {
+                            "name": "Wolverine (2003 - 2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/632"
+                        },
+                        {
+                            "name": "Wolverine (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9962"
+                        },
+                        {
+                            "name": "Wolverine Origins (2006 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2375"
+                        },
+                        {
+                            "name": "Wolverine: Evolution (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3857"
+                        }
+                    ],
+                    "returned": 18
+                },
+                "stories": {
+                    "available": 51,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/5003/stories",
+                    "items": [
+                        {
+                            "name": "6 of 6 - Evolution",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/32529",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "ASTONISHING X-MEN (2004) #25",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47427",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 6 Ghost Box",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47428",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 6 Ghost Box",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47736",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 6 Ghost Box",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48234",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Astonishing X-Men: Ghost Boxes (2008) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50028",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "ASTONISHING X-MEN (2004) #28",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/51201",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 6 Ghost Box",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/51202",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5XLS 1 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/52898",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 of 6 Ghost Box",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/53092",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #54036",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/54036",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #59119",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/59119",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #60387",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/60387",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #60889",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/60889",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #60967",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/60967",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #60969",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/60969",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #622",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/61676",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #62381",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62381",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #62568",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62568",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #62570",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62570",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/4bb7987f9ec4a"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/5003/simone_peruzzi?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 4
+    },
+    "etag": "9ca3806a520efbd3644c526ca9605cd79dc7c7bb",
+    "status": "Ok"
+}

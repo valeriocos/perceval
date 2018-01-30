@@ -1,0 +1,205 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/78312/characters",
+                    "items": [
+                        {
+                            "name": "Tigra (Greer Nelson)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009670"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/78312/comics",
+                    "items": [
+                        {
+                            "name": "Avengers Academy (2010) #3 (WOMEN OF MARVEL VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35423"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/78312/creators",
+                    "items": [
+                        {
+                            "name": "Amanda Conner",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8018",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/78312/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 78312,
+                "modified": "2011-10-24T11:55:43-0400",
+                "originalIssue": {
+                    "name": "Avengers Academy (2010) #3 (WOMEN OF MARVEL VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/35423"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/78312",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/78312/series",
+                    "items": [
+                        {
+                            "name": "Avengers Academy (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9086"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Avengers Academy (2010) #3, Women of Marvel Variant",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 10,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/78313/characters",
+                    "items": [
+                        {
+                            "name": "Crossbones",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009252"
+                        },
+                        {
+                            "name": "Hank Pym",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490"
+                        },
+                        {
+                            "name": "Iron Fist (Danny Rand)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367"
+                        },
+                        {
+                            "name": "Juggernaut",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382"
+                        },
+                        {
+                            "name": "Justice",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010760"
+                        },
+                        {
+                            "name": "Norman Osborn",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009325"
+                        },
+                        {
+                            "name": "Penance (Robert Baldwin)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009493"
+                        },
+                        {
+                            "name": "Quicksilver",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524"
+                        },
+                        {
+                            "name": "Reptil",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011376"
+                        },
+                        {
+                            "name": "Tigra (Greer Nelson)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009670"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/78313/comics",
+                    "items": [
+                        {
+                            "name": "Avengers Academy (2010) #3 (WOMEN OF MARVEL VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35423"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/78313/creators",
+                    "items": [
+                        {
+                            "name": "Joe Caramagna",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Jeromy Cox",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8738",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "Christos Gage",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Andrew Hennessy",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/548",
+                            "role": "inker"
+                        },
+                        {
+                            "name": "Mike McKone",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9137",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Bill Rosemann",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/123",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/78313/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 78313,
+                "modified": "2011-10-24T12:02:46-0400",
+                "originalIssue": {
+                    "name": "Avengers Academy (2010) #3 (WOMEN OF MARVEL VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/35423"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/78313",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/78313/series",
+                    "items": [
+                        {
+                            "name": "Avengers Academy (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9086"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Avengers Academy (2010) #3, Women of Marvel Variant - Int",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "577673e72d785447597db8f723a525308c044321",
+    "status": "Ok"
+}

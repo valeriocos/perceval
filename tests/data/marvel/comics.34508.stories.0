@@ -1,0 +1,154 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76679/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76679/comics",
+                    "items": [
+                        {
+                            "name": "Microverse: Enigma Force (2010) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/34508"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76679/creators",
+                    "items": [
+                        {
+                            "name": "Carlo Pagualyan",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/6806",
+                            "role": "penciler"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76679/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 76679,
+                "modified": "2011-02-16T15:13:32-0500",
+                "originalIssue": {
+                    "name": "Microverse: Enigma Force (2010) #3",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/34508"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/76679",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76679/series",
+                    "items": [
+                        {
+                            "name": "Microverse: Enigma Force (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/11843"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Microvese: Enigma Force #3",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76680/characters",
+                    "items": [
+                        {
+                            "name": "Hulk",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76680/comics",
+                    "items": [
+                        {
+                            "name": "Microverse: Enigma Force (2010) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/34508"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76680/creators",
+                    "items": [
+                        {
+                            "name": "Jorge Maese",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10105",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "MIGUEL MUNERA",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10188",
+                            "role": "penciler"
+                        },
+                        {
+                            "name": "Scott Reed",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10147",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Dave Sharpe",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+                            "role": "letterer"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76680/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 76680,
+                "modified": "2011-12-02T13:03:40-0500",
+                "originalIssue": {
+                    "name": "Microverse: Enigma Force (2010) #3",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/34508"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/76680",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76680/series",
+                    "items": [
+                        {
+                            "name": "Microverse: Enigma Force (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/11843"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #76680",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "44c584820917674c226ae0783b28c2a96eb096d4",
+    "status": "Ok"
+}

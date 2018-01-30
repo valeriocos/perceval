@@ -1,0 +1,127 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82048/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82048/comics",
+                    "items": [
+                        {
+                            "name": "X-Men (2010) #3 (2ND PRINTING VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37007"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82048/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82048/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82048,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "X-Men (2010) #3 (2ND PRINTING VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37007"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82048",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82048/series",
+                    "items": [
+                        {
+                            "name": "X-Men (2010 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9906"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #82048",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82049/characters",
+                    "items": [
+                        {
+                            "name": "X-Men",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82049/comics",
+                    "items": [
+                        {
+                            "name": "X-Men (2010) #3 (2ND PRINTING VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37007"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82049/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82049/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82049,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "X-Men (2010) #3 (2ND PRINTING VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37007"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82049",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82049/series",
+                    "items": [
+                        {
+                            "name": "X-Men (2010 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9906"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #82049",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "737f14338ad393f1d4b8845bf311d7d2cbc39dce",
+    "status": "Ok"
+}

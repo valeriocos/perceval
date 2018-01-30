@@ -1,0 +1,289 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 14,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/31355/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/31355/creators",
+                    "items": [
+                        {
+                            "name": "Tomm Coker",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/1421",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Mike Perkins",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/708",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "dates": [
+                    {
+                        "date": "2010-11-17T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "2010-11-06T00:00:00-0400",
+                        "type": "focDate"
+                    }
+                ],
+                "description": "THE STAND: HARDCASES #5 (of 5) Written by ROBERTO AGUIRRE-SACASA Penciled by MIKE PERKINS Cover by TOMM COKER\r\nIt is the eve of the most important night in Boulder Free Zone history, and Mother Abagail is still missing... As Stu leads a desperate search for her, suspicions drive Frannie into taking a terrible risk, while Harold, gun heavy in his pocket, weighs a terrible choice... Stand up and be counted, True Believer, as HARDCASES draws to its pulse-pouding conclusion, leading to this epic, acclaimed adaptation's most explosive chapter yet! Script by ROBERTO AGUIRRE-SACASA (Sensational Spider-Man; HBO's Big Love) and artwork by MIKE PERKINS (Captain America)!\r\n32 PGS./Cardstock Cover/Parental Advisory...$3.99 Published by arrangement with The Doubleday Broadway Publishing Group, a division of Random House, Inc. This graphic novel is produced under licensefrom The Doubleday Broadway Publishing Group and Stephen King. TM & \u00a9 2010 Marvel Characters, Inc. All rights reserved.",
+                "diamondCode": "",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/31355/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 31355,
+                "images": [
+                    {
+                        "extension": "jpg",
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4c6307e4ce28e"
+                    }
+                ],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 5,
+                "modified": "2010-08-11T01:31:35-0400",
+                "pageCount": 32,
+                "prices": [
+                    {
+                        "price": 3.99,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/31355",
+                "series": {
+                    "name": "The Stand: Hardcases (2010)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/9948"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/31355/stories",
+                    "items": [
+                        {
+                            "name": "Cover #71395",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/71395",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #71396",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/71396",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [
+                    {
+                        "language": "en-us",
+                        "text": "THE STAND: HARDCASES #5 (of 5) Written by ROBERTO AGUIRRE-SACASA Penciled by MIKE PERKINS Cover by TOMM COKER\r\nIt is the eve of the most important night in Boulder Free Zone history, and Mother Abagail is still missing... As Stu leads a desperate search for her, suspicions drive Frannie into taking a terrible risk, while Harold, gun heavy in his pocket, weighs a terrible choice... Stand up and be counted, True Believer, as HARDCASES draws to its pulse-pouding conclusion, leading to this epic, acclaimed adaptation's most explosive chapter yet! Script by ROBERTO AGUIRRE-SACASA (Sensational Spider-Man; HBO's Big Love) and artwork by MIKE PERKINS (Captain America)!\r\n32 PGS./Cardstock Cover/Parental Advisory...$3.99 Published by arrangement with The Doubleday Broadway Publishing Group, a division of Random House, Inc. This graphic novel is produced under licensefrom The Doubleday Broadway Publishing Group and Stephen King. TM & \u00a9 2010 Marvel Characters, Inc. All rights reserved.",
+                        "type": "issue_solicit_text"
+                    }
+                ],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4c6307e4ce28e"
+                },
+                "title": "The Stand: Hardcases (2010) #5",
+                "upc": "5960606581-00511",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/31355/the_stand_hardcases_2010_5?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            },
+            {
+                "characters": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/30182/characters",
+                    "items": [
+                        {
+                            "name": "Hydra",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009359"
+                        },
+                        {
+                            "name": "Nick Fury",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471"
+                        },
+                        {
+                            "name": "Quake (Daisy Johnson)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1014528"
+                        },
+                        {
+                            "name": "Secret Warriors",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011368"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/30182/creators",
+                    "items": [
+                        {
+                            "name": "Jim Cheung",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Jonathan Hickman",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Dave Lanphear",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Alessandro Vitti",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10124",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "dates": [
+                    {
+                        "date": "2010-11-24T00:00:00-0500",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "2010-11-13T00:00:00-0500",
+                        "type": "focDate"
+                    },
+                    {
+                        "date": "2011-11-03T00:00:00-0400",
+                        "type": "unlimitedDate"
+                    },
+                    {
+                        "date": "2012-08-14T00:00:00-0400",
+                        "type": "digitalPurchaseDate"
+                    }
+                ],
+                "description": "'Night' concludes in tragedy as another member of Nick Fury's team of Secret Warriors dies! The countdown to the shocking series conclusion continues! 32 PGS./Rated T  '$2.99",
+                "diamondCode": "SEP100650",
+                "digitalId": 17922,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/30182/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 30182,
+                "images": [
+                    {
+                        "extension": "jpg",
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/55b6833fc5542"
+                    },
+                    {
+                        "extension": "jpg",
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4f79c2b340662"
+                    }
+                ],
+                "isbn": "",
+                "issn": "1946-0546",
+                "issueNumber": 22,
+                "modified": "2010-08-11T01:31:55-0400",
+                "pageCount": 32,
+                "prices": [
+                    {
+                        "price": 2.99,
+                        "type": "printPrice"
+                    },
+                    {
+                        "price": 1.99,
+                        "type": "digitalPurchasePrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/30182",
+                "series": {
+                    "name": "Secret Warriors (2008 - 2011)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/6796"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/30182/stories",
+                    "items": [
+                        {
+                            "name": "Secret Warriors (2008) #22",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/69190",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Secret Warriors (2008) #22",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/69191",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [
+                    {
+                        "language": "en-us",
+                        "text": "'Night' concludes in tragedy as another member of Nick Fury's team of Secret Warriors dies! The countdown to the shocking series conclusion continues! 32 PGS./Rated T  '$2.99",
+                        "type": "issue_solicit_text"
+                    }
+                ],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4f79c2b340662"
+                },
+                "title": "Secret Warriors (2008) #22",
+                "upc": "5960606602-02211",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/30182/secret_warriors_2008_22?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    },
+                    {
+                        "type": "purchase",
+                        "url": "http://comicstore.marvel.com/Secret-Warriors-22/digital-comic/17922?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    },
+                    {
+                        "type": "reader",
+                        "url": "http://marvel.com/digitalcomics/view.htm?iid=17922&utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    },
+                    {
+                        "type": "inAppLink",
+                        "url": "https://applink.marvel.com/issue/17922?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ],
+                "variantDescription": "",
+                "variants": []
+            }
+        ],
+        "total": 30
+    },
+    "etag": "aac5cf4a61e7a3dec9e6683bb9ef32469128e526",
+    "status": "Ok"
+}

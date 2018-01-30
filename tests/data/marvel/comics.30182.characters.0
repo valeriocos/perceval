@@ -1,0 +1,694 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 133,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009359/comics",
+                    "items": [
+                        {
+                            "name": "A Year of Marvels (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60151"
+                        },
+                        {
+                            "name": "All-New X-Men (2012) #8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43473"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #521",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2069"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #522",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2212"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #523",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2980"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #524",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/2451"
+                        },
+                        {
+                            "name": "Amazing Spider-Man Vol. 10: New Avengers (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/3019"
+                        },
+                        {
+                            "name": "Amazing Spider-Man: Worldwide Vol. 7 (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60158"
+                        },
+                        {
+                            "name": "Avengers & the Infinity Gauntlet (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/32477"
+                        },
+                        {
+                            "name": "Avengers & the Infinity Gauntlet (Graphic Novel)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/32993"
+                        },
+                        {
+                            "name": "Captain America (1998) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12778"
+                        },
+                        {
+                            "name": "Captain America (1998) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12789"
+                        },
+                        {
+                            "name": "Captain America (1998) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12800"
+                        },
+                        {
+                            "name": "Captain America (1998) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/12811"
+                        },
+                        {
+                            "name": "Captain America (2002) #29",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/595"
+                        },
+                        {
+                            "name": "Captain America (1968) #147",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/7528"
+                        },
+                        {
+                            "name": "Captain America (2017) #25",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/64178"
+                        },
+                        {
+                            "name": "Captain America by Mark Waid, Ron Garney & Andy Kubert (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/65466"
+                        },
+                        {
+                            "name": "Captain America: Hail Hydra (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36575"
+                        },
+                        {
+                            "name": "Captain America: Hail Hydra (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36229"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "description": "",
+                "events": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009359/events",
+                    "items": [
+                        {
+                            "name": "Avengers Disassembled",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/234"
+                        },
+                        {
+                            "name": "Dark Reign",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/318"
+                        },
+                        {
+                            "name": "Secret Empire",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/336"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "id": 1009359,
+                "modified": "1969-12-31T19:00:00-0500",
+                "name": "Hydra",
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009359",
+                "series": {
+                    "available": 67,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009359/series",
+                    "items": [
+                        {
+                            "name": "A Year of Marvels (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22102"
+                        },
+                        {
+                            "name": "All-New X-Men (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16449"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/454"
+                        },
+                        {
+                            "name": "Amazing Spider-Man Vol. 10: New Avengers (2005)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1489"
+                        },
+                        {
+                            "name": "Amazing Spider-Man: Worldwide Vol. 7 (2018)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22109"
+                        },
+                        {
+                            "name": "Avengers & the Infinity Gauntlet (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10035"
+                        },
+                        {
+                            "name": "Avengers & the Infinity Gauntlet (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9859"
+                        },
+                        {
+                            "name": "Captain America (2002 - 2004)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/485"
+                        },
+                        {
+                            "name": "Captain America (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/23277"
+                        },
+                        {
+                            "name": "Captain America (1968 - 1996)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1996"
+                        },
+                        {
+                            "name": "Captain America (1998 - 2002)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1997"
+                        },
+                        {
+                            "name": "Captain America by Mark Waid, Ron Garney & Andy Kubert (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/23810"
+                        },
+                        {
+                            "name": "Captain America: Hail Hydra (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12965"
+                        },
+                        {
+                            "name": "Captain America: Hail Hydra (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12115"
+                        },
+                        {
+                            "name": "Captain America: Secret Empire (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/23524"
+                        },
+                        {
+                            "name": "Captain America: Steve Rogers (2016 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/21098"
+                        },
+                        {
+                            "name": "Captain America: Steve Rogers Vol. 2 - The Trial of Maria Hill (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/21100"
+                        },
+                        {
+                            "name": "Captain America: Steve Rogers Vol. 3 - Empire Building (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22750"
+                        },
+                        {
+                            "name": "Daredevil (1964 - 1998)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2002"
+                        },
+                        {
+                            "name": "Deadpool (2015 - 2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20613"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 130,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009359/stories",
+                    "items": [
+                        {
+                            "name": "Amazing Spider-Man (1999) #521",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1167",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "3 of 5 - New Avengers",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1168",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #522",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1169",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 5 - New Avengers",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1170",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "6 of 6 - New Avengers",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1172",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999) #523",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1175",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5 of 6 - New Avengers",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1176",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #1675",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1675",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Irredeemable Ant-Man (2006) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/5498",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Immortal Iron Fist (2006) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6250",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Immortal Iron Fist (2006) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6252",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Immortal Iron Fist (2006) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/6254",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Immortal Iron Fist (2006) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/7916",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Immortal Iron Fist (2006) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8367",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Immortal Iron Fist (2006) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/8701",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #10221",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/10221",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Sometimes the Good Guys Lose!",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/10222",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "The Brave Die Hard!",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/10225",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #10234",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/10234",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "The End of Hydra!",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/10235",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/40/4c003ec4331bd"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/characters/1003/hydra?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Hydra?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1009359/hydra?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            },
+            {
+                "comics": {
+                    "available": 429,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009471/comics",
+                    "items": [
+                        {
+                            "name": "1602 (2003) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/20630"
+                        },
+                        {
+                            "name": "1602 (2003) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50114"
+                        },
+                        {
+                            "name": "1602 (2003) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/377"
+                        },
+                        {
+                            "name": "A Year of Marvels: August Infinite Comic (2016) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/57930"
+                        },
+                        {
+                            "name": "All-New Wolverine (2015) #17",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60507"
+                        },
+                        {
+                            "name": "All-New Wolverine (2015) #18",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60508"
+                        },
+                        {
+                            "name": "Annihilation Classic (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22433"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/531"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/843"
+                        },
+                        {
+                            "name": "Astonishing X-Men by Joss Whedon & John Cassaday (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/24514"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 1 (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/4021"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 1: Gifted (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1456"
+                        },
+                        {
+                            "name": "Avengers (1996) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17751"
+                        },
+                        {
+                            "name": "Avengers (1996) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17756"
+                        },
+                        {
+                            "name": "Avengers (1996) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17757"
+                        },
+                        {
+                            "name": "Avengers (1996) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17759"
+                        },
+                        {
+                            "name": "Avengers (1996) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17760"
+                        },
+                        {
+                            "name": "Avengers (1996) #7",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17761"
+                        },
+                        {
+                            "name": "Avengers (1996) #8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17762"
+                        },
+                        {
+                            "name": "Avengers (1996) #9",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17763"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "description": "",
+                "events": {
+                    "available": 10,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009471/events",
+                    "items": [
+                        {
+                            "name": "Acts of Vengeance!",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/116"
+                        },
+                        {
+                            "name": "Dark Reign",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/318"
+                        },
+                        {
+                            "name": "Enemy of the State",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/245"
+                        },
+                        {
+                            "name": "Fatal Attractions",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/249"
+                        },
+                        {
+                            "name": "Fear Itself",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/302"
+                        },
+                        {
+                            "name": "Maximum Security",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/37"
+                        },
+                        {
+                            "name": "Original Sin",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/319"
+                        },
+                        {
+                            "name": "Secret Invasion",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/269"
+                        },
+                        {
+                            "name": "Shattered Heroes",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/309"
+                        },
+                        {
+                            "name": "Siege",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/273"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "id": 1009471,
+                "modified": "2016-02-10T10:01:27-0500",
+                "name": "Nick Fury",
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+                "series": {
+                    "available": 167,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009471/series",
+                    "items": [
+                        {
+                            "name": "1602 (2003 - 2004)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/489"
+                        },
+                        {
+                            "name": "A Year of Marvels: August Infinite Comic (2016 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/21114"
+                        },
+                        {
+                            "name": "All-New Wolverine (2015 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20682"
+                        },
+                        {
+                            "name": "Annihilation Classic (2008)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6056"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/744"
+                        },
+                        {
+                            "name": "Astonishing X-Men by Joss Whedon & John Cassaday (2009 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7576"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 1 (2006)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1464"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 1: Gifted (2004)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1298"
+                        },
+                        {
+                            "name": "Avengers (1998 - 2004)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/354"
+                        },
+                        {
+                            "name": "Avengers (1996 - 1997)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3621"
+                        },
+                        {
+                            "name": "Avengers 1959 (2011 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/14985"
+                        },
+                        {
+                            "name": "Avengers Forever (1998 - 2001)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2111"
+                        },
+                        {
+                            "name": "Avengers K Book 5: Assembling the Avengers (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22381"
+                        },
+                        {
+                            "name": "Avengers Legends Vol. I: Avengers Forever (2002)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/93"
+                        },
+                        {
+                            "name": "Avengers Vol. 1: World Trust (2003)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/158"
+                        },
+                        {
+                            "name": "Avengers/Invaders (2008 - 2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/4864"
+                        },
+                        {
+                            "name": "Avengers: Tales to Astonish (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/23777"
+                        },
+                        {
+                            "name": "Avengers: The Initiative (2007 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1945"
+                        },
+                        {
+                            "name": "Battle Scars (2011 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15370"
+                        },
+                        {
+                            "name": "Black Widow (2004 - 2005)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/758"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 458,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009471/stories",
+                    "items": [
+                        {
+                            "name": "Cover #1616",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/1616",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "6 of 6 - Enemy of the State",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2190",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 6 - Agent of S.H.I.E.L.D.",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/2196",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #3308",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3308",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "\u201cGIFTED\u201d 5 (OF 6)  As demand for the",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3322",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Black Widow (2004) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3535",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Black Widow (2004) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/3545",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover for Captain America (2004) #1, Cover #4227",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4227",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 8 - Out of Time",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4230",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 of 8 - Out of Time",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4236",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "6 of 6 - Out of Time",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4238",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 6 - Winter Soldier",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4242",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 6 - Winter Soldier",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4243",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 6 - Winter Soldier",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4244",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 6 - Winter Soldier",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4250",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Iron Man (2004) #7",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4289",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 6 - The List",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4290",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Iron Man (2004) #8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4291",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "2 of 6 - The List",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4292",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Iron Man (2004) #9",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/4293",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/5261a745e658d"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/characters/1009471/nick_fury?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/Fury%2C_Nick?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1009471/nick_fury?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 4
+    },
+    "etag": "55b2a017cd57a999cf1ca279c87c77a928ebf890",
+    "status": "Ok"
+}

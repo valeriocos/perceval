@@ -1,0 +1,139 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82783/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82783/comics",
+                    "items": [
+                        {
+                            "name": "Young Allies (2010) #6 (ADAMS VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37392"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82783/creators",
+                    "items": [
+                        {
+                            "name": "Art Adams",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+                            "role": "penciler"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82783/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82783,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Young Allies (2010) #6 (ADAMS VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37392"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82783",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82783/series",
+                    "items": [
+                        {
+                            "name": "Young Allies (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9984"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #82783",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82784/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82784/comics",
+                    "items": [
+                        {
+                            "name": "Young Allies (2010) #6 (ADAMS VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37392"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82784/creators",
+                    "items": [
+                        {
+                            "name": "David Baldeon",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9799",
+                            "role": "penciler"
+                        },
+                        {
+                            "name": "Sean McKeever",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9429",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82784/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82784,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Young Allies (2010) #6 (ADAMS VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37392"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82784",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82784/series",
+                    "items": [
+                        {
+                            "name": "Young Allies (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9984"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #82784",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "146a6768f00c000920bb30c34e82826e1dfd562b",
+    "status": "Ok"
+}

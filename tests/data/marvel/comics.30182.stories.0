@@ -1,0 +1,166 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/69190/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/69190/comics",
+                    "items": [
+                        {
+                            "name": "Secret Warriors (2008) #22",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30182"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/69190/creators",
+                    "items": [
+                        {
+                            "name": "Jim Cheung",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/69190/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 69190,
+                "modified": "2012-04-02T11:16:15-0400",
+                "originalIssue": {
+                    "name": "Secret Warriors (2008) #22",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/30182"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/69190",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/69190/series",
+                    "items": [
+                        {
+                            "name": "Secret Warriors (2008 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6796"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Secret Warriors (2008) #22",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/69191/characters",
+                    "items": [
+                        {
+                            "name": "Hydra",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009359"
+                        },
+                        {
+                            "name": "Nick Fury",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471"
+                        },
+                        {
+                            "name": "Quake (Daisy Johnson)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1014528"
+                        },
+                        {
+                            "name": "Secret Warriors",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011368"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/69191/comics",
+                    "items": [
+                        {
+                            "name": "Secret Warriors (2008) #22",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30182"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/69191/creators",
+                    "items": [
+                        {
+                            "name": "Jim Cheung",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+                            "role": "penciller (cover)"
+                        },
+                        {
+                            "name": "Jonathan Hickman",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Dave Lanphear",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Alessandro Vitti",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10124",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/69191/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 69191,
+                "modified": "2012-04-02T11:31:09-0400",
+                "originalIssue": {
+                    "name": "Secret Warriors (2008) #22",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/30182"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/69191",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/69191/series",
+                    "items": [
+                        {
+                            "name": "Secret Warriors (2008 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6796"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Secret Warriors (2008) #22",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "485f54571a4167ddc3d1b917da69a832e2cb6341",
+    "status": "Ok"
+}

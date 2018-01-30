@@ -1,0 +1,128 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82348/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82348/comics",
+                    "items": [
+                        {
+                            "name": "Amazing Spider-Man (1999) #638 (2ND PRINTING VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37173"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82348/creators",
+                    "items": [
+                        {
+                            "name": "Joe Quesada",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82348/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82348,
+                "modified": "2011-09-20T14:52:52-0400",
+                "originalIssue": {
+                    "name": "Amazing Spider-Man (1999) #638 (2ND PRINTING VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37173"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82348",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82348/series",
+                    "items": [
+                        {
+                            "name": "Amazing Spider-Man (1999 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/454"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Amazing Spider-Man (1999) #638, 2ND PRINTING VARIANT",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82349/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82349/comics",
+                    "items": [
+                        {
+                            "name": "Amazing Spider-Man (1999) #638 (2ND PRINTING VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37173"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82349/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82349/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82349,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Amazing Spider-Man (1999) #638 (2ND PRINTING VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37173"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82349",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82349/series",
+                    "items": [
+                        {
+                            "name": "Amazing Spider-Man (1999 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/454"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #82349",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "476e94d005e05f3b472316333028f3ab41cb0f05",
+    "status": "Ok"
+}

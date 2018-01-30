@@ -1,0 +1,409 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 1,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 2969,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009726/comics",
+                    "items": [
+                        {
+                            "name": "1602 (2003) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50114"
+                        },
+                        {
+                            "name": "1602 (2003) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/377"
+                        },
+                        {
+                            "name": "1602 (2003) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/148"
+                        },
+                        {
+                            "name": "Age of Apocalypse (2011) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41270"
+                        },
+                        {
+                            "name": "Age of Apocalypse: The Chosen (1995) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/17701"
+                        },
+                        {
+                            "name": "Age of X: Alpha (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37996"
+                        },
+                        {
+                            "name": "Age of X: Alpha (2010) #1 (2nd Printing Variant )",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38895"
+                        },
+                        {
+                            "name": "Age of X: Alpha (2010) #1 (Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37973"
+                        },
+                        {
+                            "name": "Age of X: Alpha (2010) #1 (Conrad 2nd Printing Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/39284"
+                        },
+                        {
+                            "name": "Age of X: Universe (2011) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38524"
+                        },
+                        {
+                            "name": "Age of X: Universe (2011) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/38523"
+                        },
+                        {
+                            "name": "All-New Wolverine Vol. 3: Enemy of the State II (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/60154"
+                        },
+                        {
+                            "name": "All-New X-Men (2012) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43462"
+                        },
+                        {
+                            "name": "All-New X-Men (2012) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43467"
+                        },
+                        {
+                            "name": "All-New X-Men (2012) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43468"
+                        },
+                        {
+                            "name": "All-New X-Men (2012) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43469"
+                        },
+                        {
+                            "name": "All-New X-Men (2012) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43470"
+                        },
+                        {
+                            "name": "All-New X-Men (2012) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43471"
+                        },
+                        {
+                            "name": "All-New X-Men (2012) #7",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43472"
+                        },
+                        {
+                            "name": "All-New X-Men (2012) #8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43473"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "description": "Feared and hated by humans because they're different, the X-Men are heroic mutants, individuals born with special powers who've sworn to use their gifts to protect mutants as well as humans.",
+                "events": {
+                    "available": 40,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009726/events",
+                    "items": [
+                        {
+                            "name": "Acts of Vengeance!",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/116"
+                        },
+                        {
+                            "name": "Age of Apocalypse",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/227"
+                        },
+                        {
+                            "name": "Age of Ultron",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/314"
+                        },
+                        {
+                            "name": "Age of X",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/303"
+                        },
+                        {
+                            "name": "Atlantis Attacks",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/233"
+                        },
+                        {
+                            "name": "Avengers VS X-Men",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/310"
+                        },
+                        {
+                            "name": "Axis",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/320"
+                        },
+                        {
+                            "name": "Chaos War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/296"
+                        },
+                        {
+                            "name": "Civil War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/238"
+                        },
+                        {
+                            "name": "Dark Reign",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/318"
+                        },
+                        {
+                            "name": "Days of Future Present",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/240"
+                        },
+                        {
+                            "name": "Enemy of the State",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/245"
+                        },
+                        {
+                            "name": "Evolutionary War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/246"
+                        },
+                        {
+                            "name": "Fall of the Mutants",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/248"
+                        },
+                        {
+                            "name": "Fatal Attractions",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/249"
+                        },
+                        {
+                            "name": "Fear Itself",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/302"
+                        },
+                        {
+                            "name": "House of M",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/251"
+                        },
+                        {
+                            "name": "Inferno",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/252"
+                        },
+                        {
+                            "name": "Infinity War",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/29"
+                        },
+                        {
+                            "name": "Inhumanity",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/317"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "id": 1009726,
+                "modified": "2016-05-05T14:39:28-0400",
+                "name": "X-Men",
+                "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+                "series": {
+                    "available": 600,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009726/series",
+                    "items": [
+                        {
+                            "name": "1602 (2003 - 2004)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/489"
+                        },
+                        {
+                            "name": "Age of Apocalypse (2011 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15331"
+                        },
+                        {
+                            "name": "Age of Apocalypse: The Chosen (1995)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3614"
+                        },
+                        {
+                            "name": "Age of X: Alpha (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13603"
+                        },
+                        {
+                            "name": "Age of X: Universe (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13896"
+                        },
+                        {
+                            "name": "All-New Wolverine Vol. 3: Enemy of the State II (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22105"
+                        },
+                        {
+                            "name": "All-New X-Men (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16449"
+                        },
+                        {
+                            "name": "All-New X-Men (2015 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20622"
+                        },
+                        {
+                            "name": "All-New X-Men Annual (2016)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22001"
+                        },
+                        {
+                            "name": "All-New X-Men: Inevitable Vol. 4 - IVX (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22729"
+                        },
+                        {
+                            "name": "Amazing Adventures (1970 - 1976)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/6666"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1999 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/454"
+                        },
+                        {
+                            "name": "Amazing Spider-Man (1963 - 1998)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1987"
+                        },
+                        {
+                            "name": "Amazing Spider-Man: Renew Your Vows Vol. 2 - The Venom Experiment (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22734"
+                        },
+                        {
+                            "name": "Amazing X-Men (1995)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3618"
+                        },
+                        {
+                            "name": "Amazing X-Men (2013 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18142"
+                        },
+                        {
+                            "name": "America (2017 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/22997"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2017 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/23262"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/744"
+                        },
+                        {
+                            "name": "Astonishing X-Men (1995)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3619"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 4509,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009726/stories",
+                    "items": [
+                        {
+                            "name": "Interior #472",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/472",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #478",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/478",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #492",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/492",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #495",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/495",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #501",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/501",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #503",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/503",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #515",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/515",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "X-MEN (2004) #164",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/594",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "4 of 4 - Heroes and Villains",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/595",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #603",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/603",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #609",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/609",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #611",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/611",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #613",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/613",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "X-MEN (2004) #159",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/614",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #615",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/615",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "X-MEN (2004) #157",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/616",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #617",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/617",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "X-MEN (2004) #158",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/618",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #619",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/619",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "X-MEN (2004) #160",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/620",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/510c08f345938"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/characters/1009726/x-men?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    },
+                    {
+                        "type": "wiki",
+                        "url": "http://marvel.com/universe/X-Men?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    },
+                    {
+                        "type": "comiclink",
+                        "url": "http://marvel.com/comics/characters/1009726/x-men?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 1
+    },
+    "etag": "c0f01d83b2b3870e4962c86a8a4042c574210d63",
+    "status": "Ok"
+}

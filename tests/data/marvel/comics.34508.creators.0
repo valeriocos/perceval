@@ -1,0 +1,299 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10105/comics",
+                    "items": [
+                        {
+                            "name": "Ka-Zar (2010) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37170"
+                        },
+                        {
+                            "name": "Microverse: Enigma Force (2010) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/34508"
+                        },
+                        {
+                            "name": "Spider-Man: The Clone Saga (2009) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/27786"
+                        },
+                        {
+                            "name": "Wolverine: Carni-Brawl (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33254"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10105/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "firstName": "Jorge",
+                "fullName": "Jorge Maese",
+                "id": 10105,
+                "lastName": "Maese",
+                "middleName": "",
+                "modified": "-0001-11-30T00:00:00-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10105",
+                "series": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10105/series",
+                    "items": [
+                        {
+                            "name": "Ka-Zar (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13316"
+                        },
+                        {
+                            "name": "Microverse: Enigma Force (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/11843"
+                        },
+                        {
+                            "name": "Spider-Man: The Clone Saga (2009 - 2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8860"
+                        },
+                        {
+                            "name": "Wolverine: Carni-Brawl (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9774"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "stories": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10105/stories",
+                    "items": [
+                        {
+                            "name": "Cover #60837",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/60837",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/74804",
+                            "type": ""
+                        },
+                        {
+                            "name": "Interior #76680",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/76680",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Ka-Zar (2010) #4 - Int",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/82343",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bb3d02f247df"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/10105/jorge_maese?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            },
+            {
+                "comics": {
+                    "available": 12,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10188/comics",
+                    "items": [
+                        {
+                            "name": "Incredible Hulks: Enigma Force - Dark Son (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36590"
+                        },
+                        {
+                            "name": "Microverse: Enigma Force (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/34505"
+                        },
+                        {
+                            "name": "Microverse: Enigma Force (2010) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36275"
+                        },
+                        {
+                            "name": "Microverse: Enigma Force (2010) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36406"
+                        },
+                        {
+                            "name": "Microverse: Enigma Force (2010) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/34508"
+                        },
+                        {
+                            "name": "Realm of Kings (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/50406"
+                        },
+                        {
+                            "name": "Realm of Kings (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29439"
+                        },
+                        {
+                            "name": "Realm of Kings: Son of Hulk (2010) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30782"
+                        },
+                        {
+                            "name": "Realm of Kings: Son of Hulk (2010) #1 (GOLDEN VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30781"
+                        },
+                        {
+                            "name": "Realm of Kings: Son of Hulk (2010) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29725"
+                        },
+                        {
+                            "name": "Realm of Kings: Son of Hulk (2010) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29726"
+                        },
+                        {
+                            "name": "X-Men: To Serve and Protect (2010) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36180"
+                        }
+                    ],
+                    "returned": 12
+                },
+                "events": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10188/events",
+                    "items": [
+                        {
+                            "name": "Realm of Kings",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/295"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "firstName": "MIGUEL",
+                "fullName": "MIGUEL MUNERA",
+                "id": 10188,
+                "lastName": "MUNERA",
+                "middleName": "",
+                "modified": "2007-01-01T00:00:00-0500",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/10188",
+                "series": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10188/series",
+                    "items": [
+                        {
+                            "name": "Incredible Hulks: Enigma Force - Dark Son (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12980"
+                        },
+                        {
+                            "name": "Microverse: Enigma Force (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/11843"
+                        },
+                        {
+                            "name": "Realm of Kings (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18845"
+                        },
+                        {
+                            "name": "Realm of Kings (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9557"
+                        },
+                        {
+                            "name": "Realm of Kings: Son of Hulk (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9252"
+                        },
+                        {
+                            "name": "X-Men: To Serve and Protect (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12305"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "stories": {
+                    "available": 12,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/10188/stories",
+                    "items": [
+                        {
+                            "name": "Interior #64030",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64030",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #64032",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64032",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #64597",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64597",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #64599",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64599",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #70385",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/70385",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #70386",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/70386",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #76680",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/76680",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "X-Men: To Serve and Protect #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80097",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #80334",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80334",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #80831",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/80831",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/83360",
+                            "type": ""
+                        },
+                        {
+                            "name": "story from Realm of Kings (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/112844",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 12
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/4bdb0a1ca5fc6"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/10188/miguel_munera?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 5
+    },
+    "etag": "7fb76d4253095bcc347cb97ed7d8d17a9068b4fd",
+    "status": "Ok"
+}

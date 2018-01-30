@@ -1,0 +1,348 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 1,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 137,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/8404/comics",
+                    "items": [
+                        {
+                            "name": "Astonishing X-Men (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40949"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #48",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40809"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #49",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40806"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #50",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40805"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #51",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40803"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #52",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40802"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2004) #53",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40801"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 10 (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/40950"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 11 (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/41607"
+                        },
+                        {
+                            "name": "AVENGERS VOL. 2: THE LAST WHITE EVENT TPB  (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/45832"
+                        },
+                        {
+                            "name": "Avengers (2012) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43528"
+                        },
+                        {
+                            "name": "Avengers (2012) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43532"
+                        },
+                        {
+                            "name": "Avengers (2012) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43533"
+                        },
+                        {
+                            "name": "Avengers (2012) #3 (2nd Printing Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47499"
+                        },
+                        {
+                            "name": "Avengers (2012) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43534"
+                        },
+                        {
+                            "name": "Avengers (2012) #4 (2nd Printing Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47632"
+                        },
+                        {
+                            "name": "Avengers (2012) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43535"
+                        },
+                        {
+                            "name": "Avengers (2012) #5 (2nd Printing Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47689"
+                        },
+                        {
+                            "name": "Avengers (2012) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/43536"
+                        },
+                        {
+                            "name": "Avengers (2012) #6 (2nd Printing Variant)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47756"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 6,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/8404/events",
+                    "items": [
+                        {
+                            "name": "Avengers VS X-Men",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/310"
+                        },
+                        {
+                            "name": "Dark Reign",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/318"
+                        },
+                        {
+                            "name": "Infinity",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/315"
+                        },
+                        {
+                            "name": "Secret Wars (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/323"
+                        },
+                        {
+                            "name": "Spider-Verse",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/321"
+                        },
+                        {
+                            "name": "War of Kings",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/events/276"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "firstName": "Dustin",
+                "fullName": "Dustin Weaver",
+                "id": 8404,
+                "lastName": "Weaver",
+                "middleName": "",
+                "modified": "2015-05-05T12:48:55-0400",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/8404",
+                "series": {
+                    "available": 41,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/8404/series",
+                    "items": [
+                        {
+                            "name": "Astonishing X-Men (2004 - 2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/744"
+                        },
+                        {
+                            "name": "Astonishing X-Men (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15164"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 10 (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15165"
+                        },
+                        {
+                            "name": "Astonishing X-Men Vol. 11 (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/15509"
+                        },
+                        {
+                            "name": "Avengers (2012 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/16452"
+                        },
+                        {
+                            "name": "Avengers A.I. (2013 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17954"
+                        },
+                        {
+                            "name": "AVENGERS A.I. VOL. 1: HUMAN AFTER ALL TPB (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17955"
+                        },
+                        {
+                            "name": "Avengers by Jonathan Hickman (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19289"
+                        },
+                        {
+                            "name": "Avengers by Jonathan Hickman Omnibus Vol. 1 (2017)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/23143"
+                        },
+                        {
+                            "name": "Avengers Vol. 1: Avengers World (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17297"
+                        },
+                        {
+                            "name": "AVENGERS VOL. 2: THE LAST WHITE EVENT (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17299"
+                        },
+                        {
+                            "name": "AVENGERS VOL. 2: THE LAST WHITE EVENT TPB  (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17298"
+                        },
+                        {
+                            "name": "Avengers/Uncanny X-Men: Utopia (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9414"
+                        },
+                        {
+                            "name": "Avengers: Time Runs Out Vol. 4 (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19600"
+                        },
+                        {
+                            "name": "Edge of Spider-Verse (2014)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19075"
+                        },
+                        {
+                            "name": "Fantastic Four Giant-Size Adventures (2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/7784"
+                        },
+                        {
+                            "name": "Infinity (2013 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17735"
+                        },
+                        {
+                            "name": "Infinity (2013)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/17736"
+                        },
+                        {
+                            "name": "Infinity Gauntlet (2015 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/19471"
+                        },
+                        {
+                            "name": "Infinity Gauntlet: Warzones! (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20314"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 164,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/8404/stories",
+                    "items": [
+                        {
+                            "name": "4XLS 1 of 4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/51057",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4XLS 2 of 4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/51403",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4XLS 3 of 4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/52401",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4XLS 4 of 4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/52883",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #55622",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/55622",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "X-Men Legacy (2008) #226",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/60004",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #60005",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/60005",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "X-Men Legacy (2008) #227",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/60006",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #60007",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/60007",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #61445",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/61445",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Interior #62734",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/62734",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "Cover #64993",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64993",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #64995",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64995",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #64997",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/64997",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Cover #69842",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/69842",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #69843",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/69843",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "S.H.I.E.L.D (2010) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/69845",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "S.H.I.E.L.D (2010) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/69847",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "S.H.I.E.L.D (2010) #4 ",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/69849",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "S.H.I.E.L.D (2010) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/69851",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bb3bd77bf829"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/8404/dustin_weaver?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 1
+    },
+    "etag": "af4848b96214086ae87ef94d3cdb2e1bef4ff5ae",
+    "status": "Ok"
+}

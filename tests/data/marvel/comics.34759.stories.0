@@ -1,0 +1,164 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76945/characters",
+                    "items": [
+                        {
+                            "name": "Thor",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76945/comics",
+                    "items": [
+                        {
+                            "name": "Thor: For Asgard (2010) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/34759"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 4,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76945/creators",
+                    "items": [
+                        {
+                            "name": "Simone Bianchi",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+                            "role": "artist"
+                        },
+                        {
+                            "name": "Simone Peruzzi",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/5003",
+                            "role": "colorist"
+                        },
+                        {
+                            "name": "Cory Petit",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+                            "role": "letterer"
+                        },
+                        {
+                            "name": "Rob Rodi",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/418",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76945/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 76945,
+                "modified": "2017-10-27T17:13:09-0400",
+                "originalIssue": {
+                    "name": "Thor: For Asgard (2010) #4",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/34759"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/76945",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76945/series",
+                    "items": [
+                        {
+                            "name": "Thor: For Asgard (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12037"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "THOR: FOR ASGARD (2010) #4",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76946/characters",
+                    "items": [
+                        {
+                            "name": "Thor",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76946/comics",
+                    "items": [
+                        {
+                            "name": "Thor: For Asgard (2010) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/34759"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76946/creators",
+                    "items": [
+                        {
+                            "name": "Simone Bianchi",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+                            "role": "artist"
+                        },
+                        {
+                            "name": "Rob Rodi",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/418",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76946/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 76946,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Thor: For Asgard (2010) #4",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/34759"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/76946",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/76946/series",
+                    "items": [
+                        {
+                            "name": "Thor: For Asgard (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12037"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #76946",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "ef0786953f4637126acaff5aea48dbd200a5dfe2",
+    "status": "Ok"
+}

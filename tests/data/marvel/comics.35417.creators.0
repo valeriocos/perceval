@@ -1,0 +1,299 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 1,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "comics": {
+                    "available": 26,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/256/comics",
+                    "items": [
+                        {
+                            "name": "Runaways (2008) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21760"
+                        },
+                        {
+                            "name": "Runaways (2008) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21998"
+                        },
+                        {
+                            "name": "Runaways (2008) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22327"
+                        },
+                        {
+                            "name": "Runaways (2008) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22523"
+                        },
+                        {
+                            "name": "Runaways (2008) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22934"
+                        },
+                        {
+                            "name": "Runaways (2008) #6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23130"
+                        },
+                        {
+                            "name": "Runaways (2008) #7",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23622"
+                        },
+                        {
+                            "name": "Runaways (2008) #8",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23777"
+                        },
+                        {
+                            "name": "Runaways (2008) #9",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/23973"
+                        },
+                        {
+                            "name": "Runaways Vol. 10: Rock Zombies (Digest) (Digest)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/28896"
+                        },
+                        {
+                            "name": "Runaways Vol. 9: Dead Wrong Digest (Digest)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/26217"
+                        },
+                        {
+                            "name": "Runaways: Rock Zombies (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/26225"
+                        },
+                        {
+                            "name": "Runaways: The Complete Collection (Trade Paperback)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/48298"
+                        },
+                        {
+                            "name": "Spider-Man Loves Mary Jane (2008) #1",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/21769"
+                        },
+                        {
+                            "name": "Spider-Man Loves Mary Jane (2008) #2",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22004"
+                        },
+                        {
+                            "name": "Spider-Man Loves Mary Jane (2008) #3",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22336"
+                        },
+                        {
+                            "name": "Spider-Man Loves Mary Jane (2008) #4",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22531"
+                        },
+                        {
+                            "name": "Spider-Man Loves Mary Jane (2008) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/22939"
+                        },
+                        {
+                            "name": "Star Wars Tales (1999) #5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/53983"
+                        },
+                        {
+                            "name": "Strange Tales II (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33018"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/256/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "firstName": "Terry",
+                "fullName": "Terry Moore",
+                "id": 256,
+                "lastName": "Moore",
+                "middleName": "",
+                "modified": "2013-03-15T12:27:44-0400",
+                "resourceURI": "http://gateway.marvel.com/v1/public/creators/256",
+                "series": {
+                    "available": 14,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/256/series",
+                    "items": [
+                        {
+                            "name": "Runaways (2008 - 2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/5338"
+                        },
+                        {
+                            "name": "Runaways Vol. 10: Rock Zombies (Digest) (2010 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8219"
+                        },
+                        {
+                            "name": "Runaways Vol. 9: Dead Wrong Digest (2009 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8223"
+                        },
+                        {
+                            "name": "Runaways: Rock Zombies (2009 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/8230"
+                        },
+                        {
+                            "name": "Runaways: The Complete Collection (2015)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/18302"
+                        },
+                        {
+                            "name": "Spider-Man Loves Mary Jane (2008 - 2009)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/5347"
+                        },
+                        {
+                            "name": "Star Wars Tales (1999 - 2005)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/20119"
+                        },
+                        {
+                            "name": "Strange Tales II (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9943"
+                        },
+                        {
+                            "name": "Strange Tales II (2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10463"
+                        },
+                        {
+                            "name": "Ultimate Marvel Team-Up (2001 - 2002)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/2311"
+                        },
+                        {
+                            "name": "Ultimate Marvel Team-Up Ultimate Collection (2006)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/1823"
+                        },
+                        {
+                            "name": "Ultimate Marvel Team-Up Vol. 3 (2003)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/218"
+                        },
+                        {
+                            "name": "Venom (2011 - Present)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/13911"
+                        },
+                        {
+                            "name": "X-Men Legacy (2008 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3754"
+                        }
+                    ],
+                    "returned": 14
+                },
+                "stories": {
+                    "available": 33,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/creators/256/stories",
+                    "items": [
+                        {
+                            "name": "More ULTIMATE SPIDER-MAN team-ups written by BRIAN BENDIS and drawn by the biggest names in comics! Featuring appearances by THE",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/272",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "More ULTIMATE SPIDER-MAN team-ups written by BRIAN BENDIS and drawn by the biggest names in comics! Featuring appearances by THE",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/273",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "[untitled]",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/32095",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "[untitled]",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/32096",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47831",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "1 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47848",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "1 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/47849",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "2 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48448",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "6XLS 2 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48479",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "6XLS 2 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48480",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "6XLS 2 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48481",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "6XLS 2 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/48482",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "3 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/49158",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5XLS 3 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/49175",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5XLS 3 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/49176",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "4 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/49927",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5XLS 4 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/49942",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "5XLS 4 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/49943",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5 of 6",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50918",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "name": "5XLS 5 of 5",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/50927",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "suffix": "",
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bc361f07aeeb"
+                },
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/creators/256/terry_moore?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ]
+            }
+        ],
+        "total": 1
+    },
+    "etag": "03ce43f37720dc12062d58fd8e7bd510b0353ed8",
+    "status": "Ok"
+}

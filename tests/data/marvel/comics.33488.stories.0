@@ -1,0 +1,122 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75290/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75290/comics",
+                    "items": [
+                        {
+                            "name": "Luke Cage Noir (Graphic Novel)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33488"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75290/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75290/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 75290,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Luke Cage Noir (Graphic Novel)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/33488"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/75290",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75290/series",
+                    "items": [
+                        {
+                            "name": "Luke Cage Noir (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10301"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #75290",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75292/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75292/comics",
+                    "items": [
+                        {
+                            "name": "Luke Cage Noir (Graphic Novel)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/33488"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75292/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75292/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 75292,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Luke Cage Noir (Graphic Novel)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/33488"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/75292",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/75292/series",
+                    "items": [
+                        {
+                            "name": "Luke Cage Noir (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10301"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #75292",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "a71673a4373c2295b2a32018826e7648857b3716",
+    "status": "Ok"
+}

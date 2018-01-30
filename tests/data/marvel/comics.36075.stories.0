@@ -1,0 +1,122 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79835/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79835/comics",
+                    "items": [
+                        {
+                            "name": "Namor: The First Mutant (2010) #1 (QUESADA SKETCH VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36075"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79835/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79835/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 79835,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Namor: The First Mutant (2010) #1 (QUESADA SKETCH VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/36075"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/79835",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79835/series",
+                    "items": [
+                        {
+                            "name": "Namor: The First Mutant (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12761"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #79835",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79836/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79836/comics",
+                    "items": [
+                        {
+                            "name": "Namor: The First Mutant (2010) #1 (QUESADA SKETCH VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/36075"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79836/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79836/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 79836,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Namor: The First Mutant (2010) #1 (QUESADA SKETCH VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/36075"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/79836",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79836/series",
+                    "items": [
+                        {
+                            "name": "Namor: The First Mutant (2010 - 2011)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/12761"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #79836",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "6b101d2bb485eb8a905828cf090fe82d66a1630b",
+    "status": "Ok"
+}

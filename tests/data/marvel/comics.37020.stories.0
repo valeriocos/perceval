@@ -1,0 +1,122 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82074/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82074/comics",
+                    "items": [
+                        {
+                            "name": "Secret Avengers (2010) #7 (TRON VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37020"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82074/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82074/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82074,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Secret Avengers (2010) #7 (TRON VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37020"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82074",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82074/series",
+                    "items": [
+                        {
+                            "name": "Secret Avengers (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9799"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #82074",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82075/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82075/comics",
+                    "items": [
+                        {
+                            "name": "Secret Avengers (2010) #7 (TRON VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37020"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82075/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82075/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82075,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "Secret Avengers (2010) #7 (TRON VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37020"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82075",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82075/series",
+                    "items": [
+                        {
+                            "name": "Secret Avengers (2010 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9799"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #82075",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "c1f411435e078758877b4711bb032473d53807b3",
+    "status": "Ok"
+}

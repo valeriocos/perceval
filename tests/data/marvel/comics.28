@@ -1,0 +1,261 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 28,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/36700/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/36700/creators",
+                    "items": [
+                        {
+                            "name": "Marko Djurdjevic",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+                            "role": "artist"
+                        },
+                        {
+                            "name": "Salvador Espin",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9394",
+                            "role": "penciller"
+                        },
+                        {
+                            "name": "Kieron Gillen",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "dates": [
+                    {
+                        "date": "2010-11-03T00:00:00-0400",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "2010-10-23T00:00:00-0400",
+                        "type": "focDate"
+                    }
+                ],
+                "description": "Spinning directly out of UNCANNY X-MEN comes the most important new X-Book in years'GENERATION HOPE! When Hope Summers returned from the future she triggered the rebirth of the mutant gene. Five lights appeared on Cerebra and five mutants' powers came to life, but their activations have been chaotic and dangerous, nearly killing each of them. It was only the touch of Hope that saved their lives. With Rogue and the four new mutants who were gathered in UNCANNY X-MEN, Hope heads to Japan to join Cyclops, Wolverine and the fifth light. But will this new light be a hero or a villain?\r\nOnly KIERONGILLEN (THOR) and SALVA ESPIN (SAVAGE SHE-HULK) know! \r\nRated T  '$3.99",
+                "diamondCode": "SEP100656",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/36700/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 36700,
+                "images": [
+                    {
+                        "extension": "jpg",
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/4ccacac0b0ba9"
+                    }
+                ],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 1,
+                "modified": "2010-08-13T01:30:47-0400",
+                "pageCount": 32,
+                "prices": [
+                    {
+                        "price": 2.99,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/36700",
+                "series": {
+                    "name": "Generation Hope (2010 - 2012)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/9895"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/36700/stories",
+                    "items": [
+                        {
+                            "name": "Cover #81412",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/81412",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #81413",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/81413",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [
+                    {
+                        "language": "en-us",
+                        "text": "Spinning directly out of UNCANNY X-MEN comes the most important new X-Book in years'GENERATION HOPE! When Hope Summers returned from the future she triggered the rebirth of the mutant gene. Five lights appeared on Cerebra and five mutants' powers came to life, but their activations have been chaotic and dangerous, nearly killing each of them. It was only the touch of Hope that saved their lives. With Rogue and the four new mutants who were gathered in UNCANNY X-MEN, Hope heads to Japan to join Cyclops, Wolverine and the fifth light. But will this new light be a hero or a villain?\r\nOnly KIERONGILLEN (THOR) and SALVA ESPIN (SAVAGE SHE-HULK) know! \r\nRated T  '$3.99",
+                        "type": "issue_solicit_text"
+                    }
+                ],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/4ccacac0b0ba9"
+                },
+                "title": "Generation Hope (2010) #1 (DJURDJEVIC VARIANT)",
+                "upc": "5960607123-00121",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/36700/generation_hope_2010_1_djurdjevic_variant/djurdjevic_variant?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ],
+                "variantDescription": "DJURDJEVIC VARIANT",
+                "variants": [
+                    {
+                        "name": "Generation Hope (2010) #1",
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30078"
+                    },
+                    {
+                        "name": "Generation Hope (2010) #1 (LAND VARIANT)",
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37722"
+                    }
+                ]
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/35895/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "collectedIssues": [],
+                "collections": [],
+                "creators": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/35895/creators",
+                    "items": [
+                        {
+                            "name": "Christos Gage",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+                            "role": "writer"
+                        },
+                        {
+                            "name": "Mike McKone",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/9137",
+                            "role": "penciler"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "dates": [
+                    {
+                        "date": "2010-11-03T00:00:00-0400",
+                        "type": "onsaleDate"
+                    },
+                    {
+                        "date": "2010-10-14T00:00:00-0400",
+                        "type": "focDate"
+                    }
+                ],
+                "description": "Reptil goes Jurassic on Tigra! When Humberto is elected class leader of Avengers Academy, it should be a dream\r\ncome true'but instead it's a nightmare! As he struggles with the weight of his repressed grief and anger, added to the responsibility he feels to keep his teammates on the heroic path, something's got to give...and it might just be Reptil's\r\nhumanity!  Plus: more on Quicksilver and Finesse, the villainy of Mentallo, and another Avengers guest appearance in the series that Comic Book Club Live hails as 'All of the fun of '90s New Warriors with a dark side.' Rated A '$2.99",
+                "diamondCode": "SEP100588",
+                "digitalId": 0,
+                "ean": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/35895/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "format": "Comic",
+                "id": 35895,
+                "images": [
+                    {
+                        "extension": "jpg",
+                        "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4ccacaf4e8533"
+                    }
+                ],
+                "isbn": "",
+                "issn": "",
+                "issueNumber": 6,
+                "modified": "2010-08-13T01:30:53-0400",
+                "pageCount": 32,
+                "prices": [
+                    {
+                        "price": 2.99,
+                        "type": "printPrice"
+                    }
+                ],
+                "resourceURI": "http://gateway.marvel.com/v1/public/comics/35895",
+                "series": {
+                    "name": "Avengers Academy (2010 - 2012)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/series/9086"
+                },
+                "stories": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/comics/35895/stories",
+                    "items": [
+                        {
+                            "name": "Cover #79472",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/79472",
+                            "type": "cover"
+                        },
+                        {
+                            "name": "Interior #79473",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/stories/79473",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "textObjects": [
+                    {
+                        "language": "en-us",
+                        "text": "Reptil goes Jurassic on Tigra! When Humberto is elected class leader of Avengers Academy, it should be a dream\r\ncome true'but instead it's a nightmare! As he struggles with the weight of his repressed grief and anger, added to the responsibility he feels to keep his teammates on the heroic path, something's got to give...and it might just be Reptil's\r\nhumanity!  Plus: more on Quicksilver and Finesse, the villainy of Mentallo, and another Avengers guest appearance in the series that Comic Book Club Live hails as 'All of the fun of '90s New Warriors with a dark side.' Rated A '$2.99",
+                        "type": "issue_solicit_text"
+                    }
+                ],
+                "thumbnail": {
+                    "extension": "jpg",
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4ccacaf4e8533"
+                },
+                "title": "Avengers Academy (2010) #6 (MCKONE VARIANT)",
+                "upc": "5960607016-00621",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/issue/35895/avengers_academy_2010_6_mckone_variant/mckone_variant?utm_campaign=apiRef&utm_source=39b45171402ee95949ff88ab3cdd0e9e"
+                    }
+                ],
+                "variantDescription": "MCKONE VARIANT",
+                "variants": [
+                    {
+                        "name": "Avengers Academy (2010) #6",
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29221"
+                    },
+                    {
+                        "name": "Avengers Academy (2010) #6 (MCKONE VARIANT)",
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35896"
+                    },
+                    {
+                        "name": "Avengers Academy (2010) #6 (MCKONE VARIANT)",
+                        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35897"
+                    }
+                ]
+            }
+        ],
+        "total": 30
+    },
+    "etag": "378fc0bbcbe5b4b9f8edda98acbab79971d59e07",
+    "status": "Ok"
+}

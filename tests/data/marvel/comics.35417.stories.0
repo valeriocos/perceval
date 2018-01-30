@@ -1,0 +1,140 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/70239/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 3,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/70239/comics",
+                    "items": [
+                        {
+                            "name": "X-Men Legacy (2008) #239",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/30706"
+                        },
+                        {
+                            "name": "X-Men Legacy (2008) #239 (WOMEN OF MARVEL VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35417"
+                        },
+                        {
+                            "name": "X-Men Legacy: Collision Premiere HC (Hardcover)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/29509"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/70239/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/70239/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 70239,
+                "modified": "-0001-11-30T00:00:00-0500",
+                "originalIssue": {
+                    "name": "X-Men Legacy (2008) #239",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/30706"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/70239",
+                "series": {
+                    "available": 2,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/70239/series",
+                    "items": [
+                        {
+                            "name": "X-Men Legacy (2008 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3754"
+                        },
+                        {
+                            "name": "X-Men Legacy: Collision Premiere HC (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/10602"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "thumbnail": null,
+                "title": "Interior #70239",
+                "type": "story"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79971/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79971/comics",
+                    "items": [
+                        {
+                            "name": "X-Men Legacy (2008) #239 (WOMEN OF MARVEL VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/35417"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79971/creators",
+                    "items": [
+                        {
+                            "name": "Terry Moore",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/creators/256",
+                            "role": "penciller"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79971/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 79971,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "X-Men Legacy (2008) #239 (WOMEN OF MARVEL VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/35417"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/79971",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/79971/series",
+                    "items": [
+                        {
+                            "name": "X-Men Legacy (2008 - 2012)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/3754"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #79971",
+                "type": "cover"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "3921b6ee4bd7a01e0ad634d9fae76e12090bc2dc",
+    "status": "Ok"
+}

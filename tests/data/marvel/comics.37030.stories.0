@@ -1,0 +1,122 @@
+{
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. \u00a9 2018 MARVEL</a>",
+    "attributionText": "Data provided by Marvel. \u00a9 2018 MARVEL",
+    "code": 200,
+    "copyright": "\u00a9 2018 MARVEL",
+    "data": {
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "results": [
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82095/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82095/comics",
+                    "items": [
+                        {
+                            "name": "New Mutants Forever (2010) #2 (SIENKIEWICZ VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37030"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82095/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82095/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82095,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "New Mutants Forever (2010) #2 (SIENKIEWICZ VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37030"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82095",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82095/series",
+                    "items": [
+                        {
+                            "name": "New Mutants Forever (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9923"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Cover #82095",
+                "type": "cover"
+            },
+            {
+                "characters": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82096/characters",
+                    "items": [],
+                    "returned": 0
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82096/comics",
+                    "items": [
+                        {
+                            "name": "New Mutants Forever (2010) #2 (SIENKIEWICZ VARIANT)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/comics/37030"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82096/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "description": "",
+                "events": {
+                    "available": 0,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82096/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "id": 82096,
+                "modified": "1969-12-31T19:00:00-0500",
+                "originalIssue": {
+                    "name": "New Mutants Forever (2010) #2 (SIENKIEWICZ VARIANT)",
+                    "resourceURI": "http://gateway.marvel.com/v1/public/comics/37030"
+                },
+                "resourceURI": "http://gateway.marvel.com/v1/public/stories/82096",
+                "series": {
+                    "available": 1,
+                    "collectionURI": "http://gateway.marvel.com/v1/public/stories/82096/series",
+                    "items": [
+                        {
+                            "name": "New Mutants Forever (2010)",
+                            "resourceURI": "http://gateway.marvel.com/v1/public/series/9923"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "thumbnail": null,
+                "title": "Interior #82096",
+                "type": "story"
+            }
+        ],
+        "total": 2
+    },
+    "etag": "e535e89b9adb5b977cd2a6123f413ae76f4467cd",
+    "status": "Ok"
+}
