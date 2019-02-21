@@ -271,6 +271,21 @@ class Git(Backend):
             commits = self.__fetch_commits_from_repo(repo, from_date, to_date, branches, no_update)
         else:
             commits = self.__fetch_newest_commits_from_repo(repo)
+            
+        for commit in commits:
+            if 'files' not in commit:
+                continue
+
+            for f in commit['files']:
+                try:
+                    blame = [line for line in repo.blame(commit['commit'], f['file'])]
+                    f['blame'] = blame
+                except Exception:
+                    f['blame'] = []
+                    logger.warning("Blame failed for %s", f)
+                    continue
+
+            yield commit
 
         return commits
 
@@ -906,6 +921,13 @@ class GitRepository:
 
         logger.debug("Git %s repository updated into %s",
                      self.uri, self.dirpath)
+
+    def blame(self, commit, file_path):
+
+        cmd_blame = ['git', 'blame', commit, file_path]
+
+        for line in self._exec_nb(cmd_blame, cwd=self.dirpath, env=self.gitenv):
+            yield line.rstrip('\n')
 
     def sync(self):
         """Keep the repository in sync.
