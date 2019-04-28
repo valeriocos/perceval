@@ -58,7 +58,7 @@ DEFAULT_SLEEP_TIME = 1
 MAX_RETRIES = 5
 
 TARGET_ISSUE_FIELDS = ['user', 'assignee', 'assignees', 'comments', 'reactions']
-TARGET_PULL_FIELDS = ['user', 'review_comments', 'requested_reviewers', "merged_by", "commits"]
+TARGET_PULL_FIELDS = ['user', 'review_comments', 'requested_reviewers', "reviews", "merged_by", "commits"]
 
 logger = logging.getLogger(__name__)
 
@@ -275,9 +275,9 @@ class GitHub(Backend):
                 return
 
             self.__init_extra_pull_fields(pull)
-            for field in TARGET_PULL_FIELDS:
 
-                if not pull[field]:
+            for field in TARGET_PULL_FIELDS:
+                if not pull[field] and field != "reviews":
                     continue
 
                 if field == 'user':
@@ -288,6 +288,9 @@ class GitHub(Backend):
                     pull[field + '_data'] = self.__get_pull_review_comments(pull['number'])
                 elif field == 'requested_reviewers':
                     pull[field + '_data'] = self.__get_pull_requested_reviewers(pull['number'])
+                elif field == 'reviews':
+                    pull[field + '_data'] = self.__get_pull_reviews(pull['number'])
+                    pull[field] = len(pull[field + '_data'])
                 elif field == 'commits':
                     pull[field + '_data'] = self.__get_pull_commits(pull['number'])
 
@@ -426,6 +429,27 @@ class GitHub(Backend):
 
         return comments
 
+    def __get_pull_reviews(self, pr_number):
+        """Get pull request review comments"""
+
+        reviews = []
+        group_reviews = self.client.pull_reviews(pr_number)
+
+        for raw_reviews in group_reviews:
+
+            for review in json.loads(raw_reviews):
+                review_id = review.get('id')
+
+                user = review.get('user', None)
+                if not user:
+                    logger.warning("Missing user info for %s", review['url'])
+                    review['user_data'] = None
+                else:
+                    review['user_data'] = self.__get_user(user['login'])
+
+                reviews.append(review)
+        return reviews
+
     def __get_pull_review_comment_reactions(self, comment_id, total_count):
         """Get pull review comment reactions"""
 
@@ -474,6 +498,7 @@ class GitHub(Backend):
 
         pull['user_data'] = {}
         pull['review_comments_data'] = {}
+        pull['reviews_data'] = []
         pull['requested_reviewers_data'] = []
         pull['merged_by_data'] = []
         pull['commits_data'] = []
@@ -502,6 +527,7 @@ class GitHubClient(HttpClient, RateLimitHandler):
 
     _users = {}       # users cache
     _users_orgs = {}  # users orgs cache
+    _reviews = {}  # pullrequest reviews
 
     def __init__(self, owner, repository, tokens,
                  base_url=None, sleep_for_rate=False, min_rate_to_sleep=MIN_RATE_LIMIT,
@@ -618,11 +644,13 @@ class GitHubClient(HttpClient, RateLimitHandler):
 
                 pull_number = issue["number"]
                 path = urijoin(self.base_url, 'repos', self.owner, self.repository, "pulls", pull_number)
-
                 r = self.fetch(path)
                 pull = r.text
-
-                yield pull
+                pull_dict = json.loads(pull)
+                review_path = urijoin(self.base_url, 'repos', self.owner, self.repository, "pulls", pull_number, "reviews")
+                pull_dict["_links"]["reviews"] = review_path
+                pull_dict["reviews"] = 0
+                yield json.dumps(pull_dict, indent=2)
 
     def repo(self):
         """Get repository data"""
@@ -661,6 +689,22 @@ class GitHubClient(HttpClient, RateLimitHandler):
 
         comments_url = urijoin("pulls", str(pr_number), "comments")
         return self.fetch_items(comments_url, payload)
+
+    def pull_reviews(self, pr_number):
+        """Get pull request reviews"""
+        payload = {
+            'per_page': PER_PAGE,
+            'direction': 'asc',
+            'sort': 'updated'
+        }
+
+        if pr_number in self._reviews:
+            return self._reviews[pr_number]
+
+        reviews_url = urijoin("pulls", str(pr_number), "reviews")
+        self._reviews[pr_number] = self.fetch_items(reviews_url, payload)
+
+        return self._reviews[pr_number]
 
     def pull_review_comment_reactions(self, comment_id):
         """Get reactions of a review comment"""
@@ -742,7 +786,6 @@ class GitHubClient(HttpClient, RateLimitHandler):
         page = 0  # current page
         last_page = None  # last page
         url_next = urijoin(self.base_url, 'repos', self.owner, self.repository, path)
-
         logger.debug("Get GitHub paginated items from " + url_next)
 
         response = self.fetch(url_next, payload=payload)

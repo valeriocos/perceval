@@ -61,6 +61,8 @@ GITHUB_ISSUE_COMMENT_2_REACTION_URL = GITHUB_ISSUES_URL + "/comments/2/reactions
 GITHUB_PULL_REQUEST_1_URL = GITHUB_PULL_REQUEST_URL + "/1"
 GITHUB_PULL_REQUEST_1_COMMENTS = GITHUB_PULL_REQUEST_1_URL + "/comments"
 GITHUB_PULL_REQUEST_1_COMMITS = GITHUB_PULL_REQUEST_1_URL + "/commits"
+GITHUB_PULL_REQUEST_1_REVIEWS = "https://api.github.com/repos/chaoss/grimoirelab-tutorial/pulls/12/reviews"
+GITHUB_PULL_REQUEST_2_REVIEWS = "https://api.github.com/repos/chaoss/wg-evolution/pulls/88/reviews"
 GITHUB_PULL_REQUEST_1_COMMENTS_2_REACTIONS = GITHUB_PULL_REQUEST_URL + "/comments/2/reactions"
 GITHUB_PULL_REQUEST_1_REQUESTED_REVIEWERS_URL = GITHUB_PULL_REQUEST_1_URL + "/requested_reviewers"
 GITHUB_PULL_REQUEST_2_URL = GITHUB_PULL_REQUEST_URL + "/2"
@@ -99,6 +101,9 @@ def read_file(filename, mode='r'):
 
 class TestGitHubBackend(unittest.TestCase):
     """ GitHub backend tests """
+
+    def setUp(self):
+        self.maxDiff = None
 
     @httpretty.activate
     def test_initialization(self):
@@ -260,6 +265,7 @@ class TestGitHubBackend(unittest.TestCase):
         orgs = read_file('data/github/github_orgs')
         pull = read_file('data/github/github_request_pull_request_1')
         pull_comments = read_file('data/github/github_request_pull_request_1_comments')
+        pull_reviews_1 = read_file('data/github/github_request_pull_request_1_reviews')
         pull_commits = read_file('data/github/github_request_pull_request_1_commits')
         pull_comment_2_reactions = read_file('data/github/github_request_pull_request_1_comment_2_reactions')
         pull_requested_reviewers = read_file('data/github/github_request_requested_reviewers')
@@ -300,6 +306,16 @@ class TestGitHubBackend(unittest.TestCase):
                                    'X-RateLimit-Remaining': '20',
                                    'X-RateLimit-Reset': '15'
                                })
+
+        httpretty.register_uri(httpretty.GET,
+                               GITHUB_PULL_REQUEST_1_REVIEWS,
+                               body=pull_reviews_1,
+                               status=200,
+                               forcing_headers={
+                                   'X-RateLimit-Remaining': '20',
+                                   'X-RateLimit-Reset': '15'
+                               })
+
         httpretty.register_uri(httpretty.GET,
                                GITHUB_PULL_REQUEST_1_COMMITS,
                                body=pull_commits,
@@ -1913,6 +1929,9 @@ class TestGitHubBackendArchive(TestCaseBackendArchive):
 class TestGitHubClient(unittest.TestCase):
     """GitHub API client tests"""
 
+    def setUp(self):
+        self.maxDiff = None
+
     @httpretty.activate
     def test_init(self):
         rate_limit = read_file('data/github/rate_limit')
@@ -2144,7 +2163,7 @@ class TestGitHubClient(unittest.TestCase):
                                    'X-RateLimit-Reset': '15'
                                })
         httpretty.register_uri(httpretty.GET,
-                               GITHUB_PULL_REQUEST_1_URL,
+                               "https://example.com/repos/chaoss/grimoirelab-tutorial/pulls/12",
                                body=pull_request,
                                status=200,
                                forcing_headers={
@@ -2242,7 +2261,7 @@ class TestGitHubClient(unittest.TestCase):
                                    'X-RateLimit-Reset': '15'
                                })
 
-        client = GitHubClient("zhquan_example", "repo", ["aaa"], base_url=GITHUB_ENTERPRISE_URL)
+        client = GitHubClient("chaoss", "grimoirelab-tutorial", ["aaa"], base_url=GITHUB_ENTERPRISE_URL)
 
         raw_pulls = [pulls for pulls in client.pulls()]
         self.assertEqual(raw_pulls[0], pull_request)
@@ -2432,6 +2451,35 @@ class TestGitHubClient(unittest.TestCase):
 
         pull_review_comments_raw = [rev for rev in client.pull_review_comments(1)]
         self.assertEqual(pull_review_comments_raw[0], pull_request_comments)
+
+    @httpretty.activate
+    def test_pull_reviews(self):
+        """Test pull reviews API call"""
+
+        pull_request_reviews = read_file('data/github/github_request_pull_request_1_reviews')
+        rate_limit = read_file('data/github/rate_limit')
+
+        httpretty.register_uri(httpretty.GET,
+                               GITHUB_RATE_LIMIT,
+                               body=rate_limit,
+                               status=200,
+                               forcing_headers={
+                                   'X-RateLimit-Remaining': '20',
+                                   'X-RateLimit-Reset': '15'
+                               })
+        httpretty.register_uri(httpretty.GET,
+                               GITHUB_PULL_REQUEST_1_REVIEWS,
+                               body=pull_request_reviews,
+                               status=200,
+                               forcing_headers={
+                                   'X-RateLimit-Remaining': '20',
+                                   'X-RateLimit-Reset': '15'
+                               })
+
+        client = GitHubClient("chaoss", "grimoirelab-tutorial", ["aaa"])
+
+        pull_reviews_raw = [rev for rev in client.pull_reviews(12)]
+        self.assertEqual(pull_reviews_raw[0], pull_request_reviews)
 
     @httpretty.activate
     def test_pull_commits(self):
