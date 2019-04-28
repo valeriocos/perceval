@@ -61,13 +61,13 @@ GITHUB_ISSUE_COMMENT_2_REACTION_URL = GITHUB_ISSUES_URL + "/comments/2/reactions
 GITHUB_PULL_REQUEST_1_URL = GITHUB_PULL_REQUEST_URL + "/1"
 GITHUB_PULL_REQUEST_1_COMMENTS = GITHUB_PULL_REQUEST_1_URL + "/comments"
 GITHUB_PULL_REQUEST_1_COMMITS = GITHUB_PULL_REQUEST_1_URL + "/commits"
-GITHUB_PULL_REQUEST_1_REVIEWS = "https://api.github.com/repos/chaoss/grimoirelab-tutorial/pulls/12/reviews"
-GITHUB_PULL_REQUEST_2_REVIEWS = "https://api.github.com/repos/chaoss/wg-evolution/pulls/88/reviews"
+GITHUB_PULL_REQUEST_1_REVIEWS = GITHUB_PULL_REQUEST_1_URL + "/reviews"
 GITHUB_PULL_REQUEST_1_COMMENTS_2_REACTIONS = GITHUB_PULL_REQUEST_URL + "/comments/2/reactions"
 GITHUB_PULL_REQUEST_1_REQUESTED_REVIEWERS_URL = GITHUB_PULL_REQUEST_1_URL + "/requested_reviewers"
 GITHUB_PULL_REQUEST_2_URL = GITHUB_PULL_REQUEST_URL + "/2"
 GITHUB_PULL_REQUEST_2_COMMENTS = GITHUB_PULL_REQUEST_2_URL + "/comments"
 GITHUB_PULL_REQUEST_2_COMMITS = GITHUB_PULL_REQUEST_2_URL + "/commits"
+GITHUB_PULL_REQUEST_2_REVIEWS = GITHUB_PULL_REQUEST_2_URL + "/reviews"
 GITHUB_PULL_REQUEST_2_REQUESTED_REVIEWERS_URL = GITHUB_PULL_REQUEST_2_URL + "/requested_reviewers"
 GITHUB_USER_URL = GITHUB_API_URL + "/users/zhquan_example"
 GITHUB_ORGS_URL = GITHUB_API_URL + "/users/zhquan_example/orgs"
@@ -89,6 +89,7 @@ GITHUB_ENTERPRISE_ORGS_URL = GITHUB_ENTERPRISE_API_URL + "/users/zhquan_example/
 GITHUB_ENTREPRISE_PULL_REQUEST_1_URL = GITHUB_ENTERPRISE_PULL_REQUESTS_URL + "/1"
 GITHUB_ENTREPRISE_PULL_REQUEST_1_COMMENTS = GITHUB_ENTREPRISE_PULL_REQUEST_1_URL + "/comments"
 GITHUB_ENTREPRISE_PULL_REQUEST_1_COMMITS = GITHUB_ENTREPRISE_PULL_REQUEST_1_URL + "/commits"
+GITHUB_ENTREPRISE_PULL_REQUEST_1_REVIEWS = GITHUB_ENTREPRISE_PULL_REQUEST_1_URL + "/reviews"
 GITHUB_ENTREPRISE_PULL_REQUEST_1_COMMENTS_2_REACTIONS = GITHUB_ENTERPRISE_PULL_REQUESTS_URL + "/comments/2/reactions"
 GITHUB_ENTREPRISE_REQUEST_REQUESTED_REVIEWERS_URL = GITHUB_ENTREPRISE_PULL_REQUEST_1_URL + "/requested_reviewers"
 
@@ -101,9 +102,6 @@ def read_file(filename, mode='r'):
 
 class TestGitHubBackend(unittest.TestCase):
     """ GitHub backend tests """
-
-    def setUp(self):
-        self.maxDiff = None
 
     @httpretty.activate
     def test_initialization(self):
@@ -556,11 +554,13 @@ class TestGitHubBackend(unittest.TestCase):
         issue_2 = read_file('data/github/github_issue_2_with_pr')
         pull_1 = read_file('data/github/github_request_pull_request_1')
         pull_1_comments = read_file('data/github/github_request_pull_request_1_comments')
+        pull_1_reviews = read_file('data/github/github_request_pull_request_1_reviews')
         pull_1_commits = read_file('data/github/github_request_pull_request_1_commits')
         pull_1_comment_2_reactions = read_file('data/github/github_request_pull_request_1_comment_2_reactions')
         pull_requested_reviewers = read_file('data/github/github_request_requested_reviewers')
         pull_2 = read_file('data/github/github_request_pull_request_2')
         pull_2_comments = read_file('data/github/github_request_pull_request_2_comments')
+        pull_2_reviews = read_file('data/github/github_request_pull_request_2_reviews')
         pull_2_commits = read_file('data/github/github_request_pull_request_2_commits')
         rate_limit = read_file('data/github/rate_limit')
 
@@ -625,6 +625,13 @@ class TestGitHubBackend(unittest.TestCase):
                                    'X-RateLimit-Reset': '15'
                                })
         httpretty.register_uri(httpretty.GET,
+                               GITHUB_PULL_REQUEST_1_REVIEWS,
+                               body=pull_1_reviews, status=200,
+                               forcing_headers={
+                                   'X-RateLimit-Remaining': '20',
+                                   'X-RateLimit-Reset': '15'
+                               })
+        httpretty.register_uri(httpretty.GET,
                                GITHUB_PULL_REQUEST_1_REQUESTED_REVIEWERS_URL,
                                body=pull_requested_reviewers, status=200,
                                forcing_headers={
@@ -650,6 +657,14 @@ class TestGitHubBackend(unittest.TestCase):
         httpretty.register_uri(httpretty.GET,
                                GITHUB_PULL_REQUEST_2_COMMITS,
                                body=pull_2_commits,
+                               status=200,
+                               forcing_headers={
+                                   'X-RateLimit-Remaining': '20',
+                                   'X-RateLimit-Reset': '15'
+                               })
+        httpretty.register_uri(httpretty.GET,
+                               GITHUB_PULL_REQUEST_2_REVIEWS,
+                               body=pull_2_reviews,
                                status=200,
                                forcing_headers={
                                    'X-RateLimit-Remaining': '20',
@@ -734,6 +749,7 @@ class TestGitHubBackend(unittest.TestCase):
         issue_2 = read_file('data/github/github_issue_2')
         pull_request = read_file('data/github/github_request_pull_request_1')
         pull_request_comments = read_file('data/github/github_request_pull_request_1_comments')
+        pull_request_reviews = read_file('data/github/github_request_pull_request_1_reviews')
         pull_request_commits = read_file('data/github/github_request_pull_request_1_commits')
         pull_request_comment_2_reactions = read_file('data/github/github_request_pull_request_1_comment_2_reactions')
         pull_requested_reviewers = read_file('data/github/github_request_requested_reviewers')
@@ -770,6 +786,14 @@ class TestGitHubBackend(unittest.TestCase):
         httpretty.register_uri(httpretty.GET,
                                GITHUB_PULL_REQUEST_1_COMMENTS,
                                body=pull_request_comments,
+                               status=200,
+                               forcing_headers={
+                                   'X-RateLimit-Remaining': '20',
+                                   'X-RateLimit-Reset': '15'
+                               })
+        httpretty.register_uri(httpretty.GET,
+                               GITHUB_PULL_REQUEST_1_REVIEWS,
+                               body=pull_request_reviews,
                                status=200,
                                forcing_headers={
                                    'X-RateLimit-Remaining': '20',
@@ -965,11 +989,13 @@ class TestGitHubBackend(unittest.TestCase):
         pull_1 = read_file('data/github/github_request_pull_request_1')
         pull_1_comments = read_file('data/github/github_request_pull_request_1_comments')
         pull_1_commits = read_file('data/github/github_request_pull_request_1_commits')
+        pull_1_reviews = read_file('data/github/github_request_pull_request_1_reviews')
         pull_1_comment_2_reactions = read_file('data/github/github_request_pull_request_1_comment_2_reactions')
         pull_requested_reviewers = read_file('data/github/github_request_requested_reviewers')
         pull_2 = read_file('data/github/github_request_pull_request_2')
         pull_2_comments = read_file('data/github/github_request_pull_request_2_comments')
         pull_2_commits = read_file('data/github/github_request_pull_request_2_commits')
+        pull_2_reviews = read_file('data/github/github_request_pull_request_2_reviews')
         rate_limit = read_file('data/github/rate_limit')
 
         httpretty.register_uri(httpretty.GET,
@@ -1025,6 +1051,14 @@ class TestGitHubBackend(unittest.TestCase):
                                    'X-RateLimit-Reset': '15'
                                })
         httpretty.register_uri(httpretty.GET,
+                               GITHUB_PULL_REQUEST_1_REVIEWS,
+                               body=pull_1_reviews,
+                               status=200,
+                               forcing_headers={
+                                   'X-RateLimit-Remaining': '20',
+                                   'X-RateLimit-Reset': '15'
+                               })
+        httpretty.register_uri(httpretty.GET,
                                GITHUB_PULL_REQUEST_1_COMMENTS_2_REACTIONS,
                                body=pull_1_comment_2_reactions,
                                status=200,
@@ -1050,6 +1084,14 @@ class TestGitHubBackend(unittest.TestCase):
         httpretty.register_uri(httpretty.GET,
                                GITHUB_PULL_REQUEST_2_COMMENTS,
                                body=pull_2_comments,
+                               status=200,
+                               forcing_headers={
+                                   'X-RateLimit-Remaining': '20',
+                                   'X-RateLimit-Reset': '15'
+                               })
+        httpretty.register_uri(httpretty.GET,
+                               GITHUB_PULL_REQUEST_2_REVIEWS,
+                               body=pull_2_reviews,
                                status=200,
                                forcing_headers={
                                    'X-RateLimit-Remaining': '20',
@@ -1260,6 +1302,7 @@ class TestGitHubBackend(unittest.TestCase):
         issue_2 = read_file('data/github/github_issue_2')
         pull_request = read_file('data/github/github_request_pull_request_1')
         pull_request_comments = read_file('data/github/github_request_pull_request_1_comments')
+        pull_request_reviews = read_file('data/github/github_request_pull_request_1_reviews')
         pull_request_commits = read_file('data/github/github_request_pull_request_1_commits')
         pull_request_comment_2_reactions = read_file('data/github/github_request_pull_request_1_comment_2_reactions')
         pull_requested_reviewers = read_file('data/github/github_request_requested_reviewers')
@@ -1304,6 +1347,14 @@ class TestGitHubBackend(unittest.TestCase):
         httpretty.register_uri(httpretty.GET,
                                GITHUB_ENTREPRISE_PULL_REQUEST_1_COMMENTS,
                                body=pull_request_comments,
+                               status=200,
+                               forcing_headers={
+                                   'X-RateLimit-Remaining': '20',
+                                   'X-RateLimit-Reset': '15'
+                               })
+        httpretty.register_uri(httpretty.GET,
+                               GITHUB_ENTREPRISE_PULL_REQUEST_1_REVIEWS,
+                               body=pull_request_reviews,
                                status=200,
                                forcing_headers={
                                    'X-RateLimit-Remaining': '20',
@@ -1723,6 +1774,7 @@ class TestGitHubBackendArchive(TestCaseBackendArchive):
         login = read_file('data/github/github_login')
         orgs = read_file('data/github/github_orgs')
         pull_request = read_file('data/github/github_request_pull_request_1')
+        pull_request_reviews = read_file('data/github/github_request_pull_request_1_reviews')
         pull_request_comments = read_file('data/github/github_request_pull_request_1_comments')
         pull_request_commits = read_file('data/github/github_request_pull_request_1_commits')
         pull_request_comment_2_reactions = read_file('data/github/github_request_pull_request_1_comment_2_reactions')
@@ -1774,6 +1826,14 @@ class TestGitHubBackendArchive(TestCaseBackendArchive):
         httpretty.register_uri(httpretty.GET,
                                GITHUB_PULL_REQUEST_1_URL,
                                body=pull_request,
+                               status=200,
+                               forcing_headers={
+                                   'X-RateLimit-Remaining': '20',
+                                   'X-RateLimit-Reset': '15'
+                               })
+        httpretty.register_uri(httpretty.GET,
+                               GITHUB_PULL_REQUEST_1_REVIEWS,
+                               body=pull_request_reviews,
                                status=200,
                                forcing_headers={
                                    'X-RateLimit-Remaining': '20',
@@ -2163,7 +2223,7 @@ class TestGitHubClient(unittest.TestCase):
                                    'X-RateLimit-Reset': '15'
                                })
         httpretty.register_uri(httpretty.GET,
-                               "https://example.com/repos/chaoss/grimoirelab-tutorial/pulls/12",
+                               GITHUB_PULL_REQUEST_1_URL,
                                body=pull_request,
                                status=200,
                                forcing_headers={
@@ -2261,7 +2321,7 @@ class TestGitHubClient(unittest.TestCase):
                                    'X-RateLimit-Reset': '15'
                                })
 
-        client = GitHubClient("chaoss", "grimoirelab-tutorial", ["aaa"], base_url=GITHUB_ENTERPRISE_URL)
+        client = GitHubClient("zhquan_example", "repo", ["aaa"], base_url=GITHUB_ENTERPRISE_URL)
 
         raw_pulls = [pulls for pulls in client.pulls()]
         self.assertEqual(raw_pulls[0], pull_request)
@@ -2476,9 +2536,9 @@ class TestGitHubClient(unittest.TestCase):
                                    'X-RateLimit-Reset': '15'
                                })
 
-        client = GitHubClient("chaoss", "grimoirelab-tutorial", ["aaa"])
+        client = GitHubClient("zhquan_example", "repo", ["aaa"])
 
-        pull_reviews_raw = [rev for rev in client.pull_reviews(12)]
+        pull_reviews_raw = [rev for rev in client.pull_reviews(1)]
         self.assertEqual(pull_reviews_raw[0], pull_request_reviews)
 
     @httpretty.activate
