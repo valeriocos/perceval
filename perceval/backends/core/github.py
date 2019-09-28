@@ -523,9 +523,24 @@ class GitHub(Backend):
 
         user_raw = self.client.user(login)
         user = json.loads(user_raw)
-        user_orgs_raw = \
-            self.client.user_orgs(login)
-        user['organizations'] = json.loads(user_orgs_raw)
+
+        raw_orgs_pages = self.client.user_orgs(login)
+        orgs = [org for raw_org_page in raw_orgs_pages for org in json.loads(raw_org_page)]
+        user['organizations'] = orgs
+
+        teams = []
+        for org in orgs:
+            raw_teams_pages = self.client.org_teams(org['login'])
+            teams = [team for raw_teams_page in raw_teams_pages for team in json.loads(raw_teams_page)]
+
+        for team in teams:
+            raw_mems_pages = self.client.team_members(team['id'])
+            members = [member for raw_members_page in raw_mems_pages for member in json.loads(raw_members_page)]
+
+            if user['login'] in members:
+                teams.append(team)
+
+        user['teams'] = teams
 
         return user
 
@@ -574,6 +589,8 @@ class GitHubClient(HttpClient, RateLimitHandler):
 
     _users = {}       # users cache
     _users_orgs = {}  # users orgs cache
+    _orgs_teams = {}  # users teams cache
+    _teams_members = {}  # team members cache
 
     def __init__(self, owner, repository, tokens,
                  base_url=None, sleep_for_rate=False, min_rate_to_sleep=MIN_RATE_LIMIT,
@@ -653,8 +670,11 @@ class GitHubClient(HttpClient, RateLimitHandler):
 
         payload = {
             'direction': 'asc',
-            'sort': 'updated'
+            'sort': 'updated',
+            'per_page': self.max_items
         }
+
+        payload['since'] = '2016-03-23T19:31:05Z'
 
         path = urijoin("issues", str(issue_number), "events")
         return self.fetch_items(path, payload)
@@ -777,7 +797,7 @@ class GitHubClient(HttpClient, RateLimitHandler):
 
         url_user = urijoin(self.base_url, 'users', login)
 
-        logging.info("Getting info for %s" % (url_user))
+        logging.info("Getting info for %s" % url_user)
 
         r = self.fetch(url_user)
         user = r.text
@@ -787,24 +807,82 @@ class GitHubClient(HttpClient, RateLimitHandler):
 
     def user_orgs(self, login):
         """Get the user public organizations"""
+
         if login in self._users_orgs:
             return self._users_orgs[login]
 
         url = urijoin(self.base_url, 'users', login, 'orgs')
+        payload = {
+            'per_page': PER_PAGE
+        }
+
+        raw_orgs = []
         try:
-            r = self.fetch(url)
-            orgs = r.text
+            for raw_orgs_page in self.__paginated_items(url, payload):
+                raw_orgs.append(raw_orgs_page)
         except requests.exceptions.HTTPError as error:
             # 404 not found is wrongly received sometimes
             if error.response.status_code == 404:
                 logger.error("Can't get github login orgs: %s", error)
-                orgs = '[]'
+                raw_orgs = '[]'
             else:
                 raise error
 
-        self._users_orgs[login] = orgs
+        self._users_orgs[login] = raw_orgs
 
-        return orgs
+        return raw_orgs
+
+    def org_teams(self, login):
+        """Get the org teams"""
+
+        if login in self._orgs_teams:
+            return self._orgs_teams[login]
+
+        url = urijoin(self.base_url, 'orgs', login, 'teams')
+        payload = {
+            'per_page': PER_PAGE
+        }
+
+        raw_teams = []
+        try:
+            for raw_teams_page in self.__paginated_items(url, payload):
+                raw_teams.append(raw_teams_page)
+        except requests.exceptions.HTTPError as error:
+            # 404 not found is wrongly received sometimes
+            if error.response.status_code == 404:
+                logger.error("Can't get github org teams: %s", error)
+                raw_teams = '[]'
+            else:
+                raise error
+
+        self._orgs_teams[login] = raw_teams
+
+        return raw_teams
+
+    def team_members(self, team_id):
+        """Get the team members"""
+
+        url = urijoin(self.base_url, 'teams', team_id, 'members')
+        payload = {
+            'per_page': PER_PAGE
+        }
+
+        raw_members = []
+        try:
+            for raw_members_page in self.__paginated_items(url, payload):
+                raw_members.append(raw_members_page)
+        except requests.exceptions.HTTPError as error:
+            # 404 not found is wrongly received sometimes
+            if error.response.status_code == 404:
+                logger.error("Can't get members from team %s: %s", team_id, error)
+                raw_members = '[]'
+            else:
+                raise error
+
+        self._teams_members[team_id] = raw_members
+
+        return raw_members
+
 
     def fetch(self, url, payload=None, headers=None, method=HttpClient.GET, stream=False, verify=True):
         """Fetch the data from a given URL.
@@ -833,9 +911,17 @@ class GitHubClient(HttpClient, RateLimitHandler):
     def fetch_items(self, path, payload):
         """Return the items from github API using links pagination"""
 
-        page = 0  # current page
-        last_page = None  # last page
         url_next = urijoin(self.base_url, 'repos', self.owner, self.repository, path)
+
+        return self.__paginated_items(url_next, payload)
+
+    def __paginated_items(self, url, payload):
+        """Retun paginated items"""
+
+        last_page = None  # last page
+
+        page = 0  # current page
+        url_next = url
         logger.debug("Get GitHub paginated items from " + url_next)
 
         response = self.fetch(url_next, payload=payload)
@@ -961,7 +1047,8 @@ class GitHubClient(HttpClient, RateLimitHandler):
         """Set extra headers for session"""
 
         headers = {}
-        headers.update({'Accept': 'application/vnd.github.squirrel-girl-preview'})
+        headers.update({'Accept': 'application/vnd.github.squirrel-girl-preview, '
+                                  'application/vnd.github.hellcat-preview+json'})
         return headers
 
 
