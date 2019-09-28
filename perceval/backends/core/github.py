@@ -124,7 +124,6 @@ class GitHub(Backend):
         self.max_items = max_items
 
         self.client = None
-        self._users = {}  # internal users cache
 
     def search_fields(self, item):
         """Add search fields to an item.
@@ -415,6 +414,11 @@ class GitHub(Backend):
         for raw_events in group_events:
 
             for event in json.loads(raw_events):
+                actor_login = event['actor']['login']
+                if actor_login:
+                    event['actor_data'] = self.__get_user(actor_login)
+                else:
+                    event['actor_data'] = {}
                 events.append(event)
 
         return events
@@ -528,19 +532,19 @@ class GitHub(Backend):
         orgs = [org for raw_org_page in raw_orgs_pages for org in json.loads(raw_org_page)]
         user['organizations'] = orgs
 
-        teams = []
-        for org in orgs:
-            raw_teams_pages = self.client.org_teams(org['login'])
-            teams = [team for raw_teams_page in raw_teams_pages for team in json.loads(raw_teams_page)]
-
-        for team in teams:
-            raw_mems_pages = self.client.team_members(team['id'])
-            members = [member for raw_members_page in raw_mems_pages for member in json.loads(raw_members_page)]
-
-            if user['login'] in members:
-                teams.append(team)
-
-        user['teams'] = teams
+        # teams = []
+        # for org in orgs:
+        #     raw_teams_pages = self.client.org_teams(org['login'])
+        #     teams = [team for raw_teams_page in raw_teams_pages for team in json.loads(raw_teams_page)]
+        #
+        # for team in teams:
+        #     raw_mems_pages = self.client.team_members(team['id'])
+        #     members = [member for raw_members_page in raw_mems_pages for member in json.loads(raw_members_page)]
+        #
+        #     if user['login'] in members:
+        #         teams.append(team)
+        #
+        # user['teams'] = teams
 
         return user
 
@@ -673,8 +677,6 @@ class GitHubClient(HttpClient, RateLimitHandler):
             'sort': 'updated',
             'per_page': self.max_items
         }
-
-        payload['since'] = '2016-03-23T19:31:05Z'
 
         path = urijoin("issues", str(issue_number), "events")
         return self.fetch_items(path, payload)
@@ -1048,7 +1050,8 @@ class GitHubClient(HttpClient, RateLimitHandler):
 
         headers = {}
         headers.update({'Accept': 'application/vnd.github.squirrel-girl-preview, '
-                                  'application/vnd.github.hellcat-preview+json'})
+                                  'application/vnd.github.hellcat-preview+json,'
+                                  'application/vnd.github.starfox-preview+json'})
         return headers
 
 
