@@ -408,20 +408,41 @@ class GitHub(Backend):
     def __get_issue_events(self, issue_number):
         """Get issue events"""
 
-        events = []
-        group_events = self.client.issue_events(issue_number)
+        headers = {"Authorization": "token {}".format(self.api_token[0])}
+        query = """
+        viewer {
+        repositories(first: 30) {
+          totalCount
+          pageInfo {
+            hasNextPage
+            endCursor
+          }
+          edges {
+            node {
+              name
+            }
+          }
+        }
+        """
 
-        for raw_events in group_events:
+        r = requests.post('https://api.github.com/graphql', json={'query': query}, headers=headers)
+        request = r.json()
+        print("here")
 
-            for event in json.loads(raw_events):
-                actor_login = event['actor']['login']
-                if actor_login:
-                    event['actor_data'] = self.__get_user(actor_login)
-                else:
-                    event['actor_data'] = {}
-                events.append(event)
-
-        return events
+        # events = []
+        # group_events = self.client.issue_events(issue_number)
+        #
+        # for raw_events in group_events:
+        #
+        #     for event in json.loads(raw_events):
+        #         actor_login = event['actor'].get('login', None)
+        #         if actor_login:
+        #             event['actor_data'] = self.__get_user(actor_login)
+        #         else:
+        #             event['actor_data'] = {}
+        #         events.append(event)
+        #
+        # return events
 
     def __get_pull_requested_reviewers(self, pr_number):
         """Get pull request requested reviewers"""
@@ -675,10 +696,11 @@ class GitHubClient(HttpClient, RateLimitHandler):
         payload = {
             'direction': 'asc',
             'sort': 'updated',
-            'per_page': self.max_items
+            'per_page': self.max_items,
+            'since': '2019-09-29'
         }
 
-        path = urijoin("issues", str(issue_number), "events")
+        path = urijoin("issues", str(issue_number), "timeline")
         return self.fetch_items(path, payload)
 
     def issues(self, from_date=None):
@@ -1051,7 +1073,8 @@ class GitHubClient(HttpClient, RateLimitHandler):
         headers = {}
         headers.update({'Accept': 'application/vnd.github.squirrel-girl-preview, '
                                   'application/vnd.github.hellcat-preview+json,'
-                                  'application/vnd.github.starfox-preview+json'})
+                                  'application/vnd.github.starfox-preview+json, '
+                                  'application/vnd.github.mockingbird-preview'})
         return headers
 
 
