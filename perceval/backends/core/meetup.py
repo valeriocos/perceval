@@ -145,6 +145,12 @@ class Meetup(Backend):
         nevents = 0
         stop_fetching = False
 
+        mem_pages = self.client.members(self.group, from_date=from_date)
+        for mem_page in mem_pages:
+            members = [member for member in self.parse_json(mem_page)]
+            for member in members:
+                print(json.dumps(member, sort_keys=True, indent=4))
+
         ev_pages = self.client.events(self.group, from_date=from_date)
 
         for evp in ev_pages:
@@ -326,6 +332,7 @@ class MeetupClient(HttpClient, RateLimitHandler):
     RCOMMENTS = 'comments'
     REVENTS = 'events'
     RRSVPS = 'rsvps'
+    RMEMBERS = 'members'
 
     PFIELDS = 'fields'
     PKEY_OAUTH2 = 'Authorization'
@@ -343,6 +350,7 @@ class MeetupClient(HttpClient, RateLimitHandler):
     # More info in https://github.com/meetup/api/issues/260
     VSTATUS = ['cancelled', 'upcoming', 'past', 'proposed', 'suggested']
     VUPDATED = 'updated'
+    VJOINED = 'joined'
 
     def __init__(self, api_token, max_items=MAX_ITEMS,
                  sleep_for_rate=False, min_rate_to_sleep=MIN_RATE_LIMIT, sleep_time=SLEEP_TIME,
@@ -394,6 +402,23 @@ class MeetupClient(HttpClient, RateLimitHandler):
                 raise RepositoryError(cause=msg)
             else:
                 raise error
+
+    def members(self, group, from_date=DEFAULT_DATETIME):
+        """Fetch the members of a group."""
+
+        date = datetime_to_utc(from_date)
+        date = date.strftime("since:%Y-%m-%dT%H:%M:%S.000Z")
+
+        resource = urijoin(group, self.RMEMBERS)
+
+        params = {
+            self.PORDER: self.VJOINED,
+            self.PSCROLL: date,
+            self.PPAGE: self.max_items
+        }
+
+        for page in self._fetch(resource, params):
+            yield page
 
     def comments(self, group, event_id):
         """Fetch the comments of a given event."""
